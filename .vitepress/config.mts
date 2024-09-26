@@ -33,5 +33,5 @@ export default defineConfig({
     ]
   },
   outDir: "docs",
-  base: "learn-doc"
+  base: "/learn-doc/"
 })
