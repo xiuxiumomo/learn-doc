@@ -32,5 +32,6 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/xiuxiumomo/learn-doc' }
     ]
   },
-  outDir: "docs"
+  outDir: "docs",
+  base: "learn-doc"
 })
