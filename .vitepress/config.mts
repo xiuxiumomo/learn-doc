@@ -12,15 +12,10 @@ export default defineConfig({
     ],
 
     sidebar: [
+   
       {
-        text: 'Examples',
-        items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
-        ]
-      },
-      {
-        text: 'javascript',
+        text: 'javascript基础',
+        collapsed:true,
         items: [
           { text: '数据类型', link: '/src/javascript/base' },
           { text: '错误处理', link: '/src/javascript/error' },
@@ -47,7 +42,32 @@ export default defineConfig({
           { text: 'ES6-5', link: '/src/javascript/ES6-5' },
           { text: 'ES6-6', link: '/src/javascript/ES6-6' },
         ]
-      }
+      },
+      {
+        text: 'Typescript基础',
+        items: []
+      },
+      {
+        text: 'Nodejs',
+        items: []
+      },
+      {
+        text: 'Vue2专栏',
+        items: []
+      },
+      {
+        text: 'Vue3专栏',
+        items: []
+      },
+      {
+        text: 'React',
+        items: []
+      },
+      {
+        text: '其他',
+        items: []
+      },
+     
     ],
 
     socialLinks: [
