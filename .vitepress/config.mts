@@ -5,10 +5,10 @@ export default defineConfig({
   title: "xiuxiumomo学习日常",
   description: "一个学习仓库",
   themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
+   
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: '首页', link: '/' },
+      { text: '快速学习', link: '/markdown-examples' }
     ],
 
     sidebar: [
@@ -22,16 +22,40 @@ export default defineConfig({
       {
         text: 'javascript',
         items: [
-          { text: '基础知识', link: '/src/javascript/base' },
-          { text: 'oop基础知识', link: '/src/javascript/oop' },
+          { text: '数据类型', link: '/src/javascript/base' },
+          { text: '错误处理', link: '/src/javascript/error' },
+          { text: '循环和遍历', link: '/src/javascript/for' },
+          { text: '函数', link: '/src/javascript/function' },
+          { text: '表达式', link: '/src/javascript/my-expression' },
+          { text: '数学', link: '/src/javascript/math' },
+          { text: '时间对象', link: '/src/javascript/time' },
+          { text: '字符串', link: '/src/javascript/string' },
+          { text: '正则', link: '/src/javascript/reg' },
+          { text: '数组', link: '/src/javascript/arrs' },
+          { text: '对象', link: '/src/javascript/object' },
+          { text: 'map和set结构', link: '/src/javascript/map-set' },
+          { text: '面向对象', link: '/src/javascript/oop' },
+          { text: '相等', link: '/src/javascript/equal' },
+          { text: '事件', link: '/src/javascript/events' },
+          { text: '高阶函数', link: '/src/javascript/high-function' },
+          { text: '构造函数', link: '/src/javascript/constructor' },
+          { text: '原型链', link: '/src/javascript/prototype/prototype' },
+          { text: 'ES6-1', link: '/src/javascript/ES6-1' },
+          { text: 'ES6-2', link: '/src/javascript/ES6-2' },
+          { text: 'ES6-3', link: '/src/javascript/ES6-3' },
+          { text: 'ES6-4', link: '/src/javascript/ES6-4' },
+          { text: 'ES6-5', link: '/src/javascript/ES6-5' },
+          { text: 'ES6-6', link: '/src/javascript/ES6-6' },
         ]
       }
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/xiuxiumomo/learn-doc' }
+      { icon: 'github', link: 'https://xiuxiumomo.github.io/learn-doc/' }
     ]
   },
   outDir: "docs",
-  base: "/learn-doc/"
+  base: "/learn-doc/",
+  lastUpdated: true
+  
 })

@@ -1,1 +1,131 @@
-## 我是oop
+## 1.1.工厂模式
+> 工厂模式:每次返回的都是一个对象。优点：只需要传参数，不管其如何实现的。缺点：想添加类型时，必须修改原产品模型。
+- 理解原型
+Object 和Function都是js自带函数，Object继承自己，Function继承自己，相互继承对方，即Object和Function即是函数也是对象
+~~~
+Function instanceof Object //true
+Object instanceof Function //true
+
+Function.prototype // f(){[native code]} 指向函数f() 本身
+Object.prototype // Object
+~~~
+- 理解原型链
+
+JS中所有的函数对象，都有一个 prototype属性，对应当前对象的原型，但普通对象没有，而 prototype属性下还有一个 constructor，指向这个函数。
+~~~
+let p ={}
+p.prototype //undefined
+function f() {}
+f.prototype //object {constructor: f}
+~~~
+- _proto 只有ff和chrome浏览器支持
+JS中所有的对象，都有一个 _proto_属性，指向实例对象的构造函数原型（由于 _proto_是个非标准属性，因此只有ff和chrome两个浏览器支持，标准方法是 Object.getPrototypeOf()）。
+~~~
+let p = new Person()
+p._proto_ === Person.prototype
+~~~
+
+~~~
+ function Person(name, age) {
+        var obj = new Object()
+        obj.name = name
+        obj.age = age
+        obj.fn = function () {
+            return this.name
+        }
+        return obj
+    }
+    var p = Person('jack', 20)
+~~~
+
+### 1.2.构造函数模式
+~~~
+var action = {
+    fn: function() {
+        return 1
+    }
+}
+function Person(name, age) {
+    this.name = name
+    this.age = age
+    this.fn = action.fn
+}
+var p = new Person('jack', 20)
+~~~
+
+### 1.3.原型模式
+~~~
+function Person(name, age) {
+
+    this.name = name
+    this.age = age
+
+}
+Person.prototype = {
+    constructor: Person, //注意这里一定要手动绑定
+    run: function() {
+        return 1
+    }
+}
+
+var p = new Person('jack', 20)
+~~~
+### 1.4.构造函数，构造函数的原型对象，实例化对象三者关系
+~~~
+function Person(name, age) {
+
+        this.name = name
+        this.age = age
+
+    }
+    Person.prototype = {
+        constructor: Person, //注意这里一定要手动绑定
+        run: function() {
+            return 1
+        }
+    }
+
+    var p = new Person('jack', 20)
+
+    // Person 构造函数
+    // Person.prototype 构造函数的原型对象
+    // p 实例化对象
+    p.__proto__ === Person.prototype //一个Person的原型{}
+    p.constructor === Person   //指向一个函数 用来检测是否属于一个类
+    Person.prototype //一个Person的原型{}
+~~~
+
+
+### 2.1构造函数的继承(组合式继承)
+~~~
+function Person(name,age) {
+    this.name = name
+    this.age = age
+}
+Person.prototype.firends = [1,2,4]
+function Student(name) {
+    Person.call(this,name)
+}
+Student.prototype = Object.assign({},Person.prototype)
+Student.prototype.constructor = Student;
+~~~
+
+### 3.1 ES6类的概念
+~~~
+class Person{
+    constructor(name) {
+        this.name = name
+    }
+    getName() {
+        return this.name
+    }
+}
+let p =new Person('jack')
+
+class Child extends Person {
+     constructor() {
+        super()
+    }
+}
+~~~
+

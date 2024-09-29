@@ -1,0 +1,188 @@
+## 1.闭包
+
+> 1.1 闭包: 有权访问另一个函数作用域中的变量函数，本质还是函数。闭包的特性
+
+-   在一个函数内部定义
+-   函数内部可以引用函数外部的变量。
+-   参数和变量不会被回收。
+
+-   将一个变量长期保存在内存中。(变量不销毁)
+-   避免全局污染。
+-   私有化成员，外部不可以访问
+
+```
+function Fun() {
+    let x = 1;
+    let Fa = function() {
+        x++;
+        return x;
+    }
+    return Fa;
+}
+let fn = Fun();
+Fn.fa() //2
+Fn.fa() //3
+
+//私有化成员
+function Fun() {
+    let a = 1;
+    function f1() {
+        a++;
+        return a;
+    }
+    function f2() {
+        a++;
+        return a;
+    }
+    return {f1,f2};
+}
+let fn = Fun();
+fn.f1() //私有化成员想要获取f1() 必须先调用Fun
+
+```
+
+> 1.2 闭包易错点
+
+-   引用的变量发生变化
+
+```
+function Fun() {
+    let arr = [];
+    for(var i=0;i<10;i++){
+        a[i] = function() {
+            return i;
+        }
+    }
+    return arr;
+}
+let Fn = Fun();
+Fn[0]() //10
+Fn[1]() //10
+//此时return i 访问的都是Fun下的i值(10)
+//解决办法 1.把var 换成let  2.闭包
+function Fun() {
+    let arr = [];
+    for(var i=0;i<10;i++){
+        a[i] = function(index) {
+            let _index = index;  //b
+            return function(_index) { //a
+                return _index
+            };
+        }
+    }(i)
+    return arr;
+}
+此时a的作用域在b里面
+
+```
+
+> 1.3 闭包 this 的指向问题
+
+```
+let obj = {
+    x: 5,
+    fn: function() {
+        return function(){
+            rerturn this.x;
+        }
+    }
+}
+obj.fn()() // undefined 说明this指向了window
+```
+
+> 1.4 内存泄漏问题
+
+```
+function Fun() {
+    let a = document.getElementById('btn');
+    a.onClick = function(){
+        return a.id
+    }
+    a = null //手动释放
+
+}
+//这么做的话a变量会一直保存而无法释放 建议手动释放
+```
+
+## 2.防抖函数实现
+
+### 2.1 防抖
+
+> 防抖的概念：某些 dom 事件如输入框持续输入，页面发生拖拽等，页面大小发生改变 resize 事件等。原理: debounce(防抖动)，像挤压弹簧一样，按下去只要不松手就不会上弹，中间怎么压都没有反应。实现原理：创建一个函数返回闭包，该闭包在（1s）指定的时间内只执行一次。
+
+```
+function debounce(fn,time=1000) {
+    let timer = null
+    return function() {
+        let context = this
+        let arg = arguments  //这两步绑定正确的作用域，谁调用就指向谁，否则指向window
+        clearTimeout(timer)
+        timer = setTimeout(()=>{
+            fn.apply(context,arg)
+        },time)
+    }
+}
+
+ //用input测试
+ window.onload=function() {
+       document.getElementById('inp').onkeyup = debounce(function(e){
+            console.log('结束了')
+            console.log(e)
+       },1000)
+    }
+```
+
+### 2.1.1 关于闭包中 this 的指向问题
+
+```
+let obj = {
+    name: '张三',
+    getName: function() {
+        return function() {
+            console.log(this)
+            console.log(arguments)
+            return this.name
+        }
+    }
+}
+let res = obj.getName()() //''
+//==
+let fn = obj.getName()
+fn()//此时的this明显指向window
+可以写成
+fn.call(obj,1,2) 这个时候this绑定为obj arguments变为 1,2
+```
+
+## 2.2 节流函数
+
+> 节流的概念：某些 dom 事件如鼠标移动，滚动到底部触发事件等。原理: throttle(节流)，原本的函数可能 20ms 执行一次，1s 内 50 次(1000/20)，使用节流函数控制执行的次数改成 250ms 那么 1s 内只执行 4 次 1000/250。实现原理：创建一个函数返回闭包，该闭包每过 250ms 执行一次
+
+```
+function throttle(fn,threshhold=250) {
+    let last=null,timer = null
+    return function() {
+        let now =+new Date()
+        let context = this
+        let arg = arguments
+        if(last && now<last+threshhold) {
+            clearTimeOut(timer)
+            timer = setTimeOut(function(){
+                last = now //执行以后重新计算时间
+                fn.apply(context,arg)
+            },threshhold)
+        }else{
+            last = now
+            fn.apply(context,arg)
+        }
+    }
+}
+
+document.getElementById('aa').onmousemove=function() {
+    console.log('不节流移动')
+}
+document.onmousemove=throttle((e)=>{
+    console.log('节流移动')
+},250)
+```
+
+注明：该文章是在原文[前端自习课](https://mp.weixin.qq.com/s/-HPtViPA926BwNp599555w)修改而得，感谢原作者！
