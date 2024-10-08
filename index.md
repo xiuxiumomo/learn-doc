@@ -9,10 +9,8 @@ hero:
   actions:
     - theme: brand
       text:  快速开始
-      link: /markdown-examples
-    - theme: alt
-      text: 常用文档
-      link: /api-examples
+      link: /home
+   
 
 features:
   - title: vue相关

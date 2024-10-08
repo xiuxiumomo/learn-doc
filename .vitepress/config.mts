@@ -1,3 +1,9 @@
+/*
+ * @Author: xiuxiumomo 
+ * @Date: 2024-10-08 15:44:22 
+ * @Last Modified by: xiuxiumomo
+ * @Last Modified time: 2024-10-08 15:55:12
+ */
 import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
@@ -8,14 +14,14 @@ export default defineConfig({
    
     nav: [
       { text: '首页', link: '/' },
-      { text: '快速学习', link: '/markdown-examples' }
+      { text: '快速学习', link: '/' }
     ],
 
     sidebar: [
    
       {
         text: 'javascript基础',
-        collapsed:true,
+        collapsed:false,
         items: [
           { text: '数据类型', link: '/src/javascript/base' },
           { text: '错误处理', link: '/src/javascript/error' },
@@ -45,6 +51,7 @@ export default defineConfig({
       },
       {
         text: 'Typescript基础',
+        collapsed:true,
         items: [
           { text: '简介', link: '/src/typescript/intro' },
           { text: '基本用法', link: '/src/typescript/basic' },
