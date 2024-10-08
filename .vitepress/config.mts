@@ -46,11 +46,36 @@ export default defineConfig({
       {
         text: 'Typescript基础',
         items: [
-          { text: '类型系统', link: '/src/typescript/类型系统' },
-          { text: '数组', link: '/src/typescript/数组' },
-          { text: '元组', link: '/src/typescript/元组' },
-          { text: 'symbol类型', link: '/src/typescript/symbol类型' },
-          { text: '函数', link: '/src/typescript/函数' },
+          { text: '简介', link: '/src/typescript/intro' },
+          { text: '基本用法', link: '/src/typescript/basic' },
+          { text: 'any类型', link: '/src/typescript/any' },
+
+          { text: '类型系统', link: '/src/typescript/types' },
+          { text: '数组', link: '/src/typescript/array' },
+          { text: '元组', link: '/src/typescript/tuple' },
+          { text: 'symbol类型', link: '/src/typescript/symbol' },
+          { text: '函数', link: '/src/typescript/function' },
+
+
+          { text: '对象', link: '/src/typescript/object' },
+          { text: 'interface', link: '/src/typescript/interface' },
+          { text: '类', link: '/src/typescript/class' },
+          { text: '泛型', link: '/src/typescript/generics' },
+          { text: 'Enum 类型', link: '/src/typescript/enum' },
+          { text: '类型断言', link: '/src/typescript/assert' },
+          { text: '模块', link: '/src/typescript/module' },
+          { text: 'namespace', link: '/src/typescript/namespace' },
+          { text: '装饰器', link: '/src/typescript/decorator' },
+          { text: '装饰器（旧语法）', link: '/src/typescript/decorator-legacy' },
+          { text: 'declare 关键字', link: '/src/typescript/declare' },
+          { text: 'd.ts 类型声明文件', link: '/src/typescript/dts' },
+          { text: '运算符', link: '/src/typescript/operator' },
+          { text: '类型映射', link: '/src/typescript/mapping' },
+          { text: '类型工具', link: '/src/typescript/utility' },
+          { text: '注释指令', link: '/src/typescript/comment' },
+          { text: 'tsconfig.json 文件', link: '/src/typescript/tsconfig.json.md' },
+          { text: 'tsc 命令', link: '/src/typescript/tsc' },
+          { text: 'React 支持', link: '/src/typescript/react' },
         ]
       },
       {
