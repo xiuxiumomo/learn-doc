@@ -33,7 +33,7 @@ export default defineConfig({
           { text: '相等', link: '/src/javascript/equal' },
           { text: '事件', link: '/src/javascript/events' },
           { text: '高阶函数', link: '/src/javascript/high-function' },
-          { text: '构造函数', link: '/src/javascript/constructor' },
+      
           { text: '原型链', link: '/src/javascript/prototype/prototype' },
           { text: 'ES6-1', link: '/src/javascript/ES6-1' },
           { text: 'ES6-2', link: '/src/javascript/ES6-2' },
@@ -45,7 +45,13 @@ export default defineConfig({
       },
       {
         text: 'Typescript基础',
-        items: []
+        items: [
+          { text: '类型系统', link: '/src/typescript/类型系统' },
+          { text: '数组', link: '/src/typescript/数组' },
+          { text: '元组', link: '/src/typescript/元组' },
+          { text: 'symbol类型', link: '/src/typescript/symbol类型' },
+          { text: '函数', link: '/src/typescript/函数' },
+        ]
       },
       {
         text: 'Nodejs',

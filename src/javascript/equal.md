@@ -18,7 +18,7 @@
 * 两个都是对象,比较是否是同一个对象
 
 ### 3.全等比较
-~~~
+~~~js
 99=='99' //true
 99==='99' //false
 //特殊的
@@ -32,7 +32,7 @@ null === undefined //false 类型不同
 * 两个值是由相同个数的字符按照相同的顺序组成的字符串
 * 两个值指向同一个对象
 * 两个值都是数字并且
-~~~
+~~~js
 Object.is(window, window);   // true
 
 Object.is('a', 'a');     // false
@@ -48,5 +48,5 @@ Object.is(NaN, 0/0);         // true
 
 ~~~
 
-注明：该文章是在原文[前端自习课](https://mp.weixin.qq.com/s/-HPtViPA926BwNp599555w)修改而得，感谢原作者！
+
 

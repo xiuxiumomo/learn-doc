@@ -16,7 +16,7 @@ js中创建的对象从创建开始时就和另一个对象关联，从另一个
 对象自身上不存某个属性时，会向上从原型中查找，如果还没找到继续向原型的原型上查找，直到顶层结束。这条查找链路就叫原型链。
 
 - 原型存在的意义： 组成原型链。
-- 原型链存在的意义：继承。一个对象上找不到某个属性时，会向原型链查找。 
+- 原型链存在的意义：继承，一个对象上找不到某个属性时，会向原型链查找。 
 - 继承存在的意义： 1.属性共享。2.可扩展。
 
 ## 对象和创建对象
@@ -61,9 +61,9 @@ const p2 = new Person();
 p2.eat() // eat
 ```
 上面的例子能达到共享属性的能力，但是试想一下，要添加的属性很多呢，每次需要先建p1操作p1.__proto__非常不合理。这个时候就要用到刚刚的原型对象了，
-p1.__proto__ === Person.prototype,每一个构造函数有一个prototype属性.
+`p1.__proto__ === Person.prototype`,每一个构造函数有一个prototype属性.
 ![img](./prototype.png)
-这样通过操作Person.prototype属性就能达到共享的母的。
+这样通过操作`Person.prototype`属性就能达到共享的目的。
 
 ```js
 function Person() {}
@@ -225,7 +225,9 @@ function myNew(Func,...arg) {
   if(typeof Func !=="function") {
     throw new Error("传入的参数必须是function")
   }
+  //创建对象，将对象的__proto__指向Func.prototype
   let newObj = Object.create(Func.prototype)
+  //执行构造函数，修正this指向
   let res = Func.apply(newObj,arg);
   return res instanceof Object ?res:newObj
 }
@@ -239,3 +241,5 @@ const p = myNew(Person,'jack',20)
 
 
 ```
+
+![img](./new.png)
