@@ -1,4 +1,9 @@
-// 推断类型为 number[]
-let arr: (number|string)[] = [123];
+type MyFunc = ()=> void
 
-arr.push("abc"); // 报错
+const f: MyFunc = ()=> {
+  return 1
+}
+
+const f3: MyFunc = ()=> {
+  return 1
+}

@@ -2,13 +2,13 @@
  * @Author: xiuxiumomo 
  * @Date: 2024-10-08 15:44:22 
  * @Last Modified by: xiuxiumomo
- * @Last Modified time: 2024-10-08 15:55:12
+ * @Last Modified time: 2024-10-28 10:07:19
  */
 import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "xiuxiumomo学习日常",
+  title: "xiuxiumomo",
   description: "一个学习仓库",
   themeConfig: {
    
@@ -51,19 +51,16 @@ export default defineConfig({
       },
       {
         text: 'Typescript基础',
-        collapsed:true,
+        collapsed:false,
         items: [
           { text: '简介', link: '/src/typescript/intro' },
           { text: '基本用法', link: '/src/typescript/basic' },
           { text: 'any类型', link: '/src/typescript/any' },
-
           { text: '类型系统', link: '/src/typescript/types' },
           { text: '数组', link: '/src/typescript/array' },
           { text: '元组', link: '/src/typescript/tuple' },
           { text: 'symbol类型', link: '/src/typescript/symbol' },
           { text: '函数', link: '/src/typescript/function' },
-
-
           { text: '对象', link: '/src/typescript/object' },
           { text: 'interface', link: '/src/typescript/interface' },
           { text: '类', link: '/src/typescript/class' },
@@ -103,13 +100,17 @@ export default defineConfig({
       },
       {
         text: '其他',
-        items: []
+        collapsed:false,
+        items: [
+          { text: '手写常见方法', link: '/src/other/write-js/index.md' },
+  
+        ]
       },
      
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://xiuxiumomo.github.io/learn-doc/' }
+      { icon: 'github', link: 'https://github.com/xiuxiumomo/learn-doc/' }
     ]
   },
   outDir: "docs",

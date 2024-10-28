@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <script>
+      function throttle(fn, limit = 1000) {
+        let time = Date.now();
+        return function (...arg) {
+          const nows = Date.now();
+          const that = this;
+          if (nows - time >= limit) {
+            fn.apply(that, arg);
+            time = nows;
+          }
+        };
+      }
+
+      window.addEventListener("resize", throttle(function(e) {
+        console.log('执行')
+      }));
+    </script>
+  </body>
+</html>
