@@ -1,21 +1,14 @@
-let p1 = new Promise((resolve, reject) => {
-  setTimeout(() => {
-      reject(1)
-  }, 1000)
-})
-let p2 = new Promise((resolve, reject) => {
-  setTimeout(() => {
-      resolve(2)
-  }, 2000)
-})
+function filter(arr, fn) {
+  const res = [];
+  for (let i = 0; i < arr.length; i++) {
+    if (fn(arr[i])) {
+      res.push(arr[i]);
+    }
+  }
+  return res;
+}
 
+const arr = [1, 2, 3];
 
-
-
-Promise.race([p1,p2])
-.then((value) => {
-    console.log(value); // 输出: "第一个完成"
-})
-.catch((error) => {
-    console.log("有任务失败:", error);
-});
+const res = arr.map( (item) => item * 2);
+console.log(res);
