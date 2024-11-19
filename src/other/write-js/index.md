@@ -410,3 +410,524 @@ function throttle(fn,limit=1000) {
 window.addEventListener('resize',throttle((e)=> console.log('变化了'))
 
 ```
+## 实现获取数据类型
+
+> 首先要明白有多少种数据类型，常见的数据类型请见[基础知识](/src/javascript/base.html)
+
+
+注意
+这里的null比较特殊，使用typeof返回的是object所以要单独处理
+
+列子:🫡
+
+
+实现思路：🤔
+- 处理特殊的null类型
+- 使用Object.prototype.toString方法获取所有的类如 `Function` `Date` `Rexp`等因为`typeof value`都是object
+- 使用typeof获取基础的数据类型 `number` `string` `undefined`等
+
+
+实现过程：✍️
+
+```js
+function getType(value) {
+  if(value===null) return 'null';
+ 
+  if(typeof value==='object') {
+     //可能的值
+  // [object Array]
+  // [object Date]
+  // [object RegExp]
+  // [object Symbol]
+  // [object Function]
+  // [object Object]
+    const type = Object.prototype.toString.call(value);
+    const typenames = type.replace('[object ',"").replace("]","");
+    return typenames.toLowerCase()
+  }
+  return typeof value
+  
+}
+```
+
+使用方法：🦖
+
+```js
+function getType(value) {
+  if(value===null) return 'null';
+ 
+  if(typeof value==='object') {
+     //可能的值
+  // [object Array]
+  // [object Date]
+  // [object RegExp]
+  // [object Symbol]
+  // [object Function]
+  // [object Object]
+  // 口诀 ad 躲在 草里r 被蛇 s咬了 （fb）i 来抓蛇
+    const type = Object.prototype.toString.call(value);
+    const typenames = type.replace('[object ',"").replace("]","");
+    return typenames.toLowerCase()
+  }
+  return typeof value
+  
+}
+
+
+// 示例用法
+console.log(getType(123)); // "number"
+console.log(getType("Hello")); // "string"
+console.log(getType(true)); // "boolean"
+console.log(getType(null)); // "null"
+console.log(getType([])); // "array"
+console.log(getType({})); // "object"
+console.log(getType(function() {})); // "function"
+console.log(getType(Symbol())) //symbol
+
+console.log(getType(undefined)) //undefined
+console.log(getType(new Date())) //symbol
+console.log(getType(new RegExp())) //regex
+console.log(getType(2n)) //bigint
+```
+
+
+
+## apply实现
+
+> apply，和call,bind是js中function带有的改变this指向的方法。apply和call不同之处在于传参数。
+
+前提
+this指向问题是一个老生常谈话题，那么this指向有哪些情况呢
+- 非严格模式下this指向全局window
+```js
+console.log(this)
+```
+- 普通的函数调用，this指向全局window，严格模式下指向undefined
+```js
+function showThis() {
+  console.log(this)
+}
+showThis()
+```
+- 方法调用，如一个对象中有一个方法属性，调用该属性时指向该对象。
+```js
+const obj =  {
+  name: "jack",
+  getName: function() {
+    return this.name
+  }
+}
+obj.name(); // jack
+```
+
+- 构造函数，使用`new`关键词时,`this`指向创建的实例。
+```js
+
+function Person(name) {
+  this.name = name;
+} 
+const p = new Person('jack')
+p.name; //jack
+```
+
+- 箭头函数，箭头函数不创建`this`,它会从外部继承`this`,因此`this`的值取决于上下文
+```js
+
+const obj = {
+  name: "jack",
+  sayName: function() {
+    // this的范围是这里
+    const fn = ()=> console.log(this.name);
+    fn();
+  }
+}
+obj.sayName() //jack
+```
+
+- 手动绑定 call() 、 apply()  和  bind()  方法显式地设置  this  的指向。
+  
+```js
+function greet() {
+    console.log(this.name);
+}
+
+const obj = { name: 'David' };
+
+greet.call(obj); // 输出: "David"
+greet.apply(obj); // 输出: "David"
+
+const boundGreet = greet.bind(obj);
+boundGreet(); // 输出: "David"
+```
+
+口诀
+
+诸葛亮严格构造箭头，草船绑定普通调用  
+
+
+
+
+
+有了上面的基本this指向情况介绍，我们可以手动实现最后一个里面的apply了
+
+列子:🫡
+```js
+function greet() {
+    console.log(this.name);
+}
+
+const obj = { name: 'David' };
+
+greet.apply(obj); // 输出: "David"
+```
+实现思路：🤔
+
+- 在新对象上创建一个greet方法
+- 执行greet方法
+- 先对象上销毁greet方法
+
+
+实现过程：✍️
+```js
+// 第一步骤
+const obj = {
+  name: 'David',
+  greet: function() {
+    console.log(this.name)
+  }
+}
+//第二步
+obj.greet();
+//第三步
+delete obj.greet
+
+//抽象出来在函数的原型上扩展
+Function.prototype.myApply = function (obj={}, arg = []) {
+  //greet方法本身
+  const context = this;
+  //为了防止重复，新建的属性名唯一
+  const key = Symbol();
+  //在对象属性赋值
+  obj[key] = context;
+  //执行方法
+  const res = obj[key](...arg);
+  //删除属性
+  delete obj[key];
+  return res;
+};
+
+
+```
+
+
+
+使用方法：🦖
+```js
+function greet(age,sex) {
+  console.log(this.name,age,sex);
+}
+
+const obj = { name: "David" };
+
+greet.myApply(obj,[25,'男']); //David 25 男
+```
+
+
+## 手写call方法
+
+> call方法和apply方法思路一致,只是传参不一样。
+
+实现思路：🤔
+```js
+Function.prototype.myCall = function (obj={}, ...arg) {
+  //greet方法本身
+  const context = this;
+  //为了防止重复，新建的属性名唯一
+  const key = Symbol();
+  //在对象属性赋值
+  obj[key] = context;
+  //执行方法
+  const res = obj[key](...arg);
+  //删除属性
+  delete obj[key];
+  return res;
+};
+```
+
+使用方法：🦖
+
+```js
+function greet(age,sex) {
+  console.log(this.name,age,sex);
+}
+
+const obj = { name: "David" };
+
+greet.myCall(obj,25,'男'); //David 25 男
+```
+
+## 实现浅拷贝shallowCopy
+
+> 浅拷贝，拷贝的对象或者数组，拷贝的是引用地址，源数据改变拷贝的变量也会改变。
+> js中自带的浅拷贝方法如： `...`,`object.assign`等能实现基本的浅拷贝方法。
+
+
+实现思路：🤔
+- 判断是否是数组或者对象
+- 使用obj.getOwnProperty判断属性来源是否是自身。
+
+
+实现过程：✍️
+```js
+function shallowCopy(obj) {
+  if (obj === null || typeof obj !== "object") return;
+
+  const newObj = Array.isArray(obj) ? [] : {};
+  for (let k in obj) {
+    if (obj.hasOwnProperty(k)) {
+      newObj[k] = obj[k];
+    }
+  }
+  return newObj;
+}
+```
+使用方法：🦖
+
+```js
+const o = {
+  name: 'jack',
+  n: {
+    m: 20
+  }
+}
+const co = shallowCopy(o)
+
+//co改变了引用地址的值
+co.n.m = 30
+console.log(o,'o')
+console.log(co,'co')
+
+
+// { name: 'jack', n: { m: 30 } } o
+// { name: 'jack', n: { m: 30 } } co
+```
+
+
+
+
+## 实现deepCopy方法
+
+> deepCopy方法完全复制出一份obj或者array,修改复制后的方法，源数据不受影响
+
+
+
+
+
+
+实现思路：🤔
+- 在浅拷贝的基础上采用递归判断
+
+
+实现过程：✍️
+
+```js
+
+function deepCopy(obj) {
+  if (obj === null || typeof obj !== "object") return nulll;
+
+  const newObj = Array.isArray(obj) ? [] : {};
+  for (let k in obj) {
+    if (obj.hasOwnProperty(k)) {
+      newObj[k] = typeof obj[k] === "object" ?    ;
+    }
+  }
+  return newObj;
+}
+```
+
+
+使用方法：🦖
+
+```js
+
+const o = {
+  name: "jack",
+  n: {
+    m: 20,
+  },
+};
+const co = deepCopy(o);
+
+co.n.m = 30;
+console.log(o, "o");
+console.log(co, "co");
+
+// { name: 'jack', n: { m: 20 } } o
+// { name: 'jack', n: { m: 30 } } co
+
+```
+
+
+
+
+
+## 实现reduce方法
+> reduce方法用于累加数据
+
+
+列子:🫡
+```js
+const arr = [1,2,3]
+const res = arr.reduce((sum,item)=> sum+=item,0)
+```
+
+
+实现思路：🤔
+
+- 采用递归方法从头累加
+
+- 每次递归后采用slice方法将arr去除第一个元素，再次递归
+
+
+实现过程：✍️
+```js
+function reduce(arr) {
+  if(arr.length===1) return arr[0];
+  return arr[0] + reduce(arr.slice(1))
+}
+```
+
+
+使用方法：🦖
+```js
+function reduce(arr) {
+  if(arr.length===1) return arr[0]
+  return arr[0] + reduce(arr.slice(1))
+}
+
+const arr = [1,2,3]
+console.log(reduce(arr)) //6
+```
+
+
+## 实现push方法
+> push方法是js自带的添加元素的方法
+
+列子:🫡
+```js
+const arr = [];
+arr.push(1,2,3,4)
+
+console.log(arr) // 1,2,3,4
+```
+
+
+实现思路：🤔
+- 定义参数arg
+- 采用循环的方法，扩展数组的长度
+
+实现过程：✍️
+```js
+function push(arr, ...arg) {
+  for (let i = 0; i < arg.length; i++) {
+    //动态的arr.length
+    arr[arr.length] = arg[i];
+  }
+  return arg.length;
+}
+```
+
+使用方法：🦖
+
+```js
+const arr = [];
+push(arr, 1, 2, 3, 4);
+console.log(arr);
+
+```
+
+
+
+## 实现filter方法
+
+
+实现思路：🤔
+- 定义一个数组存储返回值
+- 遍历数组，将每一项执行回调函数
+- 如果是真，数组加入该项
+实现过程：✍️
+```js
+function filter(arr, fn) {
+  const res = [];
+  for (let i = 0; i < arr.length; i++) {
+    if (fn(arr[i])) {
+      res.push(arr[i]);
+    }
+  }
+  return res
+}
+```
+使用方法：🦖
+
+```js
+const arr = [1, 2, 3];
+
+const res = filter(arr,(item) => item > 2)
+console.log(res)
+```
+
+
+
+
+
+## 实现map方法
+
+列子:🫡
+```js
+const arr = [1, 2, 3];
+const res = arr.map( (item) => item * 2);
+console.log(res);
+
+```
+
+实现思路：🤔
+- 和filter差不多，只是不需要根据真值判断
+
+实现过程：✍️
+
+```js
+function map(arr, fn) {
+  const res = [];
+  for (let i = 0; i < arr.length; i++) {
+    res.push(fn(arr[i]));
+  }
+  return res
+}
+```
+使用方法：🦖
+
+```js
+
+const arr = [1, 2, 3];
+
+const res = map(arr,(item) => item * 2);
+console.log(res);
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 
+列子:🫡
+实现思路：🤔
+实现过程：✍️
+使用方法：🦖 -->

@@ -114,7 +114,7 @@ export default defineConfig({
     ]
   },
   outDir: "docs",
-  base: "/learn-doc/",
+ 
   lastUpdated: true
   
 })
