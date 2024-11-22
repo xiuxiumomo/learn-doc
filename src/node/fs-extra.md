@@ -1,4 +1,7 @@
- 
+## fs-extra
+> fs-extra是在node原生文件读写的基础上做二次封装支持同步和异步
+
+
 ## copySync 复制目录
 
 

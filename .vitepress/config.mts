@@ -84,7 +84,11 @@ export default defineConfig({
       },
       {
         text: 'Nodejs',
-        items: []
+       
+        collapsed:false,
+        items: [
+          { text: 'fs-extra', link: '/src/node/fs-extra' },
+        ]
       },
       {
         text: 'Vue2专栏',
