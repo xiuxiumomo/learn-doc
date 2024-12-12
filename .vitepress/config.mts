@@ -104,7 +104,10 @@ export default defineConfig({
       },
       {
         text: 'Linux',
-        items: [ { text: 'docker常用服务部署', link: '/src/linux/docker-server' },]
+        items: [ 
+          { text: 'docker基础知识', link: '/src/linux/docker-base' },
+          { text: 'docker常用服务部署', link: '/src/linux/docker-server' }
+        ]
       },
       {
         text: '其他',
