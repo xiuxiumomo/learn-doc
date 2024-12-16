@@ -5,7 +5,7 @@
 visit: https://doc.xiuxiumomo.com
 
  more info visit website https://xiuxiumomo.github.io/learn-doc
-```
+```js
 learn-doc
 ├─ .gihub
 │  └─ workflows
@@ -336,5 +336,16 @@ learn-doc
    │  ├─ types.md
    │  └─ utility.md
    └─ vue
+
+```
+
+## docker构建镜像
+
+```shell
+docker build -t vitepress-docs .
+
+
+docker run -p 8888:80 vitepress-docs
+
 
 ```
