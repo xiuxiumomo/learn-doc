@@ -9,7 +9,8 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "xiuxiumomo",
-  description: "一个学习仓库",
+  
+  description: "前端学习，Vue,vue2,vue3,typescript,linux学习，docker,docker学习",
   themeConfig: {
    
     nav: [
@@ -105,8 +106,12 @@ export default defineConfig({
       {
         text: 'Linux',
         items: [ 
+          { text: 'linux基本指令', link: '/src/linux/linux-base' },
+          { text: 'Linux环境脚本', link: '/src/linux/linux-front' },
           { text: 'docker基础知识', link: '/src/linux/docker-base' },
-          { text: 'docker服务部署', link: '/src/linux/docker-server' }
+          { text: 'docker服务部署', link: '/src/linux/docker-server' },
+          { text: 'docker部署wordpress', link: '/src/linux/docker-wordpress' },
+         
         ]
       },
       {
