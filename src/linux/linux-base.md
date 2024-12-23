@@ -87,7 +87,25 @@ ln -s src-file dst-file ## 建立软链接
 find path -name string ## 查找路径所在范围内满足字符串匹配的文件和目录  
 cat filename ## 显示文件内容  
 head -n 2 filename ## 显示文件前两行的内容  
-tail -n 2 filename ## 显示文件末尾两行的内容  
+tail -n 2 filename ## 显示文件末尾两行的内容 
+
+df -hl 
+
+du -sh dir
+du -sh *   ##cd /下面 获取所有大小
+
+du -h  .  ## 查看系统内所有文件大小
+
+
+tar zcvf 2020-11-15-23.tar.gz 2020-11-15-access.log 
+
+tar -czvf a.tar.gz 1.txt 2.txt  ##将1.txt 2.txt 压缩成a.tar.gz
+## 解压文件
+tar zvxf 压缩文件名.tar.gz 
+
+```
+
+
 ```
 
 终端快捷键  
@@ -198,3 +216,14 @@ vi /etc/hosts ## 编辑 hosts 文件
 ```shell
 124.522.111.111 yourdomain.com ## 添加域名映射
 ```  
+
+
+
+
+
+
+
+
+
+
+
