@@ -21,8 +21,8 @@ export default defineConfig({
     sidebar: [
    
       {
-        text: 'javascript基础',
-        collapsed:false,
+        text: 'javascript',
+        collapsed:true,
         items: [
           { text: '数据类型', link: '/src/javascript/base' },
           { text: '错误处理', link: '/src/javascript/error' },
@@ -51,8 +51,8 @@ export default defineConfig({
         ]
       },
       {
-        text: 'Typescript基础',
-        collapsed:false,
+        text: 'Typescript',
+        collapsed:true,
         items: [
           { text: '简介', link: '/src/typescript/intro' },
           { text: '基本用法', link: '/src/typescript/basic' },
@@ -86,17 +86,17 @@ export default defineConfig({
       {
         text: 'Nodejs',
        
-        collapsed:false,
+        collapsed:true,
         items: [
           { text: 'fs-extra', link: '/src/node/fs-extra' },
         ]
       },
       {
-        text: 'Vue2专栏',
+        text: 'Vue2',
         items: []
       },
       {
-        text: 'Vue3专栏',
+        text: 'Vue3',
         items: []
       },
       {
@@ -104,7 +104,21 @@ export default defineConfig({
         items: []
       },
       {
+        text: 'Nestjs',
+        collapsed:true,
+        items: [
+          { text: 'nestjs基础', link: '/src/nestjs/about' },
+          { text: 'controller', link: '/src/nestjs/controller' },
+          { text: 'provider', link: '/src/nestjs/provider' },
+          { text: 'module', link: '/src/nestjs/module' },
+          { text: 'nestfactory', link: '/src/nestjs/nestfactory' },
+          { text: 'middleware', link: '/src/nestjs/middleware' },
+          { text: 'filter', link: '/src/nestjs/filter' },
+        ]
+      },
+      {
         text: 'Linux',
+        collapsed:true,
         items: [ 
           { text: 'linux基本指令', link: '/src/linux/linux-base' },
           { text: 'Linux环境脚本', link: '/src/linux/linux-front' },
@@ -116,7 +130,8 @@ export default defineConfig({
       },
       {
         text: '其他',
-        collapsed:false,
+        collapsed:true,
+        
         items: [
           { text: '手写常见方法', link: '/src/other/write-js/index.md' },
   
