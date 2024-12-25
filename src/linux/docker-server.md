@@ -75,6 +75,38 @@ mysql:5.7.30
 
 ```
 
+
+
+### docker安装redis
+
+新建目录，用来挂载redis的数据目录到本机
+
+```shell
+
+
+mkdir -p /mnt/redis/conf
+mkdir -p /mnt/redis/data
+
+## 创建文件
+touch /mnt/redis/conf/redis.conf
+````
+
+
+```shell
+docker run \
+--restart=always \
+--log-opt max-size=100m \
+--log-opt max-file=2 \
+-p 6380:6379 \
+--name redis \
+-v /mnt/redis/conf/redis.conf:/etc/redis/redis.conf  \
+-v /mnt/redis/data:/data \
+-d redis redis-server /etc/redis/redis.conf \
+--appendonly yes \
+--requirepass yourpassword 
+```
+
+
 ### docker安装verdaccio
 
 先创建挂载目录

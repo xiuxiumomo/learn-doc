@@ -114,6 +114,9 @@ export default defineConfig({
           { text: 'nestfactory', link: '/src/nestjs/nestfactory' },
           { text: 'middleware', link: '/src/nestjs/middleware' },
           { text: 'filter', link: '/src/nestjs/filter' },
+          { text: '使用typeorm', link: '/src/nestjs/typeorm' },
+          { text: '使用ioredis', link: '/src/nestjs/ioredis' },
+          { text: '使用logger', link: '/src/nestjs/logger' },
         ]
       },
       {
@@ -125,6 +128,12 @@ export default defineConfig({
           { text: 'docker基础知识', link: '/src/linux/docker-base' },
           { text: 'docker服务部署', link: '/src/linux/docker-server' },
           { text: 'docker部署wordpress', link: '/src/linux/docker-wordpress' },
+          {
+            text: 'nginx基础', link: '/src/linux/nginx-base'
+          },
+          {
+            text: 'shell和定时任务', link: '/src/linux/shell-app'
+          }
          
         ]
       },
