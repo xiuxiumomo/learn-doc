@@ -117,6 +117,7 @@ export default defineConfig({
           { text: '使用typeorm', link: '/src/nestjs/typeorm' },
           { text: '使用ioredis', link: '/src/nestjs/ioredis' },
           { text: '使用logger', link: '/src/nestjs/logger' },
+          { text: '使用config', link: '/src/nestjs/config' },
         ]
       },
       {
