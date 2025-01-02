@@ -144,12 +144,11 @@ export default defineConfig({
         
         items: [
           { text: '手写常见方法', link: '/src/other/write-js/index.md' },
-  
+          { text: 'a-z记忆法', link: '/src/other/english/a-z.md' },
         ]
       },
      
     ],
-
     socialLinks: [
       { icon: 'github', link: 'https://github.com/xiuxiumomo/learn-doc/' }
     ]
