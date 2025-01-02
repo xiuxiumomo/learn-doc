@@ -12,7 +12,6 @@ export default defineConfig({
   
   description: "前端学习，Vue,vue2,vue3,typescript,linux学习，docker,docker学习",
   themeConfig: {
-   
     nav: [
       { text: '首页', link: '/' },
       { text: '快速学习', link: '/' }
