@@ -47,6 +47,7 @@ export default defineConfig({
           { text: 'ES6-4', link: '/src/javascript/ES6-4' },
           { text: 'ES6-5', link: '/src/javascript/ES6-5' },
           { text: 'ES6-6', link: '/src/javascript/ES6-6' },
+          { text: '手写常见方法', link: '/src/other/write-js/index.md' },
         ]
       },
       {
@@ -142,8 +143,10 @@ export default defineConfig({
         collapsed:true,
         
         items: [
-          { text: '手写常见方法', link: '/src/other/write-js/index.md' },
+        
           { text: 'a-z记忆法', link: '/src/other/english/a-z.md' },
+          { text: '五十音对照', link: '/src/other/japan/my-table.md' },
+         
         ]
       },
      
