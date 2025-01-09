@@ -106,10 +106,10 @@ tar zvxf 压缩文件名.tar.gz
 ```
 
 
-```
-
-终端快捷键  
 ```shell
+
+## 终端快捷键  
+
 ctrl + l ## 清屏  
 ctrl + c ## 终止命令  
 ctrl + d ## 退出 shell  
