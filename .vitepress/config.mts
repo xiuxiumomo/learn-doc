@@ -10,7 +10,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "xiuxiumomo",
   
-  description: "前端学习，Vue,vue2,vue3,typescript,linux学习，docker,docker学习",
+  description: "WEB3,空头项目，撸空投，薅羊毛，AI薅羊毛，空投入门，前端学习，Vue,vue2,vue3,typescript,linux学习，docker,docker学习",
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
@@ -18,6 +18,15 @@ export default defineConfig({
     ],
 
     sidebar: [
+      {
+        text: 'Web3项目',
+        collapsed:true,
+        items: [
+          { text: '挂机项目', link: '/src/web3/hung.md' },
+         
+         
+        ]
+      },
    
       {
         text: 'javascript',
@@ -39,7 +48,6 @@ export default defineConfig({
           { text: '相等', link: '/src/javascript/equal' },
           { text: '事件', link: '/src/javascript/events' },
           { text: '高阶函数', link: '/src/javascript/high-function' },
-      
           { text: '原型链', link: '/src/javascript/prototype/prototype' },
           { text: 'ES6-1', link: '/src/javascript/ES6-1' },
           { text: 'ES6-2', link: '/src/javascript/ES6-2' },
@@ -141,9 +149,7 @@ export default defineConfig({
       {
         text: '其他',
         collapsed:true,
-        
         items: [
-        
           { text: 'a-z记忆法', link: '/src/other/english/a-z.md' },
           { text: '五十音对照', link: '/src/other/japan/my-table.md' },
          
