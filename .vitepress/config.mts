@@ -152,7 +152,14 @@ export default defineConfig({
         items: [
           { text: 'a-z记忆法', link: '/src/other/english/a-z.md' },
           { text: '五十音对照', link: '/src/other/japan/my-table.md' },
-         
+          { text: '文案1', link: '/src/other/wenan/woman/1.md' },
+          { text: '文案2', link: '/src/other/wenan/woman/2.md' },
+          { text: '文案3', link: '/src/other/wenan/woman/3.md' },
+          { text: '文案4', link: '/src/other/wenan/woman/4.md' },
+          { text: '文案5', link: '/src/other/wenan/woman/5.md' },
+          { text: '人生文案', link: '/src/other/wenan/rensheng/1.md' },
+          { text: '人生文案', link: '/src/other/wenan/rensheng/2.md' },
+          { text: '人生文案', link: '/src/other/wenan/rensheng/3.md' },
         ]
       },
      
