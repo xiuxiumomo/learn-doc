@@ -3,7 +3,7 @@
 ### 系统相关
 
 ```shell 
-uname -a  ## 查看系统信息
+uname -a  ## 查看系统信息   
 sudo ## 临时获取超级用户权限  
 su ## 切换到 root 用户  
 sudo shutdown ## 关机  
