@@ -159,7 +159,8 @@ export default defineConfig({
           { text: '文案5', link: '/src/other/wenan/woman/5.md' },
           { text: '人生文案', link: '/src/other/wenan/rensheng/1.md' },
           { text: '人生文案', link: '/src/other/wenan/rensheng/2.md' },
-          { text: '人生文案', link: '/src/other/wenan/rensheng/3.md' },
+         
+           { text: '英语时态', link: '/src/other/english/times.md' },
            { text: '逻辑错误', link: '/src/other/logic/index.md' },
         ]
       },
