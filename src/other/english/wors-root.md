@@ -1,3 +1,4 @@
+```js
 英语词频统计翻译
 1）统计英语文本中单词个数、音标和翻译，并导出文件。
 2）支持查看单词在文本中的分布。
@@ -976,3 +977,4 @@
 		underagent副代理人（under+agent代理人）
 		underofficer下级官员（under+officer官员）
 
+```
