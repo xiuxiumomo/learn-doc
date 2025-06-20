@@ -80,7 +80,7 @@
 		adumbrate预示（ad+umbr影子+ate→[将来的]影子出现→预示）
 		adjust调整（ad+just+正确→弄正确→调整）
 		adventure冒险（ad+venture冒险）
-		admonish告诫，警告（ad+mon警告+ish→一再警告）
+		admonish告诫，警告（ad+mon警告+ish→一再警告） 
 		advent来临，来到（ad+vent来→来到）
 	5、amphi-表示"两个，两种"
 		amphibian两栖动物（amphi+bi生命+an→两个生命→两栖动物）

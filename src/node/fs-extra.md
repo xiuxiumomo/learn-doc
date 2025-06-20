@@ -120,7 +120,7 @@ pnpm i esno -g
 ### 支持esm
 
 ```ts
-{
+{+
 	"scripts": {
     "dev": "esno ./src/index.ts"
   },
@@ -140,7 +140,17 @@ pnpm i esno -g
 
 import path from "node:path";
 import { fileURLToPath } from "node:url";
-import { copySync ,removeSync,ensureDirSync,ensureFileSync,emptyDirSync,readJSONSync, writeJsonSync, moveSync, pathExistsSync} from "fs-extra/esm";
+import { 
+  copySync,
+  removeSync,
+  ensureDirSync,
+  ensureFileSync,
+  emptyDirSync,
+  readJSONSync, 
+  writeJsonSync,
+  moveSync,
+  pathExistsSync
+} from "fs-extra/esm";
 
 
 const __filename = fileURLToPath(import.meta.url);
