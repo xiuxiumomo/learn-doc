@@ -12,7 +12,7 @@ You have to go into the world and turn your hopes and the dreams into actions.
 
 你必须进入这个世界，将你的希望和梦想转化为行动。
 
-America is always the land of dreams, because America is the nation of the true believers. When the pilgrims `ˈpɪlgrɪmz` landed at Plymouth `ˈplɪməθ` they pray.When the founders wrote the Declaration of Independence they invoked our creator four times.  Because in  America we don’t worship the government, we worship God! 
+America is always the land of dreams, because America is the nation of the true believers. When the pilgrims  landed at Plymouth they pray.When the founders wrote the Declaration of Independence they invoked our creator four times.  Because in  America we don’t worship the government, we worship God! 
 
 美国始终是梦想之地，因为美国是真正信仰者的国家。当清教徒在普利茅斯登陆时，他们祈祷。当建国者起草独立宣言时，他们四次祈求我们的造物主。因为在美国，我们不崇拜政府，我们崇拜上帝！
 
