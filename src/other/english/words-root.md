@@ -61,7 +61,7 @@
 	  aggrandize扩大（ag+grand大→一再大→扩大[权力]等）
 		aggression侵略，进攻（ag+gress走+ion→一再往前走→进攻）
 	
-    记忆口诀：上瘾的吉利汽车肯定买的起亲切的恶华人正在扩大侵略
+    // 记忆口诀：上瘾的吉利汽车肯定买的起亲切的恶华人正在扩大侵略
 
 		announce通告（an+nounce通知→通告）
 		appal使震惊（ap+pal白色→[脸]变白→受惊）
@@ -71,17 +71,26 @@
 		arrange安排（ar+range排列→安排）
 		arrest逮捕，阻止（ar+rest休息→不让动→逮捕）
 		arrive到达（ar+rive河→到达河边→达到目标）
+
+    // 记忆口诀： 他看到通告很震惊，在台下鼓掌，欣赏表演，被任命为县长，安排办公室，因为腐败被逮捕了，最后到达监狱
+
+
 		assault进攻（as+saul跳→跳起来→进攻）
 		assiduous勤奋的（as+sid坐+uous→一再坐着[学习] →勤奋）
 		assist帮助（as+sist站→站过来→帮助）
 		associate联合，结合（as+soci社团+ate→结成团队→联合）
 		assimilate吸收；同化（as+simil相同+ate→成为相同→同化）
 		assure肯定；确信（as+sure确定→一不再确定→肯定）
+
+    // 记忆口诀:  
+
+
 		attach附上；依恋（at+tach接角→接触上→附上）
 		attain达到；获得（at+tain拿住→获得）
 		attend（at+tend关心→关心到了→出度）
 		attract吸引（拉→拉过来→吸引）
 		attest证实（at+test试验→一再试验→证实）
+    
 	4、ad-加在在单词或词根前，表示"做…，加强…"
 		adapt适应（ad+apt能力→有适应能力）
 		adept熟练的（ad+ept能力→有做事能力→熟练的）

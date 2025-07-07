@@ -206,7 +206,7 @@ firewall-cmd --zone=public --remove-port=9200/tcp --permanent ## 关闭端口
 ```shell
 firewall-cmd --reload ## 重载防火墙配置
 ```  
-
+docker run -d --name moontv -p 127.0.0.1:3000:3000 ghcr.io/senshinya/moontv:latest
 ### 修改host
 
 先进入地址  
