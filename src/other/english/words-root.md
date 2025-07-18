@@ -87,24 +87,30 @@
 
 		attach附上；依恋（at+tach接角→接触上→附上）
 		attain达到；获得（at+tain拿住→获得）
-		attend（at+tend关心→关心到了→出度）
+		attend 伴随（at+tend关心→关心到了→出度）
 		attract吸引（拉→拉过来→吸引）
 		attest证实（at+test试验→一再试验→证实）
-    
+
 	4、ad-加在在单词或词根前，表示"做…，加强…"
 		adapt适应（ad+apt能力→有适应能力）
 		adept熟练的（ad+ept能力→有做事能力→熟练的）
 		adopt收养；采纳（ad+opt选择→选出来→采纳）
 		adhere坚持（ad+here粘→粘在一起→坚持）
-		adjacent邻近的（ad+jacent躺→躺在一起→邻近的）
-		adjoin贴近；毗连（ad+join参加→参加在一起→贴近）
+		adjacent 邻近的（ad+jacent躺→躺在一起→邻近的）
+		adjoin 贴近；毗连（ad+join参加→参加在一起→贴近）
+    记忆口诀: 石英石烤熟了手就发痒，坚持躺在皮脸上
+
 		administrate管理；执行（ad+ministr部长+ate→做部长→管理）
 		admire羡慕（ad+mire惊奇→惊喜；羡慕）
 		adumbrate预示（ad+umbr影子+ate→[将来的]影子出现→预示）
 		adjust调整（ad+just+正确→弄正确→调整）
 		adventure冒险（ad+venture冒险）
 		admonish告诫，警告（ad+mon警告+ish→一再警告） 
+
+
+    
 		advent来临，来到（ad+vent来→来到）
+
 	5、amphi-表示"两个，两种"
 		amphibian两栖动物（amphi+bi生命+an→两个生命→两栖动物）
 		amphicar水陆两用车（amphi+car车→两用车）
@@ -113,20 +119,28 @@
 		anharmonic 不和谐的(an+hamonic和谐的→不和谐的)
 		anechoic无回声的（an+echo回声+ic→无回声的）
 		anonymous匿名的（an+onym名字+ous→匿名的）
+    // 两栖动物开着两用车去打无政府最后被和谐了，然后悄无声息的跑到乡下隐姓埋名
+
+
 	7、ana-表示"错误，在旁边，分开"
-		analogy类比；类似(ana+logy讲话→再旁边讲→讲一样的东西→类似)
-		analogous类似的（analogy的形容词）
-		analysis分析（ana+lysis分开→分开来→分析）
+		analogy 类比；类似(ana+logy讲话→再旁边讲→讲一样的东西→类似)
+		analogous 类似的（analogy的形容词）
+		analysis 分析（ana+lysis分开→分开来→分析）
 	8、ante-表示"前面，先"
-		antedate提前写日期；先于，早于（ante+date日期→提前写日期）
-		anterior前面的（ante+erior[…的] →前面的）
-		antecedent（aute+ced走+ent→走在前面的[事] →前事）
+		antedate 提前写日期；先于，早于（ante+date日期→提前写日期）
+		anterior 前面的（ante+erior[…的] →前面的）
+		antecedent（aute+ced走+ent→走在前面的[事] →前事 先例，前身；祖先，社会与家庭背景（antecedents）；先行词，前述词；（逻辑）前件）
+
+    //记忆： 类比分析遭遇前面的祖先
 	9、anti-表示"反对，相反"
 		antiwar反战的（anti+war战争）
 		antipathy反感（anti+pathy感情）
 		antithesis对立；反论（anti+thesis论文；观点）
 		antibacterial 抗菌的（anti+bacterial细菌的）
 		antibody抗体（anti+body身体）
+   
+    记忆： 反战的人很反感对立的言论因为他们没有抗菌的身体
+
 	10、人，人类-anthrop(o)
 		anthropology
 		anthropologist
@@ -152,6 +166,7 @@
 		democratic[见上，-ic…的]民主的，民主主义的；民主政体的
 		demography[demo人民→人数，人口，graphy写，记录→统计]人口统计学
 		demographic[见上，-ic…的]人口统计的
+
 		epidemic[epi-在…之间，dem人民，-ic…的；"流行于人民之中的" →]流行的，传染的；流行病，时疫
 		epidemiology[见上，- io-连接字母，-logy…学]流行病学
 		epidemiologist[见上，-logist…学者]流行病学者
@@ -167,13 +182,16 @@
 		gynecology[gyneco妇女，-logy…学]妇科学，妇科
 		gynecologist[见上，-ist人]妇科医生
 		gynecian[gynec妇女，-ian…的]妇女的，妇人的
+
+
 	女－（2）fem; femin
 		female[fem女，妇女]女性的，妇女的；女子
 		feminine[femin女，-ine…的]女性的，妇女的
-		femininity[femin女，-ality表示性质]女性，妇女的特性
 		femininity[feminine(e)女性的，-ity表示性质]女子的气质，女人气，妇女总称
 		feminism[femin女，-ism主义]男女平等主义；[-ism表示行为]争取女权运动
 		femme妇女；妻子
+
+
 	12、be-
 	① 构成动词，表示"使…成为"
 		beguile欺骗（be+guile欺骗）

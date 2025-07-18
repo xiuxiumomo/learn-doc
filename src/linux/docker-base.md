@@ -318,7 +318,6 @@ services:
       - 8888:80
     volumes:
       - /mnt/nginx:/usr/share/nginx/html
-
 ```
 
 参数解读
