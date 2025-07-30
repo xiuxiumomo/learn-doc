@@ -194,24 +194,26 @@
 
 	12、be-
 	① 构成动词，表示"使…成为"
-		beguile欺骗（be+guile欺骗）
-		belie掩盖（be+lie说慌）
-		bequeath遗留给，传下（be+queath要求→要求给某人→遗留给）
-		besiege 围攻(be+siege包围→包围起来)
-		beware注意（be+ware注意）
-		befriend友好对待（be+friend朋友）
-		befool欺骗（be+fool笨蛋→使人成笨蛋→欺骗别人）
-		befall降临；发生（be+fall掉下→掉下来→发生）
-		belittle 小看(be+little小→小看人)
-		bewilder使…迷惑（be+wilder迷惑）
+		beguile欺骗（be+guile欺骗） beguile the time消磨时光
+		belie掩盖（be+lie说慌） A belie掩饰
+		bequeath遗留给，传下（be+queath要求→要求给某人→遗留给） Sea Bequeath海洋宝藏
+		besiege 围攻(be+siege包围→包围起来) besiege chess 围棋
+		beware注意（be+ware注意） beware of fire 小心火竹
+		befriend友好对待（be+friend朋友） befriend the weak扶助弱者
+		befool欺骗（be+fool笨蛋→使人成笨蛋→欺骗别人） befool me把我看做笨蛋
+		befall降临；发生（be+fall掉下→掉下来→发生） Evil Befall邪恶降临
+		belittle 小看(be+little小→小看人) belittle oneself妄自菲薄
+		bewilder 使…迷惑（be+wilder迷惑） completely bewilder 神秘化
+
+
 	② 构成一些介词
 		before在前面（be+fore前面）
 		beneath在下面（be+neath下面）
 	13、bene- 表示"善，好"
-		benewolent好意的（bene+vol意愿+ent→好意的）
-		benefaction好事；恩惠（bene+fact做+ion→好事）
-		benefit好处，利益（bene+fit做→做事后的好处→利益）
-		benediction祝福（bene+dict说+ion→说好话）
+		benewolent好意的（bene+vol意愿+ent→好意的） Benevolent fund 慈善基金
+		benefaction 好事；恩惠（bene+fact做+ion→好事）
+		benefit 好处，利益（bene+fit做→做事后的好处→利益） employee benefit
+		benediction祝福（bene+dict说+ion→说好话） Superior benediction
 		beneficent仁慈的，善行的（bene+fic做+ent→做好事的）
 	14、bi-表示"两个，两"
 		biweekly双周刊（bi+week星期+ly→两星期）

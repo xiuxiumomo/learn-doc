@@ -1,17 +1,9 @@
-// import link from './index.mjs'
+import link from './index.mjs'
 
-// link.append("aa");
-// link.append("bb");
+link.append("aa");
+link.append("bb");
+
+link.get(1)
 
 
-
-
-// console.log(link.head);
-
-let a = {name: 'jack'}
-
-let current  =a;
-
-current.b = {name: 'pack'}
-
-console.log(a)
+console.log(link.head);

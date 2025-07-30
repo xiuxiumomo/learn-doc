@@ -1,3 +1,5 @@
+
+// 链表的结点，包含数据和指针（对象数据）
 class Node {
   constructor(data) {
     this.data = data;
@@ -29,7 +31,7 @@ class LinkList {
     }
     this.length += 1;
   }
-  //根据索引获取数据
+  //根据索引获取数据  
   // 1.判断边界，超出边界的索引直接返回false
   // 2.创建指针指向头部
   // 3.通过索引遍历链表
@@ -65,20 +67,7 @@ class LinkList {
     }
     return -1;
   }
-  //打印数据
-  // 1.创建指针，指向头部，定义连接字符串str
-  // 2.while循环，拼接data
-  // 3.返回str
 
-  toString() {
-    let current = this.head;
-    let str = "";
-    while (current) {
-      str += current.data + " ";
-      current = current.next;
-    }
-    return str;
-  }
   //更新数据-> 更新指定索引位置的数据
 
   // 1.边界判断，超出边界直接返回
@@ -180,6 +169,20 @@ class LinkList {
   remove(data) {
     const position = this.indexOf(data);
     return this.removeAt(position);
+  }
+    //打印数据
+  // 1.创建指针，指向头部，定义连接字符串str
+  // 2.while循环，拼接data
+  // 3.返回str
+
+  toString() {
+    let current = this.head;
+    let str = "";
+    while (current) {
+      str += current.data + " ";
+      current = current.next;
+    }
+    return str;
   }
   //判断是否为空
   isEmpty() {
