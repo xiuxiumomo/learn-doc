@@ -177,6 +177,7 @@ export default defineConfig({
           { text: "人生文案", link: "/src/other/wenan/rensheng/1.md" },
           { text: "人生文案", link: "/src/other/wenan/rensheng/2.md" },
           { text: "英语时态", link: "/src/other/english/times.md" },
+           { text: "date50", link: "/src/other/english/100ls.md" },
           { text: "逻辑错误", link: "/src/other/logic/index.md" },
           { text: "英语背单词", link: "/src/other/english/words-root.md" },
         ],
