@@ -1,7 +1,7 @@
 ## 英语中时态的理解
-- 进行维度 分  am doing / was doing
-- 完成维度 分  have done / had done
-- 时间维度 分 过去   现在 未来   did do will do 
+- 进行维度 分   was  doing / am doing / will be doing
+- 完成维度 分  had done /  have done / will have done
+- 时间维度 分 过去   现在 未来   did / do / will do 
 
 （记忆，进顽石 进货顽石）
 所以综合所述，一般有12种时态 `3*2*2`

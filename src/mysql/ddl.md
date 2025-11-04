@@ -104,7 +104,7 @@ alter table student  modify dept varchar(60);
 alter table student drop column deptament;
 ```
 
-#### 修改表名
+#### 修改表名0
 
 ```sql
 
