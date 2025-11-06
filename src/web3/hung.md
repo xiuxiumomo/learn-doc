@@ -1,9 +1,5 @@
 ## 挂机就能赚美金的项目介绍
 
-web3空投简单赚钱，挂机就能领取空投。如有疑问请联系：lsqxxmm@gmail.com
-
-
-
 ### Grass
 
 注册链接：https://app.getgrass.io/register/?referralCode=t0yTlSELPjmz9Ki

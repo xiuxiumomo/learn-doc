@@ -64,7 +64,7 @@ create table if not exists students (
 desc student;
 
 ```
-
+ 
 ### 删除表
 
 ```sql
@@ -104,7 +104,7 @@ alter table student  modify dept varchar(60);
 alter table student drop column deptament;
 ```
 
-#### 修改表名0
+#### 修改表名
 
 ```sql
 
