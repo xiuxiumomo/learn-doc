@@ -169,6 +169,14 @@ export default defineConfig({
         items: [
           { text: "美文1", link: "/src/other/english/articles/1.md" },
           { text: "美文2", link: "/src/other/english/articles/2.md" },
+          {
+            text: "新概念-1-141",
+            link: "/src/other/english/articles/enc1/141.md",
+          },
+          {
+            text: "新概念-1-143",
+            link: "/src/other/english/articles/enc1/143.md",
+          },
         ],
       },
       {
