@@ -1,0 +1,2646 @@
+
+```txt
+So tell me. How was Hawaii?
+夏威夷好玩吗？
+- It was unbelievable. - Oh, yeah?
+-太赞了 -是吗？
+- Well, what happened? - I met this guy.
+-有艳遇啦？ -我遇到一个男人
+It was the best week of my life.
+那是我此生最美的一周
+It was just a little vacation romance.
+一段浪漫的假期
+But he was so sweet.
+他好温柔
+He took me to all these cool local places.
+他带我到好多好玩的地方
+We went scuba diving...
+我们去潜水...
+- Snorkeling. - Mountain climbing.
+-浮潜 -爬山
+We went cliff diving.
+悬崖跳水
+Well, we got a little drunk.
+我们喝醉了
+- He gave me... - A back rub.
+-他帮我... -擦背
+We slow danced...
+我们深情拥舞...
+- in the rain.
+在雨中
+But it wasn't just about the sex.
+这不只是性而已
+He pounded me like a mallard duck.
+我俩没有别的关系 我们俩的关系只是性的关系
+It ended kind of weird, though.
+不过结束的有点怪
+When I asked for his number, he said he's...
+我跟他要电话，他却说他...
+- Married. - Gay.
+-结婚了 -是同志
+- Entering the priesthood. - He doesn't believe in phones.
+-正要投身宗教事业 -他不喜欢用电话
+He just kind of ran away.
+他就这样走了
+You know, it was just a little fling, but...
+这只是段露水姻缘...
+I won't forget my week...
+但我永远忘不了他...
+- with Henry Roth.
+罗亨利
+- Henry Roth. - Harry.
+-罗亨利 -小利利
+Harry Paratesticles.
+硬汉亨利
+- Henry Roth. - Henry Roth.
+-罗亨利 -罗亨利
+- Henry Roth. - Henry Roth.
+-罗亨利 -罗亨利
+Henry Roth, why didn't you tell me you were a secret agent?
+亨利，为何不早说你是密探？
+I prefer intelligence operative, and I couldn't tell you until I knew you.
+“情报员”比较好听 我不能随便跟你透露
+Well, can I call you when I land?
+我回去能打电话给你吗？
+You can call me, but I' II be in Peru. I said that a little loud.
+行，但到时我已经在秘鲁了 我太大声了
+Come on, that's a 187, code blue. We got the wolf sleeping at night.
+总部，我们发现野狼在夜间睡觉
+He's slipping his arm in the drawer and out comes the cookie jar. All clear.
+他将手伸进抽屉，拿出来的是饼干罐头
+Got it?
+明白？
+Well, maybe when you get back from Peru.
+也许等你从秘鲁回来再打
+- I don't think that's an option, Lisa. - Linda.
+-我想那是不可能的，莉莎 -是琳达
+I know. I changed your name for your protection.
+我知道，我这是为了保护你
+We have to go our separate ways now.
+我们得分手了
+Well, goodbye.
+再见了
+Got it! Moving out!
+收到，马上来
+- What the hell is your problem? - Just keep going, I' II give you $20.
+-你搞什么啊？ -继续骑，我给你二十块钱
+- You got it. How's your balls? - Killing me. Hit it.
+-没问题，你的蛋没破吧？ -我痛毙了，全速前进
+Easy, Honah Lee.
+轻一点，大法师
+Hey, I' m a person, not a seal
+我是人，不是海豹
+Well, I am a vet, not a doctor. So just hold still, or I won't give you a treat.
+我是兽医，我专医动物 别乱动，再动就不帮你医了
+I know, it's okay. You see that, kids?
+痛吧，孩子们看好了
+You see what happens when you play with sharks?
+跟鲨鱼玩就会有这种下场
+Now, why you gotta spread those lies? Sharks are like dogs.
+你别散播谣言 鲨鱼跟小狗一样
+They only bite when you touch their private parts.
+乱碰他小弟弟，他就会咬你
+That's a good title for my documentary.
+我的纪录片可以用这标题
+Sharks: They Only Bite When You Touch Their Private Parts.
+鲨鱼，碰他小弟就咬死你
+Or you could call it, Sharks: They Tried to Eat My Kidney.
+不然就用 “爱吃腰子的鲨鱼”
+All right, enough already. You too, Willie.
+别笑了，你也一样，小威
+All of you.
+你们全都一样
+He just cast a spell on us.
+spell 符咒
+他对我们下咒
+All right. Put this on four times a day for two weeks.
+一天换药四次，持续两周
+- You can handle that. - What's wrong with that turtle?
+-你自己可以换 -那只海龟怎么了？
+Lung problems because he smoked too much turtle weed...
+weed 在美国专指大麻
+他的肺生病了 因为他抽太多大麻了...
+...which is bad for you. Right, Ula?
+你也一样别抽了
+What? I don't smoke weed.
+干嘛？我又不抽大麻
+Hey, Honah Lee? How's that hot wahine nympho from Ohio?
+大情圣，那个下港来的花痴妹呢？
+Great. I dropped her off at the airport this morning.
+我今早在机场跟她分手了
+Come on, I need some details.
+拜托，说清楚一点
+You get some booby, some assy, a pull on your poi-poi? Come on.
+你摸过、爽过了？
+Daddy, what's a nympho?
+阿爸，花痴是什么？
+Oh. The nympho is the state bird of Ohio.
+花痴是花枝的一种
+You're the state idiot of Hawaii.
+你还是大傻子咧
+Here you go. Bite the fish, chew the fish, love the fish. Enjoy.
+来， 要大口吃鱼也要爱鱼
+- You crack me up, kamaaina. - Oh, yeah?
+-你真爱搞笑，大情圣 -是吗？
+- One of these days... - Yeah?
+-总有一天... -干嘛？
+...you'll show one of those tourists such a good time...
+你会让来渡假的美女难以忘怀...
+...she'll wanna stay on the island.
+她就会想留在这岛上
+Why do you say mean things like that...
+你干嘛说这么恐怖的话？
+...and why is your foot on my pillow?
+还把你的脏脚踏在我枕头上
+I don't want your ass on it, either. Get up! Get up!
+屁股也不行，起来！
+It could happen.
+这很有可能
+Then you won't be able to go on your boat trip to Alaska.
+然后你就不能驾船去阿拉斯加了
+You'll be stuck here, waking up next to the same old, ugly broad, just like Ula.
+broad 对娘们的粗俗说法
+你会被卡在这里 跟我一样娶个老母猪
+- Just kidding, guys. - About the old part or the ugly part?
+-开玩笑的啦 -你是说老还是母猪的部份？
+Henry, come quickly! It's Jocko!
+医生，快来，肥仔病了！
+Jocko! What's going on with you, buddy?
+肥仔，你怎么了？
+Don't be scared. Everything's gonna be fine.
+别怕，不会有事的
+Just stay calm. All right.
+冷静点
+Willie, I don't need you to see this. Get out of here, now!
+小威，别看，快出去！
+Okay, check the temperature of the pool Go! Hurry!
+检查一下池子的温度，快去！
+What are you doing? I meant check the thermometer!
+你耍宝啊？去看温度计！
+Give me a hand. Let's go!
+帮我忙，快点！
+Get me two fish from the barrel Now.
+帮我拿两条鱼过来从桶里面
+- Okay. - Just hang in there.
+-好 -忍着点
+- Here. - It 's gonna be all right.
+-来了 -不会有事的
+That's a little warm. Go to the bottom of the barrel, please.
+太温了，拿桶底的鱼
+Okay, there. That's good. Thank you.
+很好，谢谢
+Come on, buddy, take it. Take it.
+来啊，吃下去
+- He's not responding! - I know, Alexa!
+-他没反应 -我知道啦
+Sorry, I smacked you. You needed the fish-slap to calm down.
+抱歉，我打了你。你需要被鱼抽一下来冷静
+- Do you understand? Are you calm? - Yes. Fish-slap calm me.
+-你够冷静吗？ -够，死鱼打醒了我
+I'm gonna try to get him breathing manually...
+我要动手让他深呼吸...
+...so I need your face next to his mouth to see if it's working.
+你把脸贴在他嘴旁注意动静
+- Are you ready? - Yes.
+-准备好了？ -好了
+- One, two, three! - Nothing, nothing!
+-一、二、三 -没动静！
+All right! Try it again. If it doesn't work we'll perform a tracheotomy.
+好，再试一次 要是再没用，就动手术
+We don't wanna do that, so let's pray this works. One more time.
+我们可不想那样，再来一次吧
+One, two...
+一、二...
+That's a lot of vomit.
+吐的真多呢
+This is why I got into this business.
+这就是我进这行的理由
+To save sea animals.
+要拯救海洋动物
+You should go wash yourself off, okay?
+你去洗个澡吧？
+Maybe try some turpentine. That might take the stink away.
+用松脂洗，可以去腥味
+Yeah, high-five is right, buddy.
+干的好啊，兄弟
+I knew you were gonna burp, but the vomit thing was awesome!
+我知道你会打嗝，但吐就太猛了
+That's what she gets for eating my roast beef sandwich.
+这就是她偷吃我烤牛肉三明治的下场
+Willie, did you see that?
+小威，你看到了吧？
+Captain's log: November 5th, 6:45 a.m.
+船长日志，11月5日 清晨6点45分
+I've taken the Sea Serpent for a trip around the island of Oahu.
+我驾着海蛇号到欧胡岛
+It is by far the longest voyage she has yet underaken...
+这是它航行最远的一次...
+...and its completion will signal that she's ready...
+此次出航成功代表它已经...
+...for our great journey to Bristol Bay...
+准备好航向布里斯托湾...
+...whose unspoiled walus habitat will yield an abundance of...
+野生海象的栖息地 那里有数不清的...
+Damn it!
+哇咧！
+Are you kidding me?
+不会吧？
+Aloha, honey. What can I get for you?
+你好，帅哥，要点什么？
+I guess I' II take a cup of coffee.
+我想我就来杯咖啡吧
+- You guess? - Yeah, I already ate breakfast.
+-你想？ -我吃过早餐了
+I need to kill some time before the Coast Guard gets here to tow my boat.
+我只是在等海岸警卫队救援，帮忙拖船 
+What did you eat?
+你早餐吃了什么？
+I had a Reese's Peanut Butter Cup and some Gatorade.
+我吃了一个Reese's花生酱杯和喝了一些佳得乐
+They're not breakfast. I get you Spam and eggs.
+那不算早餐，我给你弄了Spam午餐肉和鸡蛋
+Nick, I need Spam and eggs.
+大胖，Spam午餐肉和鸡蛋
+Hey.
+嗨
+- You like the peanut butter cups? - Yes.
+-你喜欢花生巧克力？ -对
+Want me to put peanut butter cups in your eggs?
+我帮你在蛋里加一点吧？
+No, that's okay.
+不用了
+Peanut butter cups.
+花生巧克力
+- Hey, Sue, nice haircut. - Mahalo, Lucy.
+-阿苏，你发型好美 -谢谢你，露西
+Are you staring at me or her?
+你在看我还是看她？
+Because you're starting to freak me out.
+老子我被你搞毛了了哦
+Settle down and eat your pancakes.
+别激动，吃你的早餐吧
+I think she's a local girl I wanted to go up to her...
+我想她是在地人 我想去跟她搭讪...
+...but I was kind of off my game. But, man, was she cute, though.
+但我有点不在状态不过，她超可爱的
+I thought you liked your bitches from out of state.
+我以为你喜欢外国妞
+Yeah, that's usually my policy. Make sure I don't get tied down.
+对，我一向如此（原则） 免得被人绑住
+Freeze that image right there.
+别动
+There's the little fella. Congratulations, Mommy.
+小家伙在这 恭喜你，妈咪
+Sounds to me like someone is afraid of commitment.
+看来有人怕承诺
+Let me guess.
+我猜猜看
+Your high school sweetheart got drunk at party...
+你高中的马子去轰趴...
+...then cheated on you with whole wrestling team.
+cheated 是英文俚语，意思是“背叛你”或“对你不忠” wrestling 摔跤
+结果喝醉跟同学大搞性派对
+Close. Actually, it was my college girlfriend Tracy.
+差不多了，不过是大学的马子
+And it wasn't a wrestling team. It was her academic advisor.
+也不是跟同学搞，是跟导师搞
+- Oh, she liked the older man. - Older women. About 50 years older.
+-她喜欢老男人 -是老女人，大她50岁
+I hope you shot the stupid tramp.
+你有海扁那只老母狗吧？ 不正经的女人
+What's with the "tramp" and the "bitches" talk?
+怎么说话这么粗？
+- Are you drunk or something? - I apologize for nasty talk.
+-你喝醉了？ -对不起 令人不快
+I am grouchy due to lack of recent physical intimacy.
+不满的 身体的 性关系
+Shut up, because here comes one-time-only opportunity.
+闭嘴，千载难逢的机会来了
+What I will do now is go into your office and become naked.
+我要进你办公室，脱个精光 裸露的
+Next move is up to you.
+接下来就看你的了
+I may not be as limber as I once was...
+我也许没以前那么柔软了...
+...but I make up for it with enthusiasm and willingness to experiment.
+但我会用热情意愿和技巧来弥补你
+I don't know if you realize, I'm not into guys.
+你不明白，我不喜欢男人
+Hey, Mr. Peanut Butter Cups.
+花生巧克力男
+Hey, Mr. Could -Kill -Me-in-One-Punch. How you doing?
+你好，猛男大厨师
+- You're back. - Couldn't get enough of that Spam.
+-你回来了 -就是忘不掉那些火腿
+Fry some up and throw some eggs on it.
+帮我煎一点，再加个蛋吧
+- You got it. - All right, mahalo.
+-没问题 -真多谢啦
+- Hi, Lucy. - Hi, Nick.
+-你好，露西 -你好，大胖
+You know, why don't you try this?
+你何不试试这招？
+It's kind of a hinge.
+这就像门柱铰链一样
+- Now, why didn't I think of that? - Well, you're too close to the project.
+-我怎么没想到？ -当局者迷、旁观者清
+Don't be hard on yourself.
+别自责了
+Right. Sometimes you need an outsider's perspective.
+是啊，旁观者有时看的更清楚
+Fresh eye never hurts.
+多问个人准没错
+I'm Lucy.
+我是露西
+Yes. I' m Henry Roth.
+我是罗亨利，幸会
+- Nice to meet you. - Nice to meet you.
+-幸会 -幸会
+It's pretty. Keep up the good work.
+做的很不错，继续加油
+Wait. I see you're sitting there alone. Do you wanna come and sit down?
+等等，你好像一个人来 要不要过来一起坐？
+- Sure, that'd be great, if that's all right. - Okay.
+-好啊，挺不错的 -很好
+- So are you an architect? - I am not. I' m in fish.
+-你是建筑师？ -不是，我工作跟鱼有关
+Oh, that's where the smell is coming from.
+难怪会有那股味道
+Yeah, yeah, I was feeding a walrus this morning...
+是啊，我早上喂了海象...
+...and I thought I got most of it off of me, but guess I didn't.
+我以为我都洗干净了 但是大概并没有吧
+- I love that smell. - No, you don't.
+-我喜欢这味道 -不会吧
+- Fish don't even like that smell. - No, I do. My dad's a fisherman.
+-连鱼都不喜欢这种味道了 -真的，我爸是渔夫
+He and my brother Doug, they go out to sea for months at a time.
+他跟我弟道格都一起出海
+And I miss them so much while they're gone that when they come back...
+每次回来，因为我太想他们...
+...I just hold on to them for five minutes each.
+我都会抱他们整整五分钟
+And they smell just like your hands. It's the best smell in the world.
+他们身上的味道就像你的手 世上最香的味道
+Well, my fingers are available...
+有需要的话...
+...for your sniffing pleasure anytime you need them.
+随时欢迎你闻
+- Wanna? - Okay.
+-想闻吗？ -想
+(餐厅)
+Sea lions are known for their athleticism...
+海狮以好动闻名...
+...and dolphins are known for their intelligence.
+海豚则以智慧闻名
+- Walruses are known for their... - Tusks?
+-海象的闻名之处... -是象牙？
+Their tusks. Also their male parts can get pretty gigantic.
+象牙，还有超壮观的大鸡鸡
+Yeah, yeah, it's the second biggest out of all the mammals.
+没错，那是世上第二大的
+- What's the first? - I think Tattoo-Face.
+-第一大的是谁？ -那个大花脸吧
+Ilike your laugh.
+我喜欢你的笑声
+Ilike you making me laugh.
+我喜欢你逗我笑
+I hate to break this up, but we're setting up for lunch.
+抱歉打扰，要供应午餐了
+Oh, okay. Sorry, Sue.
+歹势，阿苏
+And the real cool thing about walruses is they're very mysterious.
+海象最酷的地方，就是很神秘
+- Mysterious? - Yeah, yeah.
+-神秘？ -对
+We don't really know what they're like in the wild.
+我们不知他们的野外生活
+Don't they just sleep on icebergs and yawn all the time?
+他们不是爱睡冰山、打哈欠吗？
+All we really see is what they do outside of the water...
+那是离开水面，我们所看到的...
+...but who knows what they do under the ice...
+他们在冰下的生活就神秘了...
+...where they spend two-thirds of their lives.
+他们有2/3的时间是在水里
+Well, maybe they're intimidating the other creatures with their big winkies.
+也许他们在下面 用大鸡鸡威胁别人  威胁  生物 阴茎
+That is one theory.
+那是其中一个理论
+- I have to go. - Where you going?
+-我得走了 -你要上哪？
+It's my dad's birthday, and we go every year and we pick a pineapple.
+今天我爸生日 我们每年都会去摘凤梨
+- It 's a tradition. - That sounds nice. Okay, well...
+-这是传统 -听来不赖，好吧...
+...I had a great time.
+我今天很愉快
+- Me too. - Okay.
+-我也是 -好
+Would you like to have breakfast again tomorrow morning, same time?
+你想再来吃早餐吗？ 明天早上，同一时间？
+- Because I teach an art class at 10. - Really?
+-因为我早上十点要上美术课 -真的？
+- Yeah. - I wish I could make it...
+-真的 -希望我赶得来...
+...but, yes, I will be there.
+好，我会来
+- Take care. - Okay.
+-保重 -好
+- One for the road. It is fishy. - Got you good.
+-再回味一下，哇，超腥的 -吸的真大口
+- Aloha. - Aloha!
+-再见！ -再见！
+See you tomorrow.
+明天见
+Oh, my God.
+我的老天
+Oh, my goodness.
+我的妈呀
+Shit.
+靠
+I had a bee on me.
+有蜜蜂叮我
+- All right. - He was a big one.
+-是哦 -很大一只呢
+Which means "look at those two shitheads."
+这话是说 “看这两个呆子”
+That was the stupidest-looking swing I' ve ever seen.
+这是我看过最鸟的挥杆了
+I'm gonna take a Molokai on that one.
+我来让它更像鸟
+No throwing. Come on.
+不能用丢的，拜托
+Stop laughing, you hyenas. Let's see what you get.
+来形容嘲笑的人（这里假设是小孩子），是一种生动、形象的比喻表达，带有幽默和轻微责骂的语气 
+别笑，死孩子，你们打给我看
+Okay, you heard me. Go! Go!
+听见没，快去！
+Show papa what you got.
+表现给老爸看看
+- You suck, you're good at everything. - Father of the Year strikes again.
+你真nb，你什么都擅长。——年度最佳爸爸又出击了
+By the way, cuz, I met this sexy, blond tax attorney at Starbucks today.
+对了，老大 我今天在星巴克遇见金发律师
+I told her you the kahuna she wanna have fun on this island.
+我跟她说想找乐子就要来找你
+You want her number?
+你要不要她的电话？
+You pimping tourists for me again?
+你又帮我拉客了？
+Yes! I live vicariously through you, remember?
+对，我靠你维系我的生命
+My life sucks.
+我的人生太惨了
+Now, come on. Give her the Waikikiki sneaky between the cheeky.
+  暗中的 厚脸皮的
+Ula needs it. I imagine I did it and then I can get through another weekend.
+乌拉需要这个。我想象我做到了，然后我又能撑过一个周末。
+I'm staying in. Sorry. Thank you, though.
+我哪都不去，谢了
+- What? - Hey, Dad!
+-什么？ -阿爸！
+Not now, Keanu Mokokokakau.
+别吵啦，赔钱货
+But your stitches are bleeding.
+可是你伤口在流血耶
+It must've been my huge back-swing.
+一定是我打到的
+You think you can stitch me up after I get back from surfing?
+今晚在我冲浪后帮我缝好，好吗？
+- Yeah, looking forward to it. - I wouldn't surf with a wound like that.
+-好，再帮你绣朵花 -流着血去冲浪...
+You might attract a shark.
+会引来鲨鱼
+What's wrong with that? Sharks are naturally peaceful
+少唬烂了，鲨鱼天性温和
+Is that right? How'd you get that nasty cut, anyway?
+是吗？那你的伤哪来的？ 令人不快的，令人厌恶的
+A shark bit me.
+鲨鱼咬的
+Nice.
+好耶
+Go smoke another one, bro.
+再多去嗑点药吧
+That shark theory's starting to catch on.
+你的鲨鱼理论已经开始流行了
+Now, will everybody keep it down...
+大家安静...
+...while I whack the crap out of this thing?
+等我把球打过去
+Sit! Stay! Shit! No!
+停，靠！
+Where the hell is it?
+跑哪去了？
+Looking for something?
+找东西啊？
+Oh, my God! What are you doing here?
+老天，你在这干嘛？
+The same thing you are. Looking for my ball.
+跟你一样，找球啊
+This is weird. I' ve been thinking about you all morning, all day.
+怪了，我想了你一整天
+Can't wait to have breakfast with you again.
+我等不及明早跟你共进早餐了
+I know. And I just wanna eat you up.
+我知道，我也想把你吃了
+- Really? - Yeah. Tomorrow and the next day...
+-真的？ -对，明天、后天...
+...and the next day and the next day. - All right. Okay.
+-大后天，大大后天 -好了、好了
+Oh, my.
+哇咧
+Oh, Lucy, that feels so good.
+露西，好舒服哦
+No, my nipples are too sensitive. Stop that.
+不行，我乳头很敏感，别这样
+- What happened? - Your ball hooked into that cart...
+-怎么回事？ -球打中车...
+...bounced back and hit you in the head. It was freaking hilarious.
+弹回来正中你的头 真是超爆笑的  捧腹大笑的
+- What? - Who's Lucy?
+-什么？ -露西是谁？
+And what's up with your nipples?
+你的乳头又怎么了？
+I can't be falling for a local I ain't ever going back to that diner.
+我不能爱上在地人 我不会回那间小吃店的
+- This where you got hit? - Yes!
+-你被打中这里？ -对
+You're so lucky you're a professional cliff diver in Hawaii.
+还好你是夏威夷的专业跳崖手
+- Yeah, well, it's a living. - I' m a tax attorney.
+-我很专业 -我是税务律师
+- We never get to have any fun. - Is that right?
+-超无聊的职业 -是吗？
+I'd like to do something extra fun tonight.
+我今晚想找点乐子
+Taking it deep, aren't you?
+你真是又急又渴啊
+How about another fishbowl for the lady?
+阿丁，再给小姐来杯大蓝鸟
+- Why don't I just tap a keg for her? - Okay.
+-干脆开一桶酒给她喝吧？ -好啊
+I think I' m getting kind of drunk.
+我好像有点醉了
+- Are you getting drunk? - Getting there.
+-你咧？ -快了
+So, what are you thinking?
+你在想什么？
+What am I thinking?
+我在想什么？
+Actually, I' m not drunk at all, Noreen, and neither are you...
+其实我根本没醉 你也一样...
+...because there's no alcohol in these drinks.
+因为饮料里根本没酒精
+Sadly, I' ve used this technique many times.
+抱歉，这伎俩我用过很多次了
+It helps lovely tourists, such as yourself...
+这能帮你这种外来客放松...
+...loosen up without impairing your ability to stay awake...
+让人整晚都能保持清醒... 损害，削弱
+...and have guilt -free, vigorous sex with me.
+又毫无罪恶感的跟我上床 精力充沛的
+- Wow. - I' m sorry.
+-哇 -抱歉
+I'm not a cliff diver, either. I'm afraid of heights.
+我也不是跳崖手 我有惧高症
+Well, since it's my last night in town...
+今天是我假期的最后一晚...
+...can I pretend you didn't just say that and still have sex with you anyway?
+我能不能假装没听到这些 然后还是跟你上床？
+I can't do it. I' m sorry.
+我做不到，对不起
+Well, can you at least point me in the direction of someone who can?
+至少帮忙指点一下有谁能吧
+That guy over there could help you out.
+那边那家伙应该帮得上忙
+- Isn't that a woman? - Jeez, I' m not really sure.
+-那不是个女人吗？ -我不太确定耶
+But you're too drunk to notice, remember? Take care.
+但你已醉到搞不清了，对吧？ 保重
+- Hey, you. Aloha. - Aloha.
+-你，阿啰哈 -阿啰哈
+Not aloha, "hello," aloha, "goodbye." We're closed today. Go away.
+这个阿啰哈不是你好，是再见 今天没开店，走开
+- What are you talking about? - Order up!
+-你在说什么啊？ -上菜了！
+- Don't move. I have to talk to you. - Okay.
+-别动，我有话要跟你说 -知道啦
+- Hey! Tattoo-Face! - Hey, Peanut Butter Cups!
+-大花脸！ -花生巧克力男！
+Hi.
+嗨
+Hi.
+嗨
+My fingers are extra fishy today, if you care to take a whiff.
+我手指今天更腥了，想闻吗？
+What was that?
+你说什么？
+I was petting my walrus all morning and thinking of you the whole time.
+我早上帮海象擦澡 满脑子想的都是你
+Okay, pervert. I think that you should leave.
+指一个行为或思想在性方面不正常的人，例如喜欢偷窥、骚扰别人、或者有其他让人觉得恶心或越界的性
+变态狂，我想你该走了
+What? I was joking because of what we talked about yesterday.
+我开玩笑啦，我们昨天聊过的
+Yesterday?
+昨天？
+I've never even met you.
+我根本没见过你
+- Nick! I need help! - Coming, Lucy.
+-大胖，快来帮我 -来了
+Nick, put that down. I'll handle it.
+大胖，放下，我来处理
+- You, follow me. - Wait a... What's going on?
+-你跟我来 -怎么回事？
+I was kidding around with you!
+我是开玩笑的啦！
+What's happening here? Is she crazy or something?
+搞什么？她是不是疯了？
+Lucy is a very special person. Very different from other people.
+露西很特别 她跟别人很不一样
+Okay.
+好
+About a year ago, Lucy was in a terrible car accident.
+一年前，露西出了车祸
+She and her father went up North Shore to get a pineapple.
+她跟她爸去北边摘凤梨
+Her father broke some ribs, but Lucy suffered a serious head injury.
+她爸断了几根肋骨 但露西却有严重的脑部伤害
+She lost her short-term memory.
+她丧失了短期记忆的能力
+So she can't remember anything?
+所以她啥都记不得了？
+No, no, no, she has all of her long-term memory.
+不，她的长期记忆都还在
+That's a different part of the brain.
+那属于不同的脑部区块
+Her whole life, up to the night before the accident, she remembers.
+她这一辈子 到出意外前一晚，她都记得
+She just can't retain any new information.
+她只是无法再输入任何新资讯
+It's like her slate gets wiped clean every night while she sleeps.
+板岩，石板： 在这里，slate 指的是一种古时候的“小石板”或“黑板”，人们会在上面写字、然后擦掉重新写
+她每晚睡着后就从新开始
+Hold on. This sounds like something I would tell a psycho girl...
+这很像我跟疯女人分手的借口...
+...so she'd stop calling me. Am I the psycho girl
+好让她别再缠我 我像疯子吗？
+I wish I was making this up!
+我没有半句假话！
+She has no memory that she ever met you.
+她不记得她见过你
+What about the pineapple -picking thing?
+那摘凤梨的事呢？
+She says that every day, because each morning...
+她每天都提，因为她每天醒来...
+...she wakes up thinking it's October 13th of last year.
+就认为今天是去年10月13日
+She comes for breakfast because that's what she did on Sundays...
+她会来吃早餐 因为她每周日都这样...
+...and October 13th was a Sunday.
+10月13日刚好就是周日
+She has no idea it's more than a year later.
+她不知道已经过一年了
+She reads the newspaper.
+她会看报纸
+It's a special paper her father puts on their porch.
+门廊
+那是她爸特别准备的报纸
+It's from the day of her accident. He got hundreds of them printed.
+那是她出意外那天的报纸 他准备了好几百份
+Lucy does the same thing every day.
+露西每天都做一样的事
+- Hello! - Back here.
+-嘿！ -在后面
+- Hi, Dad! - Oh, hi, sweetie.
+-老爸！ -小公主
+You got one without me.
+你没等我就去摘了
+The lady at the farmers' market gave it to me as a birthday present.
+市场的小姐送我当生日礼物
+I didn't wanna hurt her feelings.
+我不想伤她的心
+I think she likes you.
+我想她喜欢你
+- Yeah, what's not to like? - What about our tradition?
+-我是人见人爱 -那我们的传统呢？
+Well, I have another idea. I painted my workshop yesterday.
+我有主意，我昨天漆了工作室
+White.
+一片雪白
+Now it's too white. Gives me a headache.
+可是它太白了，白的让我头痛
+Oh, yeah, you definitely need some color in here.
+是啊，你需要加点色彩
+Well, you know, that's what I was thinking.
+我也这么想
+- Really? - Yeah. Go nuts.
+-真的？ -是啊，用力挥洒吧
+- Paint me something for my birthday. - I will.
+-划点好看的给我当生日礼物 -没问题
+And promise that we can pick a pineapple for Thanksgiving, okay?
+答应我，感恩节一起去摘凤梨
+- Sounds great. - Okay, good.
+-没问题 -很好
+Hey, you should watch the Vikings game while I' m painting.
+我作划，你去看海盗队比赛吧
+Good idea.
+好主意
+- Yeah, baby. Isolate. - What are we eating tonight, Doug?
+-好耶，硬起来吧 -儿子，今晚吃什么？
+- Spaghetti, Pop. - Try not to sweat in the sauce.
+-意大利面 -别把汗滴进肉酱里
+Sorry, Pop.
+歹势，老爸
+Go Vikings.
+加油，海盗队
+Seven hundred and five. Seven hundred and six.
+七百零五、七百零六
+- Seven hundred and seven. - Hey, you guys.
+-七百零七 -两位帅哥
+Hey, sweetie. How's the painting coming?
+小公主，划的怎样了？
+- You'll see. - Cool
+-等着瞧吧 -太好了
+- Oh. What's the score? - The Vikings are on the two-yard line.
+-比数如何？ -海盗队还差两码...
+- Lf they score, they bring it to 14-10. - Maybe they'll win for your birthday.
+-就逆转胜了 -也许你生日他们会赢球
+And I' II bet Culpepper runs it in.
+我赌克裴会直接达阵得分
+I'll bet he fakes a handoff to Williams, throws to Kleinsasser in the end zone.
+我赌他会假装交球给威廉 然后传球给达阵区的柯兰
+- Loser does the dishes? - You're on.
+-输的人洗碗？ -没问题
+- Keep the offense on the field.
+让防守的一队无法得分
+Culpepper fakes a handoff to Williams. He will throw.
+克裴假传给威廉，他会传球
+He's got Kleinsasser in the end zone! Touchdown, Minnesota.
+柯兰在达阵区，达阵得分
+Doug, you're good.
+老弟，你真行
+Maybe you should be a coach.
+也许你该去当教练
+- Dad. - Moron!
+-阿爸 -你去死啦！
+That hurt.
+很痛耶
+And you don't look a day over 25.
+你看来只有25岁
+Yeah, right, and Doug's muscles aren't pharmaceutically enhanced.
+是哦，你弟的肌肉还是真的咧
+What? I use an herb supplement...
+你说什么？
+...that can be purchased at any health-food store. Check this out.
+我只吃过购物频道的猛虎丸 你看看
+Check out these glutes. Rock-hard, baby.
+看看我的臀肌，超硬挺的
+Pretty sweet, huh?
+猛吧？
+Stop it! You're gonna make me throw up on the cake.
+别闹了 别害我吐在蛋糕上
+Okay, just open your present.
+好，拆礼物吧
+Okay. Let's see what we've got here.
+看看这是什么
+The Sixth Sense.
+《灵异第六感》
+Hey! When I' m done doing the dishes, do you guys wanna watch it?
+我去洗碗，你们就放来看吧
+- Sure. - Sure.
+-好啊 -好啊
+Ben Friedkin?
+班佛莱迪？
+Some people, they call me freak.
+有些人叫我怪胎
+- Ronald Sumner? - I am. I am a freak. Look at me.
+-朗诺桑犸？ -我的确是怪胎
+Just give me a chance...
+给我一次机会...
+I can't believe it. Bruce Willis is a ghost.
+我真不敢相信 布鲁斯威利竟然是鬼
+I'm shocked. Did you see that coming?
+我被吓到了，你们有想到吗？
+- No. - Not a clue.
+-想都没想到 -想都没想到
+- Shocked as hell. - Anyway, it was awesome.
+-我也吓到了 -真的很好看
+- Happy birthday. - Love you, Sis.
+-生日快乐 -我爱你，老姐
+Your muscles are getting so big, I can barely wrap my arms around you.
+你练的好壮 我都快抱不住你了
+You like that? Check this out.
+喜欢吗？你看看
+Okay, okay! Enough with the titty dance! Let your sister go to sleep.
+好了，别再跳奶子舞了 让你姐去睡吧
+- I like it. - Sweet dreams, Lucy.
+-我喜欢 -祝你好梦，老姐
+- Good night. - Good night.
+-晚安 -晚安
+(星期天)
+Hey, Tracy, how you doing?
+翠西，你好吗？
+Yeah?
+是吗？
+Well, things changed a little bit since high school
+高中毕业后我变了很多
+And this is what happens every single day.
+这是每天都一再发生的事
+How long it gonna take for her memory to come back?
+她的记忆多久会恢复？
+Her doctors say it may never come back.
+她的医生说永远不可能
+So, basically, what you're saying is...
+所以基本上，这一切表示...
+...she's perfect for you. - What do you mean?
+-她超适合你的 -这话什么意思？
+You can hang out all day with no attachment, because...
+你可以跟她混却不用负责
+Her plane leaves every night? There's a problem with that.
+她每天重开机，只有个问题...
+- What is? - It 's evil
+-什么问题？ -这太邪恶了
+No, it isn't.
+才不咧
+You meet her, hang out, flirt, no commitment, nobody gets hurt.
+你跟她约会、游玩 没承诺，大家都不会受伤
+- She's got brain damage, you psycho. - Okay, I' II give you that one.
+-她脑子受了伤，死花痴 -我承认这点
+But I think it'd be healthy for you.
+但我以为这对你很不错
+You haven't allowed yourself to connect with a girl
+你多年来都不肯固定下来
+I appreciate your interest, but leave me alone.
+感谢你关心，阿嬷，少烦我
+Hey, you'd be doing exactly what her father does:
+你这么做跟她爸一模一样
+Giving her a wonderful day.
+让她每天都很愉快
+When it's time for you to go on your big boat trip, poof, you just leave.
+然后你上路旅行去也 咻一下！你就走了
+She'll never even know you're gone.
+她根本不会知道你走了
+I'm not sure about the "poofing" part, because I' m not a good poofer.
+我不太确定“咻”那部份 因为我不太会用“咻”的
+Demonstrate a good poof for me?
+你能不能“咻”给我看
+Quit busting my coconuts for five seconds.
+关我粉鸟什么事？
+All right. Would you stop poofing on that joint and do some work?
+好，拜托你少咻一点 做点正事吧？
+Okay. Let's get this sucker ready.
+来修好这艘船吧
+Then we're gonna take her out for a spin.
+接着我们试开一下
+Captain's log: November 7 th. Nearly midnight.
+船长日志，11月7日午夜
+The Sea Serpent is fully recovered from her mishap...
+海蛇号终于修好...
+...and ready to once again brave the open ocean.
+再度准备航向大海
+I think my stitches opened up again, cuz.
+我想我的伤口又开了
+You got a cat? Because I feel something licking me.
+你有养猫？有东西在舔我
+《活在当下》
+How is it?
+你好
+Peanut Butter Cups. What are you doing here?
+花生巧克力男，你干嘛？
+I just wanted to say hi to Lucy.
+我想跟露西打个招呼
+I promise you I' m not gonna do anything wrong.
+我保证不会乱来
+What did Sue say?
+阿苏怎么说？
+She said that if I talk to Lucy, you'll kill me with a meat cleaver.
+她说要是我跟露西说话 你会用菜刀把我剁成肉酱
+She's the boss, cuz. But don't worry.
+她说了算，但是别担心
+Lucy probably didn't wanna talk to you anyway.
+露西可能也不想跟你说话
+- What does that mean? - This ain't a disco.
+-这话什么意思？ -这里又不是舞厅
+She doesn't want guys hitting on her during her breakfast.
+她吃早餐时可不想被人搭讪
+She does if it's Henry Roth.
+罗亨利出马就不同
+- Who that? - Who that? Me that.
+-谁？ -谁？我啦
+I bet you 20 bucks I can get her to have breakfast with me again.
+赌20元能让她跟我共进早餐
+- You're on. - I love it.
+-我赌了 -很好
+- How you doing, honey? - Hey, Sue. Nice haircut.
+-你好，小乖 -你好，阿苏，好美的发型
+Oh, mahalo. See you in a bit.
+谢谢，回头见
+Nick and I have an arrangement. You can trust me.
+我跟大胖自有安排，相信我
+Don't worry.
+别担心
+You should try this out. Put it in there.
+你该试试这样，把这放进来
+Swivelly door.
+旋转门
+Waffleonians can come in and out now.
+这样松饼人就可以进出自如
+Are you from a country where it's okay to stick your fingers...
+你妈是不是从小教你...
+...all over someone else's food?
+用手指摸别人的食物？
+No, I' m from this country.
+没，我妈没这么教
+Why? Were you gonna eat that? Oh.
+你要吃这些？
+All right, well, have a good meal
+祝你早餐愉快
+- Yeah. - That was pathetic.
+-没错 -真差劲
+Yeah? Why don't you choke on your Spam?
+你怎么没被火腿噎死啊？
+Double or nothing tomorrow.
+明天赌双倍
+Hey. I' m sorry to bother you...
+很抱歉打扰你...
+...but you look like a person who appreciates fine art...
+你看来似乎对艺术很有品味...
+...so I wanted your opinion.
+我想听听你的看法
+I drew this. It 's a picture of a father and son fishing off a fishing boat.
+我划了这个，这幅图 是父子在船上钓鱼
+There's a walrus right there...
+这里有只海象...
+Oh, you don't speak English. Okay.
+你不会说英文啊
+Doesn't look Chinese.
+看来不像中国人啊
+Forty.
+40块钱了
+Can I have that?
+那能不能给我？
+I need something to wipe my ass with.
+我上厕所有用
+Shut up.
+闭嘴啦
+I wonder what's the matter with him.
+不知道他是怎么了
+Looks like a stupid asshole to me.
+我看他倒像个笨蛋
+Excuse me. Okay. I didn't mean to startle you.
+歹势，我无意吓着你
+- No, that's all right. L- - - Are you okay?
+-没关系 -你没事吧？
+Yeah, I' m fine. I' m having a problem with something...
+我很好，我只是有点问题...
+Something that I could help you with?
+我能帮得上忙吗？
+No, no, no. I just...
+不行，我...
+...can't read.
+不识字啦
+You gotta be kidding me.
+不会吧
+- I can read that for you. - No. Thank you.
+-我可以帮忙念菜单给你听 -谢谢
+I can do this on my own.
+我可以自己来
+Appreciate the sentiment.
+谢谢你的好意
+I'm gonna get an order of the...
+我要点...
+Pan...
+煎...
+Pan...
+煎...
+Panku...
+煎冰...
+Ca...
+饼...
+Panclocks.
+煎冰
+- Pancakes. - Okay, I' II have pancake.
+-煎饼 -好，我点煎饼
+- Pancakes. - Pancah... Pancakes! Pancakes!
+-煎饼 -煎饼、煎饼
+- I' m so stupid! - Oh, don't cry.
+-我好蠢，蠢毙了 -别哭嘛
+- Stupid. Stupid. Stupid. - Don't cry.
+-我真蠢，我真无知 -别哭啦
+- I don't know anything! - What a loser.
+-我是白痴！ -窝囊废
+I'll tell you what. Why don't you sit with me?
+你过来跟我一起坐吧？
+You can have some breakfast and I'll help teach you some of the words.
+你吃早餐，我教你认字
+- Okay. - All right.
+-好吧 -很好
+- That sounds nice. - Come on over.
+-听来不错 -过来吧
+- Okay, thank you. - All right.
+-谢谢 -不客气
+So I comes before the E?
+所以I都在E后面？
+- Except after C? - Yes.
+-遇到C时才例外？ -对
+Okay, and C is that little half a squiggly one, right?
+C是右边有缺口的那个？
+- Yes. - I think I' m getting it.
+-对 -我想我懂了
+- How'd you get so good at teaching? - I' m a teacher. I do it all the time.
+-你怎么这么会教人？ -我是老师，教书是我的工作
+I'm an art teacher at the Haluki-liki Junior High.
+我在哈兰国中当美术老师
+Well, you Haluki-liki the kind of teacher all the kids have crushes on.
+你是那种学生会很哈的老师
+I know I would if I was in your class.
+是我就会
+Okay.
+好吧
+Oh, boy, do my... My fingers smell like fish.
+老天... 我的手鱼腥味真重
+That doesn't gross you out, does it?
+这不会令你作呕吧？
+No, not at all.
+一点也不
+Really?
+真的？
+If Lucy gets hurt, I' m gonna chop you with the meat cleaver.
+要是露西受伤，你就死定了
+Okay, okay.
+好啦
+So I had a nice time.
+我过的很愉快
+- Yeah, me too. - Thank you very much.
+-是啊，我也是 -非常感谢你
+- Let me get it for you. - Thank you.
+-我帮你开 -谢了
+Sure.
+没问题
+Okay.
+坐稳了
+I just want to eat you up, tomorrow and the next day, next day, next day...
+我想把你吃了 明天、后天、大后天...
+I'll see you around.
+改天见了
+Okay.
+好
+Really? That's it?
+真的？就这样？
+- That's what? - All that flirting...
+-就怎样？ -你想尽办法搭讪...
+...and phony "I can't read" stuff, and you're not gonna ask me out...
+还假装不识字...
+...or for my phone number?
+却连我的电话号码也不问？
+- I can't read. - Oh, shut up.
+-我是不识字 -少来了
+That was one of the goofiest things I've ever seen, but I thought:
+这是我见过最蠢的招数了 但我想...
+"Hey, if this guy is so desperate to meet me...
+要是这家伙真这么想认识我...
+...he might be worth talking to."
+也许值得跟他聊聊
+But then I get stiffed.
+结果我被骗了
+No, no, no, this is what happened. I...
+不，事情是这样的...
+Mahalo for the ego boost.
+真有你的
+- You're right. You're right. I feel like... - No worries.
+-你说的对，我觉得... -我无所谓
+I gotta... I can read a little!
+我是识一点字
+I didn't know I came before E! That one I didn't know, I swear.
+我不知道I都在E后面 这点我真的不知道
+Oh, you idiot.
+超级白痴
+I hope you're happy, Shamu.
+这下你高兴了吧，死胖子
+Marlin. It 's Sue.
+马林，我是阿苏
+- Oh, aloha, sir. My name's Henry... - I know who you are.
+-阿啰哈，先生，我叫亨利... -我知道你是谁
+- I want to apologize to your daughter. - Not gonna happen.
+-我想向你女儿道歉 -不必了
+She's inside. We're gonna straighten things out.
+她在里面，让我们把话讲清楚
+Dad, the damn mongoose got in the garbage again!
+阿爸，野狗又来翻垃圾了
+- Is this the guy? - Yeah.
+-就是这家伙？ -对
+Mr. Roth, I have one simple request:
+罗先生，我有个小请求
+Stay away from my daughter.
+离我女儿远点
+Absolutely. I hurt her feelings and don't want it to end like that.
+当然，不过我伤了她的感情 我不想这样结束
+It's gonna end like this.
+就是会这样结束
+Calm down, little fellow.
+冷静点，小家伙
+I'm gonna kill you! You're a dead man. Okay, I' m calm.
+我要宰了你，你死定了 好了，我很冷静了
+I'm calm.
+我很冷静了
+- Let me help you up. - I got it! I got it.
+-我帮你起来 -我自己来！我自己来
+It's just Dad and I work too hard to protect Lucy to let some idiot ruin it.
+我爸和我很努力保护露西 以免盯上她的苍蝇毁了一切
+I know what you guys do and I totally respect that.
+我知道你们的努力，我很敬佩
+If you know her condition, you know she can't have a normal relationship.
+那你就知道她不能有正常关系
+The next morning, she won't know who he is.
+因为她第二天就会忘了他是谁
+And any guy who's okay with that...
+不介意这点的人...
+...ain't okay with me.
+我可不欢迎
+- I' m not looking for a one-night stand. - Anything with Lucy is, numb-nuts.
+-我不是寻求一夜情 -露西有的只是一夜情
+Give us a break. Just stay away from the Hukilau Cafe.
+帮个忙，别去阿苏小吃店了
+My daughter's been through enough.
+我女儿已经够苦了
+Okay. I' m sorry.
+好吧，对不起
+I could have whooped his ass, but this gravel, I slipped on it...
+阿爸，我没法痛扁他 都是因为这堆碎石头害我滑倒
+Yeah, well, maybe you need to do a few more butt flexes.
+也许你该多锻炼你的屁屁
+Cheap shot, Dad.
+阿爸，你好低级
+So fresh and so clean.
+清新又舒爽
+Hey, Alexa, did you hook up with that girl from the bar?
+你那晚在酒吧有上那个妞吗？
+- I chickened out. - Really?
+-我打了退堂鼓 -真的？
+Yeah, I don't know. I guess I prefer sausage to taco.
+我想我喜欢香肠，不爱蛤仔
+- What? - Yeah. No, I agree, buddy.
+-怎样？ -我同意
+Get out of here. Run for the hills.
+快逃吧
+Let me ask you something, Alexa.
+我问你个问题
+If you promised a girl' s dad that you wouldn't see her...
+要是你答应一个美眉的老爸 你不会再见她了...
+...would you consider that a binding promise?
+你会认真守信吗？
+- Absolutely. - Yeah?
+-当然 -是吗？
+Then again, there are always ways around such things.
+但诅咒也是有办法破解的
+- Like? - For example...
+-比方说？ -比方说...
+...if I promised a woman's father I would not see her...
+要是我答应她老爸我不见她...
+...I would simply shut my eyes while she serviced my manhood.
+她帮我吹箫时，我就闭眼装瞎
+That's actually a cool way to look at it.
+那样做不错
+And a very gross way.
+不过有点低级
+He asked me not to go to the Hukilau. I'm not going there.
+他要我别去小吃店，我就不去
+I'm not doing anything wrong.
+我才不会犯错咧
+Sorry to bother you. I'm kind of stuck here.
+抱歉打扰你，我抛锚了
+- Car trouble? - Yeah. You mind giving me a jump?
+-车子出状况？ -借个电发车吧？
+Okay.
+好了
+Appreciate your time.
+谢谢你帮忙
+Not everybody would have stopped.
+不是每个人都会跟你一样
+- You're real sweet. - Oh, yeah. Thank you.
+-你真好心 -谢谢
+I can't believe you fell for that.
+你不会这么好骗吧
+Well, my grandfather died trying to jump-start a car.
+我爷爷就是这样被电死的
+I'm sorry. I was just joking around.
+对不起，我是开玩笑的
+I can't believe you fell for that!
+你不会这么好骗吧！
+Oh, my God.
+老天
+That was very good.
+你演技真好
+- My name's Henry. - I' m Lucy.
+-我叫亨利 -我是露西
+Nice to meet you. You look like a nice...
+幸会，你看起来是个好...
+(停)
+Hi. Sorry for the delay. Should be a few minutes.
+抱歉耽误了你，一下就好
+- No problem. No worries. - Where you coming from?
+-没问题，别担心 -你从哪来的？
+Breakfast?
+刚吃完早餐？
+- Yeah. - How was it?
+-对 -好吃吗？
+I had waffles. They were delicious.
+我吃了松饼，很好吃
+Ilike making little houses out of waffles.
+我喜欢拿松饼盖小房子
+- You do? - That's my thing.
+-真的？ -我超爱的
+- What's your name? - Lucy.
+-你叫什么名字？ -露西
+Hi, I' m Henry.
+我是亨利
+Okay, pal When she stops, just let her pet you. Look cute.
+等她停车，就装可爱让她摸
+Go to the middle of the road. Thank you. Right there. Perfect.
+到路中央去，很好
+- Oh, shit. - Here she comes. Smile.
+-糟了 -她来了，笑一个
+Where is she?
+她人呢？
+Oh, my God. Oh, no!
+阿娘喂！
+Okay. That didn't work.
+没用
+Shit your pants? So did I
+挫赛了？我也一样
+Okay, this is her. Start beating me up.
+她来了，快打我
+Make it look good.
+装像一点
+Give me your wallet!
+把皮夹给我！
+Okay, haole, what do you think? You can come to this island...
+白毛猪，你少肖想了...
+...eat our pineapple... - Help me! Not so hard.
+-跑来这里吃喝玩乐 -救命！别太大力
+- Take it easy. - Try to bang our women.
+-轻一点 -还想把我们的美眉
+Making my sister clean your hotel room.
+让我妹帮你清扫房间
+Okay. What's that have to do with this? Relax.
+那跟这有什么关系？轻一点
+- Hey! Hey! Help me, please! - Stupid haole!
+-救命啊！ -死白毛猪！
+Yeah, that's right. Take that! And that! And that!
+好啊，你找死、找死...
+And that! And that!
+吃我一棍、再来
+You got him. You got him. Enough. Enough.
+你教训够了，好了
+- Are you okay? - Yes, yes...
+-你没事吧？ -没事...
+Okay, I' II be back. Come here!
+我马上回来，你给我过来
+No, no! I think he's had enough.
+不，他被你打够了
+I'm sorry.
+歹势啦
+My eye!
+我的眼睛！
+- You got him! - Not good enough!
+-你教训到他了！ -还不够呢！
+Oh, Kamehameha!
+三太子救命啊！
+He learned his lesson!
+他得到教训了！
+- What's your name? - My name's Henry.
+-你叫什么名字？ -亨利
+- You did good. - Hi. Sorry.
+-你真行 -抱歉
+I'm in a community-watch program...
+我是守望相助队队员...
+Oh, you crazy bitch!
+你这个肖查某！
+Yeah, keep running!
+是啊，快跑吧！
+Okay, okay, he's... He's gone now.
+好了，他走了
+Not her. False alarm.
+不是她，假警报
+Don't worry, I called the cops already. I'm all set.
+别担心，我报警了，我没事
+Yeah? You all set for this, Mr. Smarty?
+是吗？你真会演戏啊，大天才
+- Oh, shit. - Yeah.
+-靠！ -对啊
+When you're finished playing your kidnap-victim crap on my daughter...
+等你演完绑架戏以后...
+...come by the house.
+来我们家一趟
+Okay.
+好
+Oh, boy.
+妈呀
+There's something I wanna show you.
+我要让你看样东西
+We figured it out. She only sings on days she meets you.
+她只在遇见你的日子唱这首歌
+You're kidding me. That song?
+不会吧，那首歌？
+That's Mom and Dad's song.
+那是我爸妈的歌
+When her mom was alive, Lucy would have me take that tape...
+她母亲在世时，要是我出海...
+...on every fishing trip I went on. - Oh, yeah?
+-她会要我带海滩男孩的录音带 -是吗？
+Yeah, she knew it would make me miss her mom...
+她知道这会让我想她母亲...
+...and want to come home sooner.
+让我一心只想快点回家
+I'm seeing a new side to you, sir. I gotta tell you, it's grossing me out.
+真看不出来，你竟然这么恶心
+Let me ask you something.
+我问你
+What's in it for you? What do you get out of this?
+你有啥目的？ 你这样有啥好处？
+I don't know.
+我不知道
+Wouldn't you want to spend an hour a day with that?
+你们难道不想享受一下？
+Actually, no. She sings like shit.
+才不呢，她歌声超烂
+- What? - Can I ask you guys something?
+-怎样？ -请问一下
+What'll happen down the line? Someday she'll wake up...
+以后会怎样？ 有天她会醒来...
+...look in the mirror and notice she aged 10 years overnight.
+看着镜子 注意到自己一夜老了十岁
+You know something, Henry?
+你知道吗？
+I worry about that every damn day of my life.
+我每天都担心这一刻的来到
+Pardon me.
+抱歉
+Sorry to interrupt, but I noticed we were both eating alone...
+我无意打扰你 但我注意到我们都是一个人...
+...and I thought I could sit with you, maybe build a syrup Jacuzzi...
+我想也许我能跟你一起坐...
+...for your waffle house? - Oh, that would be nice...
+-我能帮你的松饼屋盖糖浆泳池 -那是不错啦...
+...but I have a boyfriend.
+不过我有男友了
+So I' m sorry.
+真抱歉
+You're making up a boyfriend to get rid of me?
+你用这当借口赶我走？
+No, I' m not.
+我才没有
+What's his name, then?
+那他叫什么名字？
+Ringo.
+林哥
+Is his last name Starr?
+他不会刚好姓史塔吧？
+- No. McCartney. - McCartney, okay.
+-不是，他姓麦卡尼 -好吧
+- Oh, no. - All right. I' m sorry.
+-不会吧 -好吧，对不起
+No! This cop is writing me a ticket!
+不是啦！条子在开我单子！
+Oh, whoa, whoa. I wouldn't go out there.
+是我就不会出去
+- Wait, wait, wait! - Go on!
+-等等 -快去啊！
+I'm coming.
+我来了
+The tags don't expire for seven months.
+我的牌照还有7个月才到期
+- They expired May of this year. - No! No, no!
+-它今年5月已经过期了 -不对...
+They expire May of next year.
+是明年5月才到期
+I think there's been a misunderstanding.
+我想这里有点误会
+- I don't. - This is ridiculous.
+-我可没有 -这太扯了
+I'm not paying for this! It's October!
+现在是10月
+Excuse me. Can I borrow this? Look, October!
+借我一下，你看，10月！
+Lucy, let's go back inside.
+我们进去吧
+What?
+什么？
+What?
+什么？
+Having a bad day, Doug!
+凸槌了，儿子
+Sweetheart...
+小公主...
+...these are from the accident.
+这些是车祸的照片
+Oh, no!
+不会吧！
+I can feel it.
+我感觉的到
+You were in the hospital for three months, sweetheart.
+你在医院里待了3个月
+I have to talk to this doctor. I need to hear it from him.
+我要跟医生谈谈 我要听他亲自跟我说
+You have heard it, sweetie. Many times.
+你已经听过很多次了
+I have?
+是吗？
+I'll take her.
+我带她去
+I have to hear for myself too.
+我也想亲耳听听
+Doug, just take this, okay? I can't...
+小弟，这个拿去 我没办法...
+I can't look at it anymore.
+我没办法再看下去了
+- It 's gonna be all right, Luce. - Don't call me Luce. I barely know you.
+-不会有事的，小露 -别叫我小露，我跟你又不熟
+Sweetie, you're sort of dating him.
+女儿，你跟他算是情侣
+Sorry I' m not better-looking.
+抱歉我长的不够帅
+What else happened since last October?
+我车祸后发生了什么事？
+- What about my students? - Miss Campbell took over your class.
+-我的学生呢？ -坎老师接手你的课
+- Did Alicia marry that guy? - Yeah.
+-艾莉嫁给那个人了？ -对
+Doug, did you win the Mr. Hawaii contest?
+你赢得夏威夷健美先生了吗？
+I didn't know there was gonna be a urine test.
+我不知道他们会验尿
+Wow.
+糟糕
+Do we have sex?
+我们上过床吗？
+No, we don't. Just so everybody knows that.
+没，大家都听清楚了
+We want to.
+我们很想
+Just kidding.
+开玩笑的啦
+So you guys have to just lie to me every day.
+所以你们每天都要撒谎骗我？
+(卡拉汉疗养院)
+Hey, Lucy. Good to see you again.
+露西，真高兴再见到你
+What the hell 's her problem?
+她有什么问题啊？
+She doesn't remember who you are, brah.
+她不记得你是谁
+Oh, yeah.
+对哦
+I suck at this job.
+这工作真烂
+Lucy, these are your brain scans here.
+这是你的脑部扫描结果
+I'm afraid they show no improvement.
+恐怕并没有什么进展
+The temporal lobe was severely damaged.
+颞叶在车祸中受损严重
+What we believe is scar tissue here is impairing your ability...
+我们认为是伤疤的组织 阻挡你在睡眠中...
+...to convert short-term memory into long-term memory while you sleep.
+将短期记忆 转换为长期记忆的能力
+The condition's come to be known as Goldfield Syndrome.
+这症状称为金氏症候群
+- Who's Goldfield? - A brilliant Lithuanian psychiatrist.
+-金氏是指谁？ -一位立陶宛的天才精神病学家
+He himself suffered temporal-lobe damage.
+他也受颞叶损伤所苦
+Took him four years to publish his findings...
+他花了4年时间才出版论文...
+...because he had to keep starting over from scratch.
+因为他老是得从头开始写
+Obviously, your sense of humor is still intact, and that's here.
+显然你的幽默感没事，在这里
+Magnificent amygdala as well.
+伟大的扁桃体
+- Doctor, I have a question. - I' d be happy to answer it...
+-医生，我有个问题 -我很乐意回答...
+...but as I' ve told you before, this is a hygienic facility. Shirts are required.
+我说过这里是医疗场所 在办公室里要穿上衣
+- Oh, okay. - Nice move.
+-好啦 -干的好
+Listen, doctor, this...
+医生...
+...friend of mine's been experimenting a little with steroids.
+我有个朋友 他服用了一点点的类固醇
+He's been having a lot of wet dreams.
+而他老是会梦遗
+Could there be a connection between them?
+这两者之间可不可能有关连？
+Douglas, get off the juice.
+道格，别再用禁药了
+As for the nocturnal emissions, why don't you take a swim...
+至于晚上会发射的问题，去游泳...
+...buy a shirt with no holes, find a wahine and take her to dinner.
+买件没洞的T恤 约个漂亮美眉去吃晚餐
+I'll tell my friend you said so.
+我会跟我朋友讲
+In any case, Lucy, your condition is stable...
+露西，你的状况很稳定...
+...but most likely permanent.
+可能也不会变好了
+I'm so sorry, dear.
+抱歉
+But it could be worse.
+还有可能会变糟
+Yeah? How?
+是吗？多糟？
+I think you should meet Ten Second Tom.
+我想你该见见“十秒汤姆”
+Callahan Institute is the leading brain-injury clinic in the Pacific Rim.
+卡拉汉疗养院 是最先进的脑伤医疗院所
+We are funded out of Sandusky, Ohio by T.B. Callahan...
+本院由卡拉汉先生资助建立...
+...the automotive-components tycoon and philanthropist.
+他是伟大的富豪慈善家
+And now, I would like to introduce to you...
+各位，请各位见过...
+...our most distinguished clinical subject...
+我们最出名的病人...
+...Tom.
+汤姆
+- Hi. I' m Tom. - Henry.
+-你好，我是汤姆 -亨利
+- Marlin. - Doug.
+-马林 -道格
+- Lucy. - Hi.
+-露西 -嗨
+Cool flip-flops. Where'd you get them?
+真棒的凉鞋，哪买的？
+You like those? It 's interesting. I was on the North Shore...
+这很有趣，我当时在北滩...
+Hi, I' m Tom.
+你好，我是汤姆
+- Henry. - Hi.
+-亨利 -嗨
+- Marlin. - Tom lost part of his brain...
+-马林 -汤姆因为打猎意外伤及脑部...
+...in a hunting accident. His memory lasts 10 seconds.
+他的记忆只能撑十秒
+I was in an accident? That's terrible.
+我出过意外？真可怕
+Don't worry. You'll get over it in seconds.
+没关系，过三秒你就忘了
+Get over it? I mean, what happened? Did I get shot in the brain?
+怎么？我头部中枪了？
+- Hi, I' m Tom. - Hi, I' m Lucy.
+-你好，我是汤姆 -你好，我是露西
+- Hi. - Doug.
+-嗨 -我是道格
+- Hey. - Marlin.
+-嗨 -马林
+Hey, Tom, can I tell you a secret?
+汤姆，告诉你一个秘密
+Don't you think you're a little old to still have wet dreams?
+你怎么这么大还会梦遗？
+- They liked that. - Hi, I' m Tom.
+-他们喜欢耶 -你好，我是汤姆
+- Yeah, watch yourself, Tom. - Easy.
+-你给我小心点，汤姆 -别激动
+- I' m gonna go to sleep. - All right. Good night.
+-我要去睡了 -晚安
+Good night, you guys. I'll see you tomorrow.
+晚安，明天见了
+- And I guess I' II see you too? - Oh, yeah.
+-我还会再见到你吧？ -会的
+You had a rough day today. I'm sorry.
+你今天辛苦了，对不起
+I hope you get some rest tonight.
+好好休息吧
+Okay.
+我会的
+Good night.
+晚安
+So how you getting home?
+你怎么回家？
+- You gonna take the Likelike or... - Hey.
+-你要走莉琪公路... -喂
+Thank you for being so nice to me today.
+谢谢你今天对我这么好
+- Sure. - I don't want you to...
+-没问题 -我不希望...
+...strike out tomorrow.
+你明天不来了
+So maybe you could talk to me about...
+也许你该跟我谈...
+...lilies.
+百合花
+Lilies?
+百合花？
+I'm a sucker for lilies.
+我超爱百合花的
+Thanks for the tip.
+谢谢你的提示
+Good night.
+晚安
+Good night.
+晚安
+My, oh, my.
+好耶
+- Lover-boy. - Yes, sir.
+-大情圣 -是的，先生
+You don't have to rush off. Stick around.
+你若没别的事要做
+You've earned yourself a couple beers.
+可以进来喝几杯
+So what'll you do when you finish the boat?
+船弄好后，你打算怎样？
+Actually, I' m going on a trip soon...
+我要去旅行一阵子...
+...to study undersea Pacific walrus behaviors.
+研究海象的水中行为
+Sounds kind of fruity.
+真是个偷窥狂
+- Thank you. - How long is it gonna take?
+-多谢赞美 -打算去多久？
+About a year.
+大约一年
+Guess you won't miss days like this.
+你一定不会想念这种日子
+Well, maybe days like this don't have to be so bad.
+这种日子也许并不坏
+What are you trying to say?
+你想说什么？
+When you guys tell her...
+当你们告诉她真相时...
+...she's not just finding out about the accident.
+她不只是发现那次意外事故
+She's finding out that her life is basically a setup.
+还发现她的生活都只是骗局
+I think that freaks her out the most.
+我想这是最让她抓狂的
+- You're an expert now? - No.
+-你成了专家啦？ -没有
+I'm saying I wish there was another way besides:
+我只是希望能别老是说
+"Sorry we couldn't trick you today. Here's pictures of your broken head."
+“很抱歉今天没法骗你 这是你撞破脑袋的照片”
+- You want a broken head? - You'll give him one?
+-你想被打破头吗？ -怎么，你想扁他？
+No, Daddy, I thought you was gonna do it.
+没啦，我以为你要开扁
+Nobody's gotta break my head. I'm gonna split anyways.
+不用麻烦，我反正要走了
+Oh, don't go just because my son is psychotic.
+别因为我儿子发神经走人
+Good night. Sweet dreams. Keep them dry there, Doug.
+晚安，睡觉别乱开炮了
+Very funny.
+真爱说笑
+- Excuse me. Lucy Whitmore? - Yes?
+-失礼，惠露西？ -我是
+I have a delivery for you.
+有人送东西给你
+- A delivery for me? - Yes.
+-给我的？ -对
+Oh, they're beautiful
+好美
+- Who are they from? - That I can't tell you.
+-谁送的？ -我不能告诉你
+It's a secret admirer. He also wants you to have this.
+是个爱慕者，他还送你这个
+- Who's your friend, Lucy? - Oh, well, I mean, I don't know.
+-你朋友是谁？ -我不知道
+We just met, but look.
+我们才刚认识，你看！
+I have a secret admirer.
+有人偷偷爱慕我呢
+Oh, really? What's this?
+真的？这是什么？
+It's a videotape.
+录影带
+A videotape of what?
+内容是什么？
+I have no idea.
+我不知道
+But I have to find out.
+但我会看个明白
+Happy birthday, Daddy.
+生日快乐，阿爸
+- Thank you, sweetie. - That's right. Happy birthday, sir.
+-谢谢你，女儿 -生日快乐
+- What are you, 200 today? - That's cute.
+-你200岁了吧？ -爱说笑
+- What are you doing? - I wanted to try something different.
+-你在搞什么鬼？ -我想试点不一样的
+If it doesn't work, we've only wasted one day.
+要是没用，也不过就浪费一天
+(早安，露西)
+(一切都不会有事...)
+(不过你今年错过了一些事...)
+(在北滩登陆)
+Marha Stewar faced charges...
+(犸莎史都华被起诉...)
+(四月：史奴比狗狗戒毒了)
+天哪！
+Oh, God!
+天哪！
+Oh, God!
+(五月：史奴比狗狗再度吸毒)
+(红袜队赢得了世界冠军)
+(骗你的)
+(阿诺选上了州长)
+(没骗你)
+(道格服用类固醇被淘汰)
+(你不记得这些，因为...)
+(牛只引发车祸)
+(惠马林撞树，露西重伤)
+Okay, I think it's on. Go. Go.
+机器开了，开始吧
+Aloha! I'm Henry Roth.
+阿啰哈！我是罗亨利
+We met here at the Hukilau Cafe about a year after your accident.
+我们在你车祸后一年 在阿苏小吃店认识
+I like you and you like me, most days.
+我喜欢你，你也喜欢我 大部分的日子是的
+Every day is different, but basically this is what happens, Lucy.
+每天都不一样 基本上情况是这样，露西
+Kikikoloko, take the camera.
+拿好摄影机
+- I got it. - Don't drop it.
+-拿好了 -别摔到了
+Okay, all right. Here we are, right here.
+好了，我们在这里
+The par of you in this reenactment...
+在这里...
+...will be played by my good friend, Ula.
+由我的好友芭乐扮演你
+Aloha. Sorry about your brain.
+阿啰哈，你脑子的事真抱歉
+I had a accident too.
+我也出过意外
+Believe it or not, this my good eye.
+你信吗？我这只眼睛才是好的
+- We ready? - Yeah.
+-准备好了？ -好了
+Hi. I like that waffle teepee that you have built.
+我喜欢你建的松饼小屋
+Oh! So nice of you to notice. Please, sit down.
+真高兴你喜欢，坐吧
+I would love to.
+我很乐意
+My name is Henry, by the way.
+对了，我叫亨利
+My name is Lucy.
+我叫露西
+Smell my fingers?
+要不要闻我的手指？
+Fish. Right on.
+鱼，好耶
+So, Lucy, I work at an aquarium.
+露西，我在水族馆工作
+Aquariums make me super horny.
+水族馆让我超爽的
+That's not funny. Don't rub those.
+这不好笑，别乱揉了
+Sorry, Mr. Whitmore, if you're watching.
+抱歉，伯父，如果你在看的话
+It's very late, and my friend's unstable.
+现在很晚了 我朋友的心智又不稳定
+Come on, stop with the licking! You're making me sick.
+别舔了，你真恶心
+Lucy, I'm sorry.
+露西，对不起
+Anyways, I know you wish I was making all this stuff up.
+我知道你希望这是我编的
+I wish I was too.
+我也希望如此
+But the good news is...
+但是好消息是...
+...so many people out there care about you:
+有很多人很关心你
+Your dad and Doug and a couple of your friends here at the Hukilau...
+你爸和你弟 小吃店这里的朋友...
+...who have a message for you.
+想跟你说话
+Lucy, as you know, your mother and I were best friends.
+露西，你知道你妈跟我是麻吉
+That's why I promised her that I would always help look after you.
+所以我答应过她 我永远都会帮忙照顾你
+Sometimes life isn't very fair...
+有时人生是很不公平...
+...but we still have you.
+但我们还有你
+Oh, and if you're wondering about this guy who's making this tape...
+要是你对拍这带子的人有怀疑...
+...he's okay.
+他还不错啦
+Hey, Lucy. Just so you know, since you lost your memory...
+露西，顺便告诉你 自你丧失记忆之后...
+...I became governor of Hawaii.
+我成了夏威夷的州长
+No, just kidding. I'm too smar.
+骗你的啦，我太聪明了
+Kualaliku! Get your brother off the dishwasher!
+阿弟，把你弟从洗碗机里捞出来
+So whenever you're ready, we'd all love to talk to you...
+我们随时愿意跟你谈...
+...and answer any questions you have...
+并回答你的任何问题...
+...and you're the best, Lucy. Aloha.
+你是最棒的，露西，阿啰哈
+How many times have I watched this?
+这我看过多少次了？
+This is the first time.
+这是第一次
+Okay, she cried for about an hour. That's not too bad.
+她哭了快一个小时，还不坏
+I bet in another hour she'll be ready to see her friends, have lunch...
+再过一小时她就能去见朋友 吃午饭...
+...get her life back.
+过日子
+We could do this every day.
+每天来一回
+We'll leave it up to her.
+一切由她来决定
+All right.
+好
+So how's the cow?
+那头牛怎么样了？
+Same as you. Every day they have to convince her she's a cow.
+一样，天天都忘记他自己是牛
+Wow, look. The bark is healing.
+你看，树干愈合了
+You're gonna get there.
+你也会的
+I never hung out with you in the afternoon like this.
+我没跟你在下午约会过
+In this lighting, man, oh, man, you look...
+在这种光线下，老天，你看来...
+...disgusting.
+真丑
+Yeah.
+没错
+I don't know how you get me to fall for that egg-shaped head every morning.
+真不知道你是用什么办法 让我每天都爱上你的咸蛋头
+All I have to do is slide on my designer jeans...
+我只要穿上我的名牌牛仔裤...
+...and just kind of wiggle in front of you. You go nuts.
+到你前面乱晃就行 你会变的很疯狂
+Why couldn't I have met you one day before the accident?
+我出事前一天能认识你就好了
+Don't worry, because if you hung out with me for more than one day...
+别担心，要是你跟我在一起多一天...
+...you'd realize I' m a bore.
+你就会受不了我
+- Oh, well, I have news for you. - Yes?
+-告诉你 -什么？
+It takes less than one day.
+不用一天就够了
+You know something? That hurt.
+真是的，好伤人
+Your damaged temporal lobe is causing me pain...
+你受损的大脑颞叶 让我受苦...
+...and I' m gonna get you for that.
+我要你负责
+Now you're dead!
+你死定了！
+- I can't believe you're pregnant. - I know.
+-我不敢相信你怀孕了 -我知道
+- And I got her on the first try. - Yeah. Easy.
+-我这是一发就中 -别激动
+And, Tammy, you are so thin.
+谭咪，你好瘦
+Thanks, Luce.
+谢了，小露
+And I' m so glad you finally got...
+真高兴...
+...that gender-reassignment surgery, Jennifer. I mean, Jonathan.
+你变性成功，珍妮 我是说，阿强
+Mahalo.
+谢谢
+- Here you go, Lucy. - Thank you.
+-好了，露西 -谢谢
+- You're welcome. - You must be Lucy's friend.
+-不客气 -你一定是露西...
+- The one who made the tape. - I think he's more than my friend.
+-那个拍带子的朋友 -我想他不只是普通朋友
+- You're my boyfriend, right? - Yes, ma'am.
+-你是我男朋友，对吧？ -对
+So every day you help her to realize what happened...
+你每天都协助她了解事实...
+...and you wait patiently for her to be okay with it...
+还耐心的等她接受这一切...
+...then get her to fall in love with you again?
+然后让她再度爱上你？
+Yes, ma'am.
+没错
+You asshole!
+你这个死男人！
+You don't even open the fricking car door for me anymore.
+你现在连车门都不帮我开了
+You're in trouble.
+你麻烦大了
+I gotta go tinkle.
+我要去尿尿
+Okay, so tell me a little bit more about yourself.
+好吧，再多说一点你的事
+Okay. Well, I' ve...
+我...
+...won over seven all -you-can-eat chicken-wing contests.
+赢过7次吃鸡翅冠军
+- Really? - Yes.
+-真的？ -真的
+And I' m a ballet dancer, but only in my bathroom.
+我还会跳芭蕾，只在浴室跳
+No, what do you want to know?
+没有啦，你想知道什么？
+Do you love me?
+你爱我吗？
+I didn't mean to put you on the spot.
+我无意给你压力
+I was just asking more for informational purposes.
+我只是想多知道一点
+It's to keep the video as up-to-date as possible.
+好更新录影带的资讯
+Sure.
+当然
+Well, love is a very loaded word.
+爱是个意义深远的字
+Let's see. I...
+我想想，我...
+I go to this restaurant every morning, and I see you there, reading.
+我每天早上去小吃店 看到你在那里看书
+And...
+然后...
+Ilove you very much.
+我非常爱你
+Probably more than anybody could love another person.
+也许比任何人的爱情还强烈
+And how do I feel about you?
+那我对你的感觉呢？
+You're excited about the chicken-wing thing.
+你很高兴我是吃鸡翅冠军
+And...
+还有...
+...you've been dying to make out with me for some time now.
+你有时候会很想跟我拥吻
+Feeling better now?
+感觉好多了？
+Nothing beats a first kiss.
+任何事都比不上初吻
+There's nothing like a first kiss.
+初吻是无以伦比的
+Nothing beats a first kiss.
+任何事都比不上初吻
+That's what I' ve heard.
+我听过这句了
+Nothing beats a first...
+什么事都比不上初...
+What are you doing?
+你干嘛？
+Nothing. I was just getting some lint off for you.
+没什么，帮你捡线头
+You were going for a feelski!
+你偷袭我胸部
+All right, I' m sorry, but this is like the 23rd time we've made out already...
+对不起，但我们已经这样23次了...
+...and they're getting blue.
+我快憋坏了
+I know. I know.
+我知道
+I mean, I really don't know.
+我是说，我不知道
+For me, it still feels like the first time.
+对我而言，这感觉还是第一次
+Okay, let's average it out then.
+那我们算平均值好了
+It's the 23rd time for me and the first time for you.
+这是我第23次，你第一次
+- That's about our 12th time. - Yeah?
+-那就算是我们的第12次 -是吗？
+Now, Hawaiian law clearly states after the 12th date...
+夏威夷法律规定约会12次后...
+...I' m entitled to unlimited boob access.
+我有权任意袭胸
+Why didn't I meet you one day before the accident?
+我出事前一天能认识你就好了
+You say that all the time.
+你老爱说这句话
+You want to meet a friend of mine?
+要不要去见我一个朋友？
+All right.
+好了
+Jocko, this is Lucy. Lucy, this is Jocko.
+这是露西，这是肥仔
+Wow! Thank you. Nice to meet you.
+谢谢你，真是幸会
+He is awesome! He is so smart.
+他真棒！他好聪明
+Check this out. Jocko, what does the teapot do when the water's ready?
+你看着 肥仔，水壶烧好水会怎样？
+- Very good. - Can I ask him a question?
+-很好 -我能问他问题吗？
+Go ahead.
+问吧
+Jocko...
+肥仔...
+...do you think that Henry and I are ready to take our relationship...
+你想亨利和我...
+...to the next level
+可以有进一步的关系了吗？
+You sure about that?
+你确定？
+Do you think I should bring him into the other room...
+你想我该带他进房间...
+...and take advantage of him?
+让他占我便宜？
+I saw that hand gesture.
+我看到暗号了
+- And I' m glad you did it. - Really?
+-我很高兴 -真的？
+- Use that. - Oh, wow. Look!
+-用那个 -你看！
+- Yeah. - They're...
+-是啊 -他们...
+They're nodding in approval, I hope.
+他们在点头 希望是表示满意
+They like you. Let me get them out of there.
+他们很喜欢你，我叫他们走开
+Mary-Kate, Ashley, get a life. Thank you. Sorry.
+哼哈双豚，去别的地方吧
+- Oh, they're very nice, though. - Yeah, so are you.
+-他们很好心 -你也是
+Let me get you down slow.
+我慢慢的让你躺下
+- Thank you. - My pleasure.
+-谢谢 -我的荣幸
+All right, I just wrote this, so go easy on me.
+我刚写下这首歌，别太挑剔
+The Hukilau was the place
+地点就是小吃店
+Where I first saw your face
+我初次与你相遇
+We liked each other right away
+你我立即相倾心
+But you didn't remember me The very next day
+但你隔天就忘了我
+Forgetful Lucy
+善忘的露西
+Has got a nice caboose-y
+前凸后翘好身材
+I used to trick you into pulling Your car over so we could chat
+我曾骗你停车跟你搭讪
+But my favorite time was when you Beat the shit out of Ula with a bat
+但我最爱的时刻 却是你海扁芭乐那一次
+And we drove up to see Dr. Keats
+还有我们去看医生
+And found out why Doug always Has to change his sheets
+发现了道格的秘密
+Forgetful Lucy
+善忘的露西
+Cracked her head like Gary Busey
+脑袋天天重开机
+But I still love her so
+但我还是深爱她
+And I'll never let her go
+永远不会离开她
+Even if while I'm singing this song
+就在我唱歌的当下
+She's wishing I had Jocko the Walus' schlong
+她还希望我跟胖仔一样猛
+Forgetful Lucy
+善忘的露西
+Her lips are so damn juicy
+她的唇儿甜如蜜
+How about another first kiss
+再来一次初吻吧
+Can't fall asleep.
+睡不着
+I'm not sleeping.
+我没睡
+I'm just closing my eyes.
+我只是闭个眼
+Well, I' m gonna go downstairs then.
+那我下楼去吧
+No, no. I' m just resting.
+不要，我只是在休息
+Lucy.
+露西
+Yeah.
+什么事？
+Will you marry me?
+你愿意嫁给我吗？
+- Of course. - Good.
+-当然愿意 -好
+Don't forget about me.
+别忘了我
+Never.
+永远不会
+Good morning.
+早安
+Oh, shit!
+靠！
+- Help! Help! - Whoa, whoa, whoa. Lucy.
+-救命！ -哎，哎，哎，露西
+Lucy! Lucy! Hey, hey, hey.
+露西！等等
+I know this is hard for you to understand...
+我知道你现在很难明白...
+...but we are actually seeing each other.
+但我们其实是一对
+We have been for a while now.
+我们交往好一阵子了
+Oh! Lucy! Lucy! Lucy!
+露西！...
+If I was lying, how would I know this?
+我若说谎，怎会知道...
+You're an art teacher and you go to the Hukilau every Sunday...
+你是美术老师 你每周日都会去阿苏小吃店...
+...and you make waffle houses and you like Casablanca lilies.
+你会盖松饼屋，还喜欢百合花
+- Stalker! - No, don't you remember me a little?
+-跟踪狂！ -你一点都不记得我了？
+I may not be able to kick your ass, but my sister can.
+也许我没办法开扁你 不过我老姐倒可以
+Thanks, buddy.
+谢了
+Little Sammy Sosa's a bit shook up, but she'll be okay.
+格斗天女抓狂了，她没事的
+She's watching the tape as we speak.
+她现在正在看带子
+How's my temporal lobe looking there, doc?
+医生，我的颞叶还好吧？
+Don't worry. You're not gonna suffer any short-term memory loss.
+别担心，你不会丧失记忆的
+But was your head shaped like an egg before she hit you?
+你的头原来就长的像咸蛋吗？
+Don't make fun of Henry. It's not his fault it's shaped like that.
+别闹了，像咸蛋又不是他的错
+Note the intense overreaction. That's the "roids" talking.
+反应过度也是类固醇的副作用
+- Doug, once again, off the juice. - It 's not juice.
+-再说一次，别再吃禁药了 -不是禁药
+It's a protein shake.
+是高蛋白
+Henry, the boys tell me you're setting sail for Alaska to study walruses.
+他们说你要开船去阿拉斯加研究海象
+- When does that adventure begin? - That actually began...
+-这是何时开始的？ -10年前...
+...ten years ago. That's when I started planning and building my boat.
+我从那时开始存钱造船
+All I know is, out of all mammals, they have the second-largest penis.
+我只知道海象 他们有世上第二大的鸡鸡
+I have the first.
+第一大的是我
+That's my joke.
+那是我的笑话
+Did you tell Lucy about this trip?
+你跟露西提过这个旅行了？
+Well...
+这个嘛...
+...actually, there's nothing to tell because I decided not to go.
+其实没什么好说的 因为我决定不去了
+I mean, Lucy needs me here.
+露西需要我
+I'm just worried about going away for a year...
+我担心离开一年之后...
+...and ruining all the progress she's made.
+会摧毁她一切的进展
+I know you think I' m crazy...
+我知道你认为我疯了...
+...but I think deep down inside...
+但我觉得，在内心深处...
+...she's starting to remember me. - No, Henry.
+-她已经开始记得我了 -不
+That's what you want to believe. It's what we all want to believe.
+那是你自己想相信的 那也是我们都想相信的
+But it's never gonna happen.
+但是那不可能
+Okay. I gotta go to work.
+我得去上班了
+Will you tell her I' II be back later to pick her up?
+告诉她我会来接她
+See you, guys. Don't tell anyone your sister beat me up.
+回头见，别跟你姐说她扁了我
+He could go to the moon and back and Lucy would never even know he left.
+那小子就算去一趟月球 露西也不会知道他离开过
+Sometimes I wish my wife had Goldfield Syndrome.
+真希望我老婆得了金氏症候群
+That way she wouldn't remember when I called her mother...
+那样她就不记得我说过她老妈...
+...a loud, obnoxious drunk with a face like J. Edgar Hoover's ass.
+长得像得过天花加嘛疯的如花
+All right. There's your medicine, little fellow.
+好，这是你的药，小家伙
+Ula! Get back to cleaning the pool
+芭乐！回去清理池子！
+If that's one of your special brownies, don't let any of the dolphins eat that.
+你的特制巧克力蛋糕 可别让海豚吞下胜
+How do you think I get them to double flip and play with white kids?
+你以为我怎么训练海豚跳高 还教他们陪小鬼玩？
+Okay, Willie, that's it.
+好了，小威，就这样
+This time try to stay clean for more than a day.
+这回试着保持干净吧
+I made you a nice anchovy sundae.
+我帮你准备了鳀鱼圣代
+Okay, enjoy that.
+好好享受
+Henry?
+亨利？
+- Hey! - How's your head?
+-你好！ -你的头没事吧？
+- Oh, it's fine. Don't worry. - Good.
+-没事，别担心 -很好
+What brings your royal cuteness out here?
+怎么有空大驾光临？
+I needed to see you.
+我要见你
+Okay. What you got there?
+好吧，你手上拿着什么？
+It's my journal I write in it every night.
+我的日记，我每晚都写
+- Oh, you don't like the video? - No, I love it.
+-你不喜欢录影带？ -我喜欢
+It's just sometimes when I watch it, I feel like I' m being told about my life...
+只是有时我看带子的时候 我总觉得是别人在说我的故事...
+...from someone else. And when I read this...
+而当我读这本日记...
+...it's like I' m telling myself.
+则像是我自己告诉我自己
+When did you start this up?
+你何时开始写的？
+Right after you gave me the video.
+就在你给我带子之后
+- Really? - I was so nervous to come here...
+-真的？ -我心里很紧张...
+...and meet the guy that makes me fall in love with him every day.
+要见让我每天爱上他的男人
+Well, you probably thought I couldn't live up to the hype.
+你也许以为我会受不了这一切
+No. I was nervous because...
+不，我之所以紧张...
+Because I came here to break up with you.
+是为我是来跟你分手的
+You had plans and a life...
+在认识我之前...
+...before you met me and now all you have time for...
+你原本有个计划、人生...
+...is to make me fall in love with you.
+现在你却成天设法让我爱上你
+That's not all I do. I gave a penguin a bath today.
+不只啦，我今天还帮企鹅洗澡
+Which I' II have to do again tomorrow.
+我明天还要帮他洗一次
+Ilook at my dad and my brother's lives and I won't do that to you.
+我看着我爸和我弟的生活 我不想让你也那样
+What do you want me to do? Be some chapter in your scrapbook and go?
+你要我在你生命里 留下痕迹之后，翩然离去？
+No.
+不是
+My plan is to erase you completely, so it's as if you never existed.
+我打算将你完全抹去 就当你从未出现过
+Why are you doing this?
+你为什么要这么做？
+Because you have to understand that there is no future with me.
+因为你必须明白 跟我在一起没有未来
+Don't you want to have a career and marriage and children?
+你难道不想要有一番事业 结婚生子？
+I asked you to marry me. You said yes.
+我昨晚向你求婚，你答应了
+Kids? Yeah, I' d love to do it.
+孩子？好，我想要有
+But how is that going to work?
+这怎么可能呢？
+I'm gonna wake up every morning with an enormous belly and no memory...
+我每天醒来胜子逐渐变大 却完全搞不清...
+...of how it happened?
+是怎么回事？
+I have to make a new journal that doesn't have you in it.
+我得写本新的、没有你的日记
+But before I do...
+在那之前...
+...I really want you to read what I wrote about you.
+我要你先看过它
+I will read about it tomorrow...
+我明天再看...
+...when you forget about all this breaking up stuff, okay?
+等你忘了分手的事再说
+I'm not going to forget it. I wrote it down. I won't let myself.
+我不会忘的 我已经写下来了，我不能忘
+And I' m gonna do it whether you want me to or not.
+不管你要不要，我都会这么做
+I'll be at my house.
+我会待在家里
+Okay, type this one in there.
+好，打下这段
+Saturday, November 25th.
+11月25日，周六
+I drove out to Callahan Institute today and had a talk with Dr. Keats.
+我今天去了疗养院 跟医生谈了一下
+There's one about me.
+这里有一段跟我有关
+Reminder: He makes funny noises when I kiss his neck.
+小小提醒 我亲他脖子时，他会发出怪声
+I'm gonna miss that.
+我会想念这个的
+You sure you don't want me to put that in?
+你真的不要我把这放进去？
+- We can skip that one. - No, let me read it.
+-这页跳过 -让我看看
+We made love tonight! It didn't last long, but it was incredible.
+我们今晚做爱了 虽然不够久，但还是很棒
+It's not all about how long you go. It 's... There was a connection, I thought.
+久不久不重要... 重要的是感觉
+Actually, let's just rip that out.
+直接撕掉吧
+(“读我”)
+Well, that's that.
+结束了
+Henry, wait!
+亨利，等等！
+Could I have one last first kiss?
+能不能再给我一个初吻？
+- I ain't gonna do this, Marlin. - You have to, Henry.
+-我做不到 -你一定要做到
+I'm gonna miss you, but I gotta get the hell off this island.
+我会想你的，但我得走了
+I'm sorry I can't take you...
+抱歉我不能带你一起走...
+...but you've lived here so long you're too big of a pansy to defend yourself.
+你在这里住太久了 到野外根本抢不到母海象
+I don't feel bad for you. I know you got a thing going on with Candace.
+我不会觉得你很悲哀 我知道你跟阿珠有一腿
+Candace and Bernice?
+阿珠跟阿花？
+Candace, Bernice and Rose?
+阿珠、阿花、还有阿霞？
+Yeah. I fell for one chick and I' m losing my mind. Good luck with that.
+我爱上一个女人就头晕脑胀了 祝你好运
+Okay, baby.
+好啦
+Ilove you.
+我爱你
+Thanks, buddy. Remember to use a condom.
+谢了，兄弟，记得戴保险套
+Or in your case, a Hefty bag.
+你的话，用超大号塑胶袋吧
+(海蛇号)
+Well...
+各位...
+Okay, you guys. Thanks for coming to say goodbye.
+谢谢你们来送行
+Be careful
+保重
+You make sure your father doesn't get eaten by a shark.
+看好你阿爸，别让鲨鱼吞了他
+Thank you, buddy. What does that mean again?
+谢了，兄弟，那是什么意思？
+Bring me back a T-shirt.
+带件T恤回来给我
+Oh, okay. You got it.
+好吧，没问题
+Come here. All right. Love you guys.
+过来，我爱你们
+My shirt size is medium husky.
+我的T恤尺寸是M
+Hey! Kikikuloa!
+死小孩！
+No flippies off the dock! You could get hurt!
+别乱跳水！会受伤的！
+No! All right. Let the master show you how to get it done.
+好吧，让大师来跳给你们看
+Now you kids go down there and find my nuts.
+你们快帮我找鸟蛋吧
+Sure you don't want to take Doug?
+你真的不带道格一起去？
+Hey! What the heck are you guys doing here?
+你们怎么来了？
+I spoke to the harbormaster and he said you were setting sail today...
+我跟港务局长谈过 他说你今天出航...
+...so we thought we'd wish you bon voyage.
+所以我们来祝你一路顺风
+This is from Nick and Sue. They send their best wishes.
+这是大胖和阿苏送的
+That's very nice. Spam and Reese's. All right.
+真好，火腿罐头，好耶
+Ilove Spam and Reese's. Can I have it?
+我超爱吃火腿，可以给我吗？
+I guess.
+可以吧
+- Doug! - That's all right.
+-道格！ -没关系啦
+- I' m sorry. - So...
+-真抱歉 -那个...
+...how's Lucy?
+露西还好吧？
+Actually, she's living at the institute.
+她现在住疗养院了
+- When did that happen? - Three weeks ago.
+-这是什么时候的事？ -三周之前
+Said she didn't want to be a burden to me and Doug anymore. I don't know.
+她说她不想再拖累我们了
+I couldn't talk her out of it. You know what?
+我没办法说服她
+She's doing really great up there.
+她在那里过的很好
+She's teaching an art class and she gets to paint every day.
+她在那里还开班教划划
+In fact, she's even singing again.
+她甚至又开始唱歌了
+Hey, look, I got a little gift for you too.
+亨利，我也有个小礼物送你
+It's just a little something from one sailor to another one.
+水手送水手的礼物
+You take care of yourself out there.
+出门在外要小心
+- I will. - Okay.
+-我会的 -很好
+Henry did not tell me about you.
+亨利没跟我提过你
+Your fisherman muscles.
+还有你的雄壮肌肉
+Can I touch?
+我能碰一下吗？
+Sure.
+当然
+Yes.
+好耶
+The Beach Boys?
+海滩男孩？
+How nice of him to give me a CD that will remind me...
+这家伙竟然送我一张CD 让我想起...
+...of all the wonderful times I shared with his daughter.
+我跟她女儿的美好恋情
+What an asshole!
+真是个老混蛋！
+Oh, why?
+为什么？
+Why would you do this to me?
+你为什么这么对我？
+You sick bastard!
+你这个死老头！
+Oh, my God.
+我的妈呀
+Is he trying to tell me something?
+他是不是想告诉我什么？
+She only sings on days she meets you.
+她只在遇见你的日子唱这首歌
+She remembers me?
+她记得我？
+Holy shit!
+哇靠！
+She remembers me!
+她记得我！
+Julia, that looks great.
+茱莉，你划的很好
+Excuse me. What am I doing?
+借问一下，我在干嘛？
+You're painting a picture. And you're doing an excellent job.
+你在划划，你划的很好
+Oh.
+这样喔
+Holy crap! I suck.
+妈啦，我真烂
+Hey, hey, hey.
+等等
+- Can we help you, sir? - Yes. I have an appointment.
+-先生，有事吗？ -我有预约
+- What's your name? - My name?
+-你的名字是？ -我的名字？
+Dude, he forgot his name. I feel bad for him.
+他忘了啦，真可怜
+Just go on up. And good luck with that memory problem.
+上去吧，祝你记忆能恢复
+Yeah. Thank you.
+谢谢
+What?
+干嘛？
+Lucy!
+露西！
+Lucy!
+露西！
+- Hi, I' m Tom. - Hey, I met you before. I' m Henry.
+-你好，我是汤姆 -我们见过，我是亨利
+Maybe you can help me. I'm looking for Lucy Whitmore.
+我找惠露西
+Any idea where I can find her?
+你知道她在哪里吗？
+Hi, I' m Tom.
+你好，我是汤姆
+Oh. Thanks anyways.
+真多谢了
+Lucy!
+露西！
+Lucy!
+露西！
+Lucy Whitmore...
+惠露西...
+...can I ask you a question?
+我能问你一个问题吗？
+Do you have any idea who I am?
+你知道我是谁吗？
+- No. - No?
+-不知道 -不知道？
+That sucks.
+真糟糕
+- What's your name? - I' m Henry.
+-你叫什么名字？ -我叫亨利
+Henry.
+亨利
+I want to show you something. Will you come with me?
+跟我来，我有东西让你看
+Well, yeah.
+好
+Hey. Do you know who that guy is?
+你知道那家伙是谁吗？
+Dude, I don't even know who I am.
+我连我是谁都不知道了
+Oh, well, you're Pablo Picasso.
+你是毕加索
+- Really? - No. Not really.
+-真的？ -不是真的
+This is my studio.
+这是我的工作室
+I don't know who you are, Henry...
+我不知道你是谁，亨利...
+...but I dream about you almost every night.
+但我几乎每晚都梦见你
+Why?
+为什么？
+What would you say if I told you that notebook you read every day...
+要是我告诉你 你每天都看的那本日记...
+...used to have a lot of stuff about me in it?
+曾经记录着很多我的事呢？
+I would say that that makes a lot of sense.
+我会说那很有可能
+You erased me from your memories...
+你把我从你记忆里抹去...
+...because you thought you were holding me back from having...
+因为你以为你拖累了我...
+...a full and happy life.
+害我无法拥有快乐的人生
+But you made a mistake.
+但是你错了
+Being with you is the only way I could have a full and happy life.
+我只有跟你在一起才会快乐
+You're the girl of my dreams...
+你是我最完美的伴侣...
+...and apparently I' m the man of yours.
+而我显然也是你的完美伴侣
+Henry.
+亨利
+It's nice to meet you.
+真高兴认识你
+Lucy, it's nice to meet you too.
+露西，我也一样
+Hi, I' m Tom.
+你好，我是汤姆
+Henry, Lucy. Nice to meet you, Tom.
+亨利、露西，幸会，汤姆
+Now why don't you come back in ten seconds so we can meet again?
+十秒后再来，我们再相识一次
+(早安，露西)
+(早安，露西)
+(牛只引发车祸)
+## Do you, Honah Lee, take this woman to be your lawfully wedded wife...
+亨利，你是否愿意...
+...to have and to hold from this day forh...
+娶这位女子为妻...
+...as long as you both shall live?
+从今起彼此相互扶持 直到永远？
+- I do. - Really?
+-我愿意 -真的？
+Even though in, like, 10, 15 years...
+纵使经过10到15年后...
+...she could possibly let herself go and then, like...
+她可能会变成超丑肥猪母...
+...sex could be, like, nauseating for you?
+让你倒尽胃口不想上床？
+What are you, nuts? Your wife's right over there.
+你疯啦？你老婆在场耶
+I'm just kidding, Muumuu!
+我开玩笑的啦，如花
+I now pronounce you man and wife.
+我宣布你们结为夫妻
+Mazel tov!
+恭喜！
+It's very cold, so when you're ready...
+外面很冷，上来要加衣服...
+...put on a jacket and come have breakfast with me. Love you.
+跟我一起吃早餐吧，我爱你
+Hey, hey! Good morning, Mrs. Roth. Would you like to meet your daughter?
+早安，罗太太 见过你女儿吧？
+Go say hello to Mommy. 
+跟妈咪打招呼
+Hi, Mommy.
+妈咪
+That's right.
+很好
+Good morning.
+早安
+Oh, my goodness!
+老天爷！
+- Grandpa's here. - Hi, Dad.
+-爷爷在这里 -阿爸
+
+```
+
+

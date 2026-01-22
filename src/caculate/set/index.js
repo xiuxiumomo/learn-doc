@@ -4,6 +4,7 @@ class MySet {
   }
   //新增
   add(value) {
+    
     if (this.has(value)) {
       return false;
     }
@@ -95,3 +96,5 @@ otherset.add(2);
 otherset.add(4);
 
 console.log(myset.subset(otherset));
+
+

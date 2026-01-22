@@ -2,7 +2,7 @@
  * @Author: xiuxiumomo
  * @Date: 2024-10-08 15:44:22
  * @Last Modified by: xiuxiumomo
- * @Last Modified time: 2025-07-03 10:33:58
+ * @Last Modified time: 2025-12-23 15:59:57
  */
 import { defineConfig } from "vitepress";
 
@@ -167,11 +167,16 @@ export default defineConfig({
         text: "英语",
         collapsed: true,
         items: [
+          { text: "发音", link: "/src/other/english/yin.md" },
           { text: "美文1", link: "/src/other/english/articles/1.md" },
           { text: "美文2", link: "/src/other/english/articles/2.md" },
             {
+            text: "新概念-1-127",
+            link: "/src/other/english/articles/enc1/127.md",
+          },
+          {
             text: "新概念-1-129",
-            link: "/src/other/english/articles/enc1/131.md",
+            link: "/src/other/english/articles/enc1/129.md",
           },
           {
             text: "新概念-1-131",
