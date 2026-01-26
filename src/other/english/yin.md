@@ -2,11 +2,11 @@
 
 ```text
 
-aa /æ/ 张大嘴
-bb /b/
+aa /æ/ 张大嘴 bad 
+bb /b/ 
 cc /k/
 dd /dd/
-ee /e/ 张小嘴
+ee /e/ 张小嘴  bed 
 ff /f/
 gg /g/
 hh /h/
@@ -15,21 +15,21 @@ jj /dʒ/
 kk /k/
 
 
-l 1.乐乐 在前
-  2.哦哦 在后
+l 1.乐乐 在前  large
+  2.哦哦 在后  all
 
-m 1. 么么 在前
-  2. 嗯嗯 闭嘴巴  在后
-n 1. 呢呢  在前
-  2. 嗯嗯  在后
+m 1. 么么 在前  man
+  2. 嗯嗯 闭嘴巴  在后  mom
+n 1. 呢呢  在前 night
+  2. 嗯嗯  在后 on
 
 
 
-oo /a/ 张大嘴
+oo /a/ 张大嘴  
 pp /p/
 q /kw/ 阔
-rr 1. 若若
-   2. 儿儿
+rr 1. 若若  right
+   2. 儿儿  work
 
 ss /s/
 tt /t/
@@ -88,4 +88,4 @@ zz /z/
 - [ð] 要突破吹来了 this
 
 - 如： `th`ink `th`is `th`at `ch`air 
--      [θInk]   [ðIs] [ðaet] [tfer]
+-     [θInk]   [ðIs] [ðaet] [tfer]

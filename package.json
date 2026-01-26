@@ -4,7 +4,7 @@
   "description": "project learn front-end",
   "main": "index.js",
   "scripts": {
-    "dev": "vitepress dev",
+    "dev": "vitepress dev --port 7777",
     "build": "npm run docs:build",
     "docs:dev": "vitepress dev",
     "docs:build": "vitepress build",

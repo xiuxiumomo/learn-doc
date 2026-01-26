@@ -208,6 +208,15 @@ export default defineConfig({
           },
         ],
       },
+           {
+        text: "英语阅读",
+        collapsed: true,
+        items: [
+          { text: "阅读1", link: "/src/other/english/reading/1.md" },
+      
+    
+        ],
+      },
       {
         text: "其他",
         collapsed: true,

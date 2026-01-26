@@ -1,0 +1,4 @@
+- becomes a wanted criminal in China.  wanted被通缉   criminal罪犯
+- the state will cover your tuition up to the high school. tuition /tʊ'ɪʃən/ 学费
+- in China there is no employment discrimination 就业歧视
+- if you have outstanding abilities,regardless of your background, you will have a better feature.
