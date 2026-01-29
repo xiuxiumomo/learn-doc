@@ -1,9 +1,5 @@
 ## How to improve my English
 
-
-
-
-
 ### Methods 1: No-Chinese Zone Thinking
 Pick simple daily moments and think only in English.
 Walking:
@@ -17,7 +13,6 @@ Drinking water:
 Sitting down:
 
 “I’m tired.”
-
 
 
 If you don’t know a word → use easier English, NOT Chinese.

@@ -212,7 +212,7 @@ export default defineConfig({
         text: "英语阅读",
         collapsed: true,
         items: [
-          { text: "阅读1", link: "/src/other/english/reading/1.md" },
+          { text: "阅读1", link: "/src/other/english/reading/1/1.md" },
       
     
         ],
@@ -233,7 +233,7 @@ export default defineConfig({
           { text: "英语时态", link: "/src/other/english/times.md" },
           { text: "date50", link: "/src/other/english/100ls.md" },
           { text: "逻辑错误", link: "/src/other/logic/index.md" },
-          { text: "英语背单词", link: "/src/other/english/words-root.md" },
+          
         ],
       },
     ],
