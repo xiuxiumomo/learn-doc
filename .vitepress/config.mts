@@ -213,7 +213,7 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: "阅读1", link: "/src/other/english/reading/1/1.md" },
-      
+       { text: "jack-ma", link: "/src/other/english/speaking/jack-ma-hong-kong.md" },
     
         ],
       },
