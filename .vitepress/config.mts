@@ -170,7 +170,7 @@ export default defineConfig({
           { text: "发音", link: "/src/other/english/yin.md" },
           { text: "美文1", link: "/src/other/english/articles/1.md" },
           { text: "美文2", link: "/src/other/english/articles/2.md" },
-            {
+          {
             text: "新概念-1-127",
             link: "/src/other/english/articles/enc1/127.md",
           },
@@ -208,13 +208,19 @@ export default defineConfig({
           },
         ],
       },
-           {
+      {
         text: "英语阅读",
         collapsed: true,
         items: [
           { text: "阅读1", link: "/src/other/english/reading/1/1.md" },
-       { text: "jack-ma", link: "/src/other/english/speaking/jack-ma-hong-kong.md" },
-    
+          {
+            text: "jack-ma",
+            link: "/src/other/english/speaking/jack-ma-hong-kong.md",
+          },
+          {
+            text: "chinese",
+            link: "/src/other/english/speaking/chinese-people.md",
+          },
         ],
       },
       {
@@ -233,7 +239,6 @@ export default defineConfig({
           { text: "英语时态", link: "/src/other/english/times.md" },
           { text: "date50", link: "/src/other/english/100ls.md" },
           { text: "逻辑错误", link: "/src/other/logic/index.md" },
-          
         ],
       },
     ],
