@@ -167,6 +167,12 @@ export default defineConfig({
         text: "英语",
         collapsed: true,
         items: [
+          {
+            text: "常用语句1", link: "/src/other/english/short-sentense/1.md"
+          },
+          {
+              text: "常用语句2", link: "/src/other/english/short-sentense/2.md"
+          },
           { text: "发音", link: "/src/other/english/yin.md" },
           { text: "美文1", link: "/src/other/english/articles/1.md" },
           { text: "美文2", link: "/src/other/english/articles/2.md" },
