@@ -227,6 +227,10 @@ export default defineConfig({
             text: "chinese",
             link: "/src/other/english/speaking/chinese-people.md",
           },
+            {
+            text: "quora-1",
+            link: "/src/other/english/quora/1.md",
+          },
         ],
       },
       {
