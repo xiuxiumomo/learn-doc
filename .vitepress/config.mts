@@ -168,6 +168,9 @@ export default defineConfig({
         collapsed: true,
         items: [
           {
+            text: "底层逻辑", link: "/src/other/english/english-logic.md"
+          },
+          {
             text: "常用语句1", link: "/src/other/english/short-sentense/1.md"
           },
           {
