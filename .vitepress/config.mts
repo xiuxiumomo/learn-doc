@@ -168,13 +168,16 @@ export default defineConfig({
         collapsed: true,
         items: [
           {
-            text: "底层逻辑", link: "/src/other/english/english-logic.md"
+            text: "底层逻辑",
+            link: "/src/other/english/english-logic.md",
           },
           {
-            text: "常用语句1", link: "/src/other/english/short-sentense/1.md"
+            text: "常用语句1",
+            link: "/src/other/english/short-sentense/1.md",
           },
           {
-              text: "常用语句2", link: "/src/other/english/short-sentense/2.md"
+            text: "常用语句2",
+            link: "/src/other/english/short-sentense/2.md",
           },
           { text: "发音", link: "/src/other/english/yin.md" },
           { text: "美文1", link: "/src/other/english/articles/1.md" },
@@ -230,7 +233,11 @@ export default defineConfig({
             text: "chinese",
             link: "/src/other/english/speaking/chinese-people.md",
           },
-            {
+          {
+            text: "quora-1",
+            link: "/src/other/english/speaking/big-life.md",
+          },
+          {
             text: "quora-1",
             link: "/src/other/english/quora/1.md",
           },
