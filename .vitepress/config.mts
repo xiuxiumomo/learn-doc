@@ -234,7 +234,7 @@ export default defineConfig({
             link: "/src/other/english/speaking/chinese-people.md",
           },
           {
-            text: "quora-1",
+            text: "big-life",
             link: "/src/other/english/speaking/big-life.md",
           },
           {
