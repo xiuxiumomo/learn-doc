@@ -237,6 +237,10 @@ export default defineConfig({
             text: "big-life",
             link: "/src/other/english/speaking/big-life.md",
           },
+              {
+            text: "give-advance.md",
+            link: "/src/other/english/speaking/give-advance.md",
+          },
           {
             text: "quora-1",
             link: "/src/other/english/quora/1.md",
