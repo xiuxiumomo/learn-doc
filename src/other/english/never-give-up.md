@@ -1,9 +1,11 @@
 
-## never giveup
+## never give up
 
 ”Years from now, some of them may look back and ask whether they made right choices, whether they’ve made the most opportunities they’ve been given. Together we have the same mission. Over the course of your life, you will find that things are not always fair, you will find things that happened to you are not always warranted.
 
-You have to put your heads down and fight, fight, fight, Never ever ever give up. Don’t give in , don’t back down and never stop doing that you know is right. Nothing worth doing never ever ever came easy. The more righteous `/ˈraɪtʃəs/` you are fighting , the more opposition you will face. 
+You have to put your heads down and fight, fight, fight, Never ever ever give up. Don’t give in , don’t back down and never stop doing that you know is right. 
+
+Nothing worth doing never ever ever came easy. The more righteous `/ˈraɪtʃəs/` you are fighting , the more opposition you will face. 
 
 You have to go into the world and turn your hopes and the dreams into actions.
 
@@ -35,7 +37,7 @@ We  will build a future will we have courage to chase our dreams, no matter what
    
 You will have confidence to speak the hopes in your hearts and express the love that stirs `/stɜːz/` your soul as long as you have pride in your beliefs.
  
-Courage your convictions `/kənˈvɪkʃn/` and faith in God, then you will not fail. As long as America remain true to its values. Loyal to its citizens and devote `致力` to its creator, then our best days are yet to come. 
+Courage your convictions `/kənˈvɪkʃn/` and faith in God, then you will not fail. As long as America remain true to its values. Loyal `/ˈlɔɪəl/` to its citizens and devote  to its creator, then our best days are yet to come. 
   
   
 ——-Donald J Trump—
