@@ -241,7 +241,7 @@ export default defineConfig({
             text: "give-advance.md",
             link: "/src/other/english/speaking/give-advance.md",
           },
-           {
+          {
             text: "never-give-up",
             link: "/src/other/english/speaking/never-give-up.md",
           },
