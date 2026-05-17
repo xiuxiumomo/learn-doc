@@ -1,7 +1,7 @@
-Distinguished and honourable Chancellor, distinguished Pro-Chancellor, Members and Chairman of the Council `/ˈkaʊns(ə)/l`, Acting President and Vice-Chancellor, ladies and gentlemen, friends, students and alumni `/əˈlʌmnaɪ/`
+Distinguished and honourable Chancellor `/ˈtʃænslər/ 校长`, distinguished Pro-Chancellor, Members and Chairman of the Council `/ˈkaʊns(ə)/l 理事会`, Acting President and Vice-Chancellor, ladies and gentlemen, friends, students and alumni `/əˈlʌmnaɪ/`
 尊敬且令人尊敬的校长先生、尊敬的副校长先生、各位成员、理事会主席、代理校长兼副校长先生、女士们、先生们、朋友们、同学们以及校友们：
 
-Good afternoon, I'm extremely honoured and moved and touched by this great marvellous `/ˈmɑːrvələs/` traditional ceremony `/ˈserəmoʊni/`, and thank you very much, Hong Kong University [the University of Hong Kong], for giving me this great trust and honour.
+Good afternoon, I'm extremely honoured and moved and touched by this great marvellous `/ˈmɑːrvələs/绝妙的` traditional ceremony `/ˈserəmoʊni/典礼`, and thank you very much, Hong Kong University [the University of Hong Kong], for giving me this great trust and honour.
 
 You know I've been trying to enter university for many times and I failed three times until I went to university. I never thought in my dreams to become a PhD of Honour. But I did work very hard, I just failed examinations again and again. And my story tells that those people that work very hard but failed again and again: don't give up. Someday, a great university like Hong Kong University is waiting for you.
 
@@ -10,6 +10,10 @@ And Professor Tang and Dr David Mong, I'm very honoured to be with you, and than
 And I would also love to thank Professor Charles , for these great words for me and for our people. And I think, when I was listening there, I was not that good, and I think I got this honour, not because I'm qualified /`ˈkwɑːlɪfaɪd` `具有xx的资格`/ - I will work hard to prove I will be qualified, one day.
 
 And this PhD degree, I don't think it's just an acknowledgement of me, but it's a recognition `/ˌrekəɡˈnɪʃ(ə)n/ 表彰`  of entrepreneurship `/ˌɑːntrəprəˈnɜːrʃɪp/ 企业家精神`, of the spirit  `/ˈspɪrɪt/ 精神` ‘never give up'.
+
+
+
+
 
 I think entrepreneurs are the scientists in the social science. Scientists and social scientists, we have a lot of similarities. We all take risks. We all want innovation.`/ɪnəˈveɪʃ(ə)n/` And scientists know how to do things properly, and business people know how to do things effectively and efficiently.
 
@@ -20,7 +24,7 @@ And business people talk about money. But I think a real businessperson, a real 
 There are so many great cities in the world, but Hong Kong is one of the best cities that I've ever seen. And this is the city I've been here more than (just the second after Hangzhou) my hometown. And of all the great advantages `优势` Hong Kong has, there are three attractions `吸引力` that really attracted me. The inclusiveness, the innovation, and young people.
 
 I love Hong Kong because of Hong Kong's inclusiveness, because the open spirit, it's the open trade, open culture, open policy that has made Hong Kong today. There is no such city, like Hong Kong, in the world. Such a small place, with so many different languages, different colours , there are so many different things, and there are so many similarities.`ˌsɪməˈlærətɪz`
-git add .
+
 Today, young people say, people say, Hong Kong has a lot of problems. Any city has its problems. People say Hong Kong young people have problems. Any young people has problems. The way is how to solve the problems, how to face the problems, how to challenge these problems.
 
 And I have confidence in Hong Kong, Hong Kong will solve these problems. I love Hong Kong young people. When I was young, we saw a lot of Hong Kong movies, and dreamed that one day, I will be in Hong Kong. Hong Kong is so great, I never thought that I could visit Hong Kong, it was just a dream when I was a child. And I never thought about that one day I could study in Hong Kong. Today when I see on the campus `ˈkæmpəs 校园` there are so many young people here studying, I envy `羡慕` them, I respect them, and I hope they will be great. And I wish today was not a doctorate `ˈdɑːktərət 博士` of honour, it's like the day I got the letter of acceptance `əkˈseptəns` of my university, that I could start my new career.
