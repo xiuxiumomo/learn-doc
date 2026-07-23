@@ -1,7 +1,7 @@
 Distinguished and honourable Chancellor `/ˈtʃænslər/ 校长`, distinguished Pro-Chancellor, Members and Chairman of the Council `/ˈkaʊns(ə)/l 理事会`, Acting President and Vice-Chancellor, ladies and gentlemen, friends, students and alumni `/əˈlʌmnaɪ/`
 尊敬且令人尊敬的校长先生、尊敬的副校长先生、各位成员、理事会主席、代理校长兼副校长先生、女士们、先生们、朋友们、同学们以及校友们：
 
-Good afternoon, I'm extremely honoured and moved and touched by this great marvellous `/ˈmɑːrvələs/绝妙的` traditional ceremony `/ˈserəmoʊni/典礼`, and thank you very much, Hong Kong University [the University of Hong Kong], for giving me this great trust and honour.
+Good afternoon, I'm extremely honoured and moved and touched by this great marvellous  traditional ceremon, and thank you very much, Hong Kong University [the University of Hong Kong], for giving me this great trust and honour.
 
 You know I've been trying to enter university for many times and I failed three times until I went to university. I never thought in my dreams to become a PhD of Honour. But I did work very hard, I just failed examinations again and again. And my story tells that those people that work very hard but failed again and again: don't give up. Someday, a great university like Hong Kong University is waiting for you.
 
@@ -10,8 +10,6 @@ And Professor Tang and Dr David Mong, I'm very honoured to be with you, and than
 And I would also love to thank Professor Charles , for these great words for me and for our people. And I think, when I was listening there, I was not that good, and I think I got this honour, not because I'm qualified /`ˈkwɑːlɪfaɪd` `具有xx的资格`/ - I will work hard to prove I will be qualified, one day.
 
 And this PhD degree, I don't think it's just an acknowledgement of me, but it's a recognition `/ˌrekəɡˈnɪʃ(ə)n/ 表彰`  of entrepreneurship `/ˌɑːntrəprəˈnɜːrʃɪp/ 企业家精神`, of the spirit  `/ˈspɪrɪt/ 精神` ‘never give up'.
-
-
 
 
 

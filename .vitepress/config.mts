@@ -19,15 +19,15 @@ export default defineConfig({
     ],
 
     sidebar: [
-      {
-        text: "Web3项目",
-        collapsed: true,
-        items: [
-          { text: "挂机项目", link: "/src/web3/hung.md" },
+      // {
+      //   text: "Web3项目",
+      //   collapsed: true,
+      //   items: [
+      //     { text: "挂机项目", link: "/src/web3/hung.md" },
 
-          { text: "2025-01-22", link: "/src/web3/2025-01-22.md" },
-        ],
-      },
+      //     { text: "2025-01-22", link: "/src/web3/2025-01-22.md" },
+      //   ],
+      // },
 
       {
         text: "javascript",
