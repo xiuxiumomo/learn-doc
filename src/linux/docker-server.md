@@ -394,3 +394,6 @@ docker restart momo-shadowsocks
 
 ```
 
+## docker安装搜盘 
+
+docker run -d --name pansou -p 5001:80 ghcr.io/fish2018/pansou-web
