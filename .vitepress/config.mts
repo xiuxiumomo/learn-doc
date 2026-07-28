@@ -19,16 +19,6 @@ export default defineConfig({
     ],
 
     sidebar: [
-      // {
-      //   text: "Web3项目",
-      //   collapsed: true,
-      //   items: [
-      //     { text: "挂机项目", link: "/src/web3/hung.md" },
-
-      //     { text: "2025-01-22", link: "/src/web3/2025-01-22.md" },
-      //   ],
-      // },
-
       {
         text: "javascript",
         collapsed: true,
@@ -60,7 +50,7 @@ export default defineConfig({
         ],
       },
       {
-        text: "Typescript",
+        text: "typescript",
         collapsed: true,
         items: [
           { text: "简介", link: "/src/typescript/intro" },
@@ -99,7 +89,7 @@ export default defineConfig({
         ],
       },
       {
-        text: "Nodejs",
+        text: "node.js",
 
         collapsed: true,
         items: [{ text: "fs-extra", link: "/src/node/fs-extra" }],
@@ -171,6 +161,7 @@ export default defineConfig({
             text: "底层逻辑",
             link: "/src/other/english/english-logic.md",
           },
+          { text: "发音", link: "/src/other/english/yin.md" },
           {
             text: "常用语句1",
             link: "/src/other/english/short-sentense/1.md",
@@ -179,45 +170,9 @@ export default defineConfig({
             text: "常用语句2",
             link: "/src/other/english/short-sentense/2.md",
           },
-          { text: "发音", link: "/src/other/english/yin.md" },
+
           { text: "美文1", link: "/src/other/english/articles/1.md" },
           { text: "美文2", link: "/src/other/english/articles/2.md" },
-          {
-            text: "新概念-1-127",
-            link: "/src/other/english/articles/enc1/127.md",
-          },
-          {
-            text: "新概念-1-129",
-            link: "/src/other/english/articles/enc1/129.md",
-          },
-          {
-            text: "新概念-1-131",
-            link: "/src/other/english/articles/enc1/131.md",
-          },
-          {
-            text: "新概念-1-133",
-            link: "/src/other/english/articles/enc1/133.md",
-          },
-          {
-            text: "新概念-1-135",
-            link: "/src/other/english/articles/enc1/135.md",
-          },
-          {
-            text: "新概念-1-137",
-            link: "/src/other/english/articles/enc1/137.md",
-          },
-          {
-            text: "新概念-1-139",
-            link: "/src/other/english/articles/enc1/139.md",
-          },
-          {
-            text: "新概念-1-141",
-            link: "/src/other/english/articles/enc1/141.md",
-          },
-          {
-            text: "新概念-1-143",
-            link: "/src/other/english/articles/enc1/143.md",
-          },
         ],
       },
       {
