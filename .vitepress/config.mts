@@ -2,7 +2,7 @@
  * @Author: xiuxiumomo
  * @Date: 2024-10-08 15:44:22
  * @Last Modified by: xiuxiumomo
- * @Last Modified time: 2026-07-28 18:14:23
+ * @Last Modified time: 2026-07-28 18:16:36
  */
 import { defineConfig } from "vitepress";
 
@@ -173,7 +173,7 @@ export default defineConfig({
 
           { text: "美文1", link: "/src/other/english/articles/1.md" },
           { text: "美文2", link: "/src/other/english/articles/2.md" },
-          { text: "美文30", link: "/src/other/english/30articcles.md" },
+          { text: "美文30", link: "/src/other/english/articles-30.md" },
         ],
       },
       {

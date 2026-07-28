@@ -1,35 +1,37 @@
-英语背诵美文30篇
+## 英语背诵美文30篇
+
 目录：
-•第一篇：Youth 青春
-•第二篇： Three Days to See(Excerpts)假如给我三天光明（节选）
-•第三篇：Companionship of Books 以书为伴（节选）
-•第四篇：If I Rest, I Rust 如果我休息，我就会生锈
-•第五篇：Ambition 抱负
-•第六篇：What I have Lived for 我为何而生
-•第七篇：When Love Beckons You 爱的召唤
-•第八篇：The Road to Success 成功之道
-•第九篇：On Meeting the Celebrated 论见名人
-•第十篇：The 50-Percent Theory of Life 生活理论半对半
-•第十一篇：What is Your Recovery Rate? 你的恢复速率是多少？
-•第十二篇：Clear Your Mental Space 清理心灵的空间
-•第十三篇：Be Happy 快乐
-•第十四篇：The Goodness of life 生命的美好
-•第十五篇：Facing the Enemies Within 直面内在的敌人
-•第十六篇：Abundance is a Life Style 富足的生活方式
-•第十七篇：Human Life a Poem 人生如诗
-•第十八篇：Solitude 独处
-•第十九篇：Giving Life Meaning 给生命以意义
-•第二十篇：Relish the Moment 品位现在
-•第二十一篇：The Love of Beauty 爱美
-•第二十二篇：The Happy Door 快乐之门
-•第二十三篇：Born to Win 生而为赢
-•第二十四篇：Work and Pleasure 工作和娱乐
-•第二十五篇：Mirror, Mirror--What do I see镜子,镜子,告诉我
-•第二十六篇：On Motes and Beams 微尘与栋梁
-•第二十七篇：An October Sunrise 十月的日出
-•第二十八篇：To Be or Not to Be 生存还是毁灭
-•第二十九篇：Gettysburg Address 葛底斯堡演说
-•第三十篇：First Inaugural Address(Excerpts) 就职演讲（节选）
+
+- •第一篇：Youth 青春
+- •第二篇： Three Days to See(Excerpts)假如给我三天光明（节选）
+- •第三篇：Companionship of Books 以书为伴（节选）
+- •第四篇：If I Rest, I Rust 如果我休息，我就会生锈
+- •第五篇：Ambition 抱负
+- •第六篇：What I have Lived for 我为何而生
+- •第七篇：When Love Beckons You 爱的召唤
+- •第八篇：The Road to Success 成功之道
+- •第九篇：On Meeting the Celebrated 论见名人
+- •第十篇：The 50-Percent Theory of Life 生活理论半对半
+- •第十一篇：What is Your Recovery Rate? 你的恢复速率是多少？
+- •第十二篇：Clear Your Mental Space 清理心灵的空间
+- •第十三篇：Be Happy 快乐
+- •第十四篇：The Goodness of life 生命的美好
+- •第十五篇：Facing the Enemies Within 直面内在的敌人
+- •第十六篇：Abundance is a Life Style 富足的生活方式
+- •第十七篇：Human Life a Poem 人生如诗
+- •第十八篇：Solitude 独处
+- •第十九篇：Giving Life Meaning 给生命以意义
+- •第二十篇：Relish the Moment 品位现在
+- •第二十一篇：The Love of Beauty 爱美
+- •第二十二篇：The Happy Door 快乐之门
+- •第二十三篇：Born to Win 生而为赢
+- •第二十四篇：Work and Pleasure 工作和娱乐
+- •第二十五篇：Mirror, Mirror--What do I see镜子,镜子,告诉我
+- •第二十六篇：On Motes and Beams 微尘与栋梁
+- •第二十七篇：An October Sunrise 十月的日出
+- •第二十八篇：To Be or Not to Be 生存还是毁灭
+- •第二十九篇：Gettysburg Address 葛底斯堡演说
+- •第三十篇：First Inaugural Address(Excerpts) 就职演讲（节选）
 
 •第一篇：Youth 青春
 Youth
