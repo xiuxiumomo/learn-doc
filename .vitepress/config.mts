@@ -46,7 +46,6 @@ export default defineConfig({
           { text: "ES6-4", link: "/src/javascript/ES6-4" },
           { text: "ES6-5", link: "/src/javascript/ES6-5" },
           { text: "ES6-6", link: "/src/javascript/ES6-6" },
-          { text: "手写常见方法", link: "/src/other/write-js/index.md" },
         ],
       },
       {
@@ -157,71 +156,35 @@ export default defineConfig({
         text: "英语",
         collapsed: true,
         items: [
+          { text: "发音", link: "/src/english/read.md" },
           {
             text: "底层逻辑",
-            link: "/src/other/english/english-logic.md",
-          },
-          { text: "发音", link: "/src/other/english/yin.md" },
-          {
-            text: "常用语句1",
-            link: "/src/other/english/short-sentense/1.md",
+            link: "/src/english/base.md",
           },
           {
-            text: "常用语句2",
-            link: "/src/other/english/short-sentense/2.md",
+            text: "quora",
+            link: "/src/english/quora/index.md",
           },
+          {
+            text: "say-1",
+            link: "/src/english/say/say-1.md",
+          },
+          {
+            text: "say-2",
+            link: "/src/english/say/say-2.md",
+          },
+          {
+            text: "shadow",
+            link: "/src/english/shadow/index.md",
+          },
+        ],
+      },
 
-          { text: "美文1", link: "/src/other/english/articles/1.md" },
-          { text: "美文2", link: "/src/other/english/articles/2.md" },
-          { text: "美文30", link: "/src/other/english/articles-30.md" },
-        ],
-      },
-      {
-        text: "英语阅读",
-        collapsed: true,
-        items: [
-          { text: "阅读1", link: "/src/other/english/reading/1/1.md" },
-          {
-            text: "jack-ma",
-            link: "/src/other/english/speaking/jack-ma-hong-kong.md",
-          },
-          {
-            text: "chinese",
-            link: "/src/other/english/speaking/chinese-people.md",
-          },
-          {
-            text: "big-life",
-            link: "/src/other/english/speaking/big-life.md",
-          },
-          {
-            text: "give-advance.md",
-            link: "/src/other/english/speaking/give-advance.md",
-          },
-          {
-            text: "never-give-up",
-            link: "/src/other/english/speaking/never-give-up.md",
-          },
-          {
-            text: "quora-1",
-            link: "/src/other/english/quora/1.md",
-          },
-        ],
-      },
       {
         text: "其他",
         collapsed: true,
         items: [
-          { text: "a-z记忆法", link: "/src/other/english/a-z.md" },
           { text: "五十音对照", link: "/src/other/japan/my-table.md" },
-          { text: "文案1", link: "/src/other/wenan/woman/1.md" },
-          { text: "文案2", link: "/src/other/wenan/woman/2.md" },
-          { text: "文案3", link: "/src/other/wenan/woman/3.md" },
-          { text: "文案4", link: "/src/other/wenan/woman/4.md" },
-          { text: "文案5", link: "/src/other/wenan/woman/5.md" },
-          { text: "人生文案", link: "/src/other/wenan/rensheng/1.md" },
-          { text: "人生文案", link: "/src/other/wenan/rensheng/2.md" },
-          { text: "英语时态", link: "/src/other/english/times.md" },
-          { text: "date50", link: "/src/other/english/100ls.md" },
           { text: "逻辑错误", link: "/src/other/logic/index.md" },
         ],
       },

@@ -1,7 +1,7 @@
 
 
 
-1. 自我介绍与个人信息（Self-introduction）
+## 自我介绍与个人信息（Self-introduction）
 
 
 ```text
@@ -25,7 +25,7 @@ I have been learning English for two years.
 
 
 
-3. 表达意见与观点（Expressing Opinions）
+## 表达意见与观点（Expressing Opinions）
 
 
 
@@ -51,7 +51,7 @@ From my point of view, technology changes fast.
 ```
 
 
-4. 同意与不同意（Agreeing & Disagreeing）
+##  同意与不同意（Agreeing & Disagreeing）
 ```text
 
 You’re right.
@@ -72,7 +72,7 @@ I’m not sure about that.
 I’m not sure about that. What do you think?
 ```
 
-5. 喜欢与不喜欢（Likes & Dislikes）
+## 喜欢与不喜欢（Likes & Dislikes）
 
 ```text
 I like/love (noun/verb-ing).
@@ -94,7 +94,7 @@ I hate getting up early on weekends.
 
 ```
 
-6. 想要与需要（Wants & Needs）
+## 想要与需要（Wants & Needs）
 ```text
 I want to...
 I want to improve my English speaking.
@@ -115,7 +115,7 @@ Do you want me to...?
 Do you want me to go with you?
 
 ```
-7. 建议与提议（Suggestions & Offers）
+## 建议与提议（Suggestions & Offers）
 
 ```text
 You should...
@@ -136,7 +136,7 @@ It’s a good idea to...
 It’s a good idea to go for a walk.
 ```
 
-1. 询问信息（Asking for Information）
+## 询问信息（Asking for Information）
 ```text
 What is...?
 What is the meaning of this word?
@@ -154,7 +154,8 @@ Can you tell me...?
 Can you tell me how to get there?
 ```
 
-9. 请求与帮助（Requests & Help）
+##  请求与帮助（Requests & Help）
+```text
 
 Can/Could you...?
 Could you speak slower, please?
@@ -170,9 +171,11 @@ I need help with my pronunciation.
 
 Would you mind (verb-ing)?
 Would you mind repeating that?
+```
 
+## 道歉与感谢（Apologies & Thanks）
 
-10. 道歉与感谢（Apologies & Thanks）
+```text
 
 I’m sorry (that/about...).
 I’m sorry I’m late.
@@ -188,10 +191,11 @@ I really appreciate your advice.
 
 You’re welcome. / No problem.
 You’re welcome! Anytime.
+```
 
+## 描述日常生活（Daily Life）
 
-11. 描述日常生活（Daily Life）
-
+```text
 I usually...
 I usually wake up at 7 AM.
 
@@ -206,9 +210,11 @@ I have just finished my homework.
 
 Right now I am (verb-ing).
 Right now I am speaking English.
+```
 
+## 表达情感（Expressing Feelings）
 
-12. 表达情感（Expressing Feelings）
+```text
 
 I feel...
 I feel happy when I speak English well.
@@ -225,8 +231,12 @@ That makes me nervous.
 I’m glad that...
 I’m glad that we can practice together.
 
+```
 
-13. 时间与计划（Time & Plans）
+
+## 时间与计划（Time & Plans）
+
+```text
 
 What time is it?
 What time is it now?
@@ -243,8 +253,12 @@ It’s time to go home.
 How long does it take...?
 How long does it take to learn these patterns?
 
+```
 
-14. 比较与偏好（Comparisons & Preferences）
+
+## 比较与偏好（Comparisons & Preferences）
+
+```text
 
 ... is better than...
 Practicing speaking is better than only reading.
@@ -261,8 +275,11 @@ This is the best way to improve fluency.
 I would rather...
 I would rather speak than just listen.
 
+```
 
-15. 过去经历（Past Experiences）
+## 过去经历（Past Experiences）
+
+```text
 
 I have never...
 I have never been to New York.
@@ -278,9 +295,11 @@ I used to be shy about speaking.
 
 It was...
 It was a great experience.
+```
 
+## 未来与预测（Future & Predictions）
 
-16. 未来与预测（Future & Predictions）
+```text
 
 I will probably...
 I will probably travel next year.
@@ -297,8 +316,10 @@ It might rain tomorrow.
 I’m planning to...
 I’m planning to practice 100 sentences this week.
 
+```
+## 购物与服务（Shopping & Services）
 
-17. 购物与服务（Shopping & Services）
+```text
 
 How much is this?
 How much is this book?
@@ -315,8 +336,10 @@ Can I try this on?
 I’ll take it.
 I’ll take it. Thank you.
 
+```
+## 旅行与方向（Travel & Directions）
 
-18. 旅行与方向（Travel & Directions）
+```text
 
 How do I get to...?
 How do I get to the airport?
@@ -333,8 +356,10 @@ How far is it from here?
 I’m lost.
 I’m lost. Can you help me?
 
+```
+## 工作与学习（Work & Study）
 
-19. 工作与学习（Work & Study）
+```text
 
 What do you do?
 What do you do for a living?
@@ -351,8 +376,11 @@ Let’s meet at 3 PM.
 I have a meeting...
 I have a meeting in the afternoon.
 
+```
 
-20. 结束对话与告别（Ending Conversations）
+## 结束对话与告别（Ending Conversations）
+
+```text
 
 It was nice talking to you.
 It was nice talking to you.
@@ -370,3 +398,5 @@ Have a great day/weekend!
 
 
 Have a great weekend!
+
+```

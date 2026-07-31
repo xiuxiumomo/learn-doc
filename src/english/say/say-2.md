@@ -1,4 +1,6 @@
-21. 澄清与确认理解（Clarifying & Checking Understanding）
+## 澄清与确认理解（Clarifying & Checking Understanding）
+
+```text
 
 Could you repeat that, please?
 
@@ -29,7 +31,11 @@ Is that correct?
 
 You live in San Jose, is that correct?
 
-22. 打断与接话（Interrupting & Responding）
+```
+
+## 打断与接话（Interrupting & Responding）
+
+```text
 
 Sorry to interrupt, but...
 
@@ -60,8 +66,12 @@ Exactly! / Precisely!
 
 Exactly! That’s what I was thinking.
 
-23. 表达不确定与犹豫（Expressing Uncertainty）
+```
 
+## 表达不确定与犹豫（Expressing Uncertainty）
+
+
+```text
 I’m not sure...
 
 
@@ -91,7 +101,11 @@ I’m kind of...
 
 I’m kind of tired today.
 
-24. 给出理由与解释（Giving Reasons & Explanations）
+```
+
+## 给出理由与解释（Giving Reasons & Explanations）
+
+```text
 
 Because... / Since...
 
@@ -122,7 +136,13 @@ For example...
 
 For example, you can use this sentence pattern daily.
 
-25. 描述问题与困难（Describing Problems）
+```
+
+
+
+## 描述问题与困难（Describing Problems）
+
+```text
 
 I have a problem with...
 
@@ -153,7 +173,13 @@ I’m having trouble (verb-ing)...
 
 I’m having trouble remembering new words.
 
-26. 鼓励与安慰（Encouraging & Comforting）
+```
+
+
+
+## 鼓励与安慰（Encouraging & Comforting）
+
+```text
 
 You can do it!
 
@@ -184,7 +210,12 @@ You’re doing great!
 
 Your English is improving — you’re doing great!
 
-27. 谈论习惯与日常（Talking about Habits）
+
+```
+
+## 谈论习惯与日常（Talking about Habits）
+
+```text
 
 I’m used to (verb-ing)...
 
@@ -215,7 +246,11 @@ It’s my habit to...
 
 It’s my habit to review sentences every night.
 
-28. 表达惊讶与反应（Expressing Surprise）
+```
+
+## 表达惊讶与反应（Expressing Surprise）
+
+```text
 
 Really? / No way!
 
@@ -246,7 +281,11 @@ That’s interesting.
 
 That’s interesting. Tell me more.
 
-29. 提出邀请与回应（Invitations & Responses）
+```
+
+## 提出邀请与回应（Invitations & Responses）
+
+```text
 
 Would you like to come...?
 
@@ -276,8 +315,12 @@ Maybe next time.
 
 
 Maybe next time. Thanks for asking.
+```
 
-30. 谈论天气与小聊（Small Talk - Weather）
+## 谈论天气与小聊（Small Talk - Weather）
+
+
+```text
 
 It’s nice weather today, isn’t it?
 
@@ -307,8 +350,11 @@ The weather has been... lately.
 
 
 The weather has been great lately.
+```
 
-31. 更多意见与偏好（More Opinions & Preferences）
+## 更多意见与偏好（More Opinions & Preferences）
+
+```text
 
 I suppose...
 
@@ -339,7 +385,10 @@ I’d rather... than...
 
 I’d rather practice with a partner than alone.
 
-32. 过去与现在对比（Comparing Past & Present）
+```
+## 过去与现在对比（Comparing Past & Present）
+
+```text
 
 I used to..., but now...
 
@@ -370,7 +419,10 @@ It’s getting better/worse...
 
 My fluency is getting better.
 
-33. 未来计划与愿望（Future Plans & Wishes）
+```
+
+## 未来计划与愿望（Future Plans & Wishes）
+```text
 
 I’m thinking of (verb-ing)...
 
@@ -401,8 +453,10 @@ I’m looking forward to...
 
 I’m looking forward to our next chat.
 
-34. 电话与在线沟通（Phone & Online Communication）
+```
 
+## 电话与在线沟通（Phone & Online Communication）
+```text
 Hello, this is... speaking.
 
 
@@ -432,8 +486,11 @@ Let’s continue this over chat.
 
 Let’s continue this over WeChat or email.
 
-35. 工作与职业相关（Work & Career）
+```
 
+## 工作与职业相关（Work & Career）
+
+```text
 What’s your job like?
 
 
@@ -462,8 +519,11 @@ I have a lot on my plate.
 
 
 I have a lot on my plate right now.
+```
 
-36. 食物与餐厅（Food & Dining）
+## 食物与餐厅（Food & Dining）
+
+```text
 
 I’m hungry / thirsty.
 
@@ -494,7 +554,11 @@ I’m full. / That was great.
 
 I’m full. Thanks for the meal.
 
-37. 健康与感觉（Health & Feelings）
+```
+
+## 健康与感觉（Health & Feelings）
+
+```text
 
 I don’t feel well.
 
@@ -524,9 +588,11 @@ Take it easy.
 
 
 Take it easy and rest.
+```
 
-38. 购物与议价（Shopping）
+## 购物与议价（Shopping）
 
+```text
 Do you have anything cheaper?
 
 
@@ -555,8 +621,11 @@ It’s a good deal.
 
 
 This price is a good deal.
+```
 
-39. 更多情感与反应（More Emotions）
+## 更多情感与反应（More Emotions）
+
+```text
 
 I’m so relieved...
 
@@ -587,7 +656,11 @@ I feel like giving up sometimes, but...
 
 I feel like giving up sometimes, but I keep going.
 
-40. 结束与后续（Closing & Follow-up）
+```
+
+## 结束与后续（Closing & Follow-up）
+
+```text
 
 Let’s keep in touch.
 
@@ -617,3 +690,5 @@ Keep up the great work!
 
 
 Keep up the great work with your English!
+
+```

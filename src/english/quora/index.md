@@ -2,7 +2,6 @@
 
 
 I am an 18-year-old Chinese girl. I was born in Jiangsu Province and now, I live in Shanghai, one of the biggest cities in China.
-
 If I could choose, I wouldn’t be a Chinese girl.
 
 In China, girls can’t get what they deserve. We are discriminated in employment cause most people believe that boys are better than girls. I know it’s a global phenomenon, but in China, it’s more serious. We need to give birth to babies, it will take us a long time to recover. But some companies are discomfort about it. So, you can see many Chinese women go back to work even they haven’t recovered.
@@ -13,7 +12,7 @@ In China, we must work very hard to get in a good university. If we failed in th
 Even if you are admitted into a top university, you can’t make sure you’ll graduate smoothly. Not because the policy is tight, but because the system is not reasonable. Your professor can decide a lot. For example, a few days ago, a boy named Tao committed suicide because his professor controlled him mentally, but the university didn’t, and perhaps wouldn’t, do anything.
 Even you graduated, and get a good job, you can hardly purchase a house in first-class cities like Shanghai and Beijing. You need at least 5 million RMB , maybe around a million dollars to buy a small, old house away from CBD. Meanwhile, the average rent is going higher gradually, and maybe your salary could hardly cover the rent.
 
-- And do you know why Chinese users in Quora is so few? Cause there is a wall between China and the outside world. We can’t know what is going on outside directly. What is going on in America? What is going on in the UK? What the hell is gong on? We dont’t know. I did something to cross the wall,but many other users, they can’t. Before I went to college, I knew nothing about quora, instagram, youtube and many other foregin websites. Fortunately, we can login in github freely.
+And do you know why Chinese users in Quora is so few? Cause there is a wall between China and the outside world. We can’t know what is going on outside directly. What is going on in America? What is going on in the UK? What the hell is gong on? We dont’t know. I did something to cross the wall,but many other users, they can’t. Before I went to college, I knew nothing about quora, instagram, youtube and many other foregin websites. Fortunately, we can login in github freely.
   
 
 I believe China can be better,and China must be better.

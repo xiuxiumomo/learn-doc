@@ -1,3 +1,42 @@
+
+## Why is India so much better than China in terms of appreciation and respect for human rights?
+
+- Indeed, India is a perfect country. It has no racial  /ˈreɪʃ(ə)l/ issues; people are not divided into different classes.
+- In India, women do not suffer endless rape and gang rape; people genuinely believe in gender equality.
+- In India, medical care is not a matter of "money talks," and going to the hospital will not empty your wallet.
+- In India, the illiteracy rate is not high. Even if you come from an ordinary background, you will not become illiterate, and the state will cover your tuition up to high school.
+- In India, there is no employment discrimination. If you have outstanding abilities, regardless of your background, you will have a better future.
+- In India, even if you belong to a minority group, no one will attack, loot, or burn you.
+- Oh! Wait a minute, it seems I'm using photos from China！Let me change them.
+
+
+## In China, from the moment you were born, there was a hand pushing you forward. You have no choice!
+
+
+In China, you were born and there were 4 babies crying in the same delivery room as you! Despite the drop in birth rates, more than 10 million children were born in China this year. An average of 30,000 per day!
+
+After you go to school, there are 20-60 students in a class. Your parents tell you over and over again starting at age 3. If you don't get more than 95 points in the test (out of 100 points), you can only be a beggar in the future. Of course, those dozens of other kids heard the same thing from their parents.
+
+You graduate, and for any decent job, there are hundreds or thousands of people competing for you.
+
+You want to be in love, and suddenly there's a bunch of handsomer, taller, more humorous, stronger, piano-playing, cooking, fucking bank employees and doctors! You have to compete with them!
+
+Even more terrifying, her mom asks if you have a million dollar house, luxury car in the city! You might only have $1,000 a month's salary at the time.
+
+You decide to work hard to increase your wealth! Soon you will find that there are a lot of people who arrive at the company earlier and get off work later than you. Of course, your ability is not necessarily stronger than them!
+
+It may be that God, Sakyamuni, and Brahma think you are too pitiful and think you should not be single! Send you a beautiful woman to marry.
+
+After marriage, you often hear her say that whose husband has been promoted again, whose family has bought a new house, whose children have gone to better schools...
+
+Later, you are very happy to have your own children. You tell him viciously that if you don't get A's, you can only become a beggar in the future...
+
+One day, you finally died, turned into a ghost, and found that the cemetery was crowded too!
+
+
+
+## Jack Ma
+
 Distinguished and honourable Chancellor `/ˈtʃænslər/ 校长`, distinguished Pro-Chancellor, Members and Chairman of the Council `/ˈkaʊns(ə)/l 理事会`, Acting President and Vice-Chancellor, ladies and gentlemen, friends, students and alumni `/əˈlʌmnaɪ/`
 尊敬且令人尊敬的校长先生、尊敬的副校长先生、各位成员、理事会主席、代理校长兼副校长先生、女士们、先生们、朋友们、同学们以及校友们：
 
@@ -46,3 +85,49 @@ So this is what we think the world should be focusing on. Not only the IQ, EQ, b
 Thank you so much, and it's my honour to be part of the Hong Kong University.
 
 Thank you.
+
+
+
+
+## never give up
+
+”Years from now, some of them may look back and ask whether they made right choices, whether they’ve made the most opportunities they’ve been given. Together we have the same mission. Over the course of your life, you will find that things are not always fair, you will find things that happened to you are not always warranted.
+
+You have to put your heads down and fight, fight, fight, Never ever ever give up. Don’t give in , don’t back down and never stop doing that you know is right. 
+
+Nothing worth doing never ever ever came easy. The more righteous `/ˈraɪtʃəs/` you are fighting , the more opposition you will face. 
+
+You have to go into the world and turn your hopes and the dreams into actions.
+
+
+America is always the land of dreams, because America is the nation of the true believers. When the pilgrims `/ˈpɪlgrɪmz/` landed at Plymouth `/ˈplɪməθ/` they pray.When the founders wrote the declaration `/ˌdekləˈreɪʃn/` of independence they invoked our creator four times.  Because in  America we don’t worship the government, we worship God! 
+
+
+It is why our currency proudly declares ” In God we trust” and why we proudly proclaim that we are on nation under God. The story of America, the story of adventure that began with deep faith, big dreams and humble beginnings. 
+
+
+
+The next generation of leaders never ever give up. There will be times in your life you want to quit, never quit fighting for what you believe in and for the people who care about you. Carry yourself with dignity `/ˈdɪɡnəti/` and pride. Demand `/dɪˈmænd/` the best from yourself.
+
+
+The more people tell you is not possible that can’t be done, the more you should absolutely determined `/dɪˈtɜːrmɪnd/` to prove `/pruːv/` them wrong. Treat the world ”impossible” as nothing more than motivation. 
+
+
+
+Relish the opportunity to be outsider, the more that a broken system tells you that you are wrong, the more certain you should be that you must keep pushing ahead, you must keep pushing forward.
+
+
+ 
+Always have the courage to beat yourself. America is better when people put their faith in their actions.
+  
+Pray to God and follow his teachings! Today each of you begins a new chapter as well. When your story goes from here, if will be defined by your vision, your perseverance  `/ˌpɜːrsəˈvɪrəns/`毅力  and your grit.
+ 
+
+We  will build a future will we have courage to chase our dreams, no matter what cynics `/ˈsɪnɪks/` `愤世嫉俗者` and doubters `/ˈdaʊtərz/` have to say. 
+   
+You will have confidence to speak the hopes in your hearts and express the love that stirs `/stɜːz/` your soul as long as you have pride in your beliefs.
+ 
+Courage your convictions `/kənˈvɪkʃn/` and faith in God, then you will not fail. As long as America remain true to its values. Loyal `/ˈlɔɪəl/` to its citizens and devote  to its creator, then our best days are yet to come. 
+  
+  
+——-Donald J Trump—
