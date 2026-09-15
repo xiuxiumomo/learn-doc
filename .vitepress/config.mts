@@ -177,6 +177,10 @@ export default defineConfig({
             text: "shadow",
             link: "/src/english/shadow/index.md",
           },
+          {
+            text: "travel",
+             link: "/src/english/travel/1.md",
+          }
         ],
       },
 
