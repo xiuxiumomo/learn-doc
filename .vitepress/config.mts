@@ -123,6 +123,11 @@ export default defineConfig({
         ],
       },
       {
+        text: "C#",
+        collapsed: true,
+        items: [{ text: "c#基础", link: "/src/csharp/base.md" }],
+      },
+      {
         text: "算法",
         collapsed: true,
         items: [
@@ -179,8 +184,8 @@ export default defineConfig({
           },
           {
             text: "travel",
-             link: "/src/english/travel/1.md",
-          }
+            link: "/src/english/travel/1.md",
+          },
         ],
       },
 
