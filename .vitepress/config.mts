@@ -125,7 +125,15 @@ export default defineConfig({
       {
         text: "C#",
         collapsed: true,
-        items: [{ text: "c#基础", link: "/src/csharp/base.md" }],
+        items: [
+          { text: "c#基础", link: "/src/csharp/base.md" },
+          { text: "依赖注入", link: "/src/csharp/什么是依赖注入和服务注册.md" },
+          { text: "泛型", link: "/src/csharp/泛型.md" },
+          { text: "控制器", link: "/src/csharp/ControllerBase.md" },
+          { text: "webapplication", link: "/src/csharp/webapplication.md" },
+          { text: "创建项目", link: "/src/csharp/新建项目.md" },
+          { text: "博客系统", link: "/src/csharp/博客系统.md" },
+        ],
       },
       {
         text: "算法",

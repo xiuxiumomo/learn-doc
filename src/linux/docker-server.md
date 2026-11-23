@@ -397,3 +397,22 @@ docker restart momo-shadowsocks
 ## docker安装搜盘 
 
 docker run -d --name pansou -p 5001:80 ghcr.io/fish2018/pansou-web
+
+## docker安装mssql
+
+先拉取
+```
+docker pull mcr.microsoft.com/mssql/server:2022-latest
+```
+
+
+```shell
+docker run -d \
+  --name mssql2022 \
+  -e ACCEPT_EULA=Y \
+  -e MSSQL_SA_PASSWORD=Lsq_Lsq123 \
+  -p 1433:1433 \
+  -v /mnt/docker/mssql:/var/opt/mssql \
+  mcr.microsoft.com/mssql/server:2022-latest
+
+  ```
